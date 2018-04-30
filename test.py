@@ -128,4 +128,5 @@ for n in cons:
     modelo.addConstr(incumple_n[n] >= 0)
 
 #----------------Optimizar------------------------
+modelo.update()    
 modelo.optimize()

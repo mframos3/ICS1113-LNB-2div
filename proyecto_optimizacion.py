@@ -59,7 +59,7 @@ modelo.setObjective(funcion_objetivo,GRB.MINIMIZE)
 # R1
 for local in equipos:
     for visita in equipos:
-        modelo.addConstr(quicksum(juegan_en_el_slot_t_el_equipo_i_de_local_contra_j_visita[local,visita,fecha] == 1 for fecha in slots_de_partidos))
+        modelo.addConstr(quicksum(juegan_en_el_slot_t_el_equipo_i_de_local_contra_j_visita[local,visita,fecha] for fecha in slots_de_partidos ) == 1)
 
 # R2
 
@@ -91,7 +91,7 @@ for local in equipos:
 
 for local in equipos:
     for visita in equipos:
-        modelo.addConstr(quicksum(juegan_en_el_slot_t_el_equipo_i_de_local_contra_j_visita[local, visita, fecha] + juegan_en_el_slot_t_el_equipo_i_de_local_contra_j_visita[visita, local, fecha] for fecha in list(range(1, 17))))
+        modelo.addConstr(quicksum(juegan_en_el_slot_t_el_equipo_i_de_local_contra_j_visita[local, visita, fecha] + juegan_en_el_slot_t_el_equipo_i_de_local_contra_j_visita[visita, local, fecha] for fecha in list(range(1, 17))) == 1 )
 
 
 
@@ -133,3 +133,8 @@ for local in equipos:
 
 for n in [1,2,3,4]:
     modelo.addConstr(quicksum(se_incumple_la_consideracion_n_para_el_equipo_i_en_el_slot_t[equipo, fecha, n] for equipo in equipos for fecha in slots_de_partidos) == consideraciones_n[n])
+
+
+modelo.setObjective(funcion_objetivo,GRB.MINIMIZE)
+modelo.optimize()
+

@@ -1,0 +1,71 @@
+
+Gurobi 8.0.0 (win64, Python) logging started 04/30/18 00:13:43
+
+Academic license - for non-commercial use only
+Freed default Gurobi environment
+
+Gurobi 8.0.0 (win64, Python) logging started 04/30/18 00:14:01
+
+Academic license - for non-commercial use only
+Freed default Gurobi environment
+
+Gurobi 8.0.0 (win64, Python) logging started 04/30/18 00:14:42
+
+Academic license - for non-commercial use only
+Freed default Gurobi environment
+
+Gurobi 8.0.0 (win64, Python) logging started 04/30/18 00:18:44
+
+Academic license - for non-commercial use only
+Freed default Gurobi environment
+
+Gurobi 8.0.0 (win64, Python) logging started 04/30/18 00:20:52
+
+Academic license - for non-commercial use only
+Freed default Gurobi environment
+
+Gurobi 8.0.0 (win64, Python) logging started 04/30/18 00:22:37
+
+Academic license - for non-commercial use only
+Freed default Gurobi environment
+
+Gurobi 8.0.0 (win64, Python) logging started 04/30/18 00:22:45
+
+Academic license - for non-commercial use only
+Freed default Gurobi environment
+
+Gurobi 8.0.0 (win64, Python) logging started 04/30/18 00:23:03
+
+Academic license - for non-commercial use only
+Freed default Gurobi environment
+
+Gurobi 8.0.0 (win64, Python) logging started 04/30/18 09:13:56
+
+Academic license - for non-commercial use only
+Optimize a model with 1050180 rows, 10244 columns and 8503812 nonzeros
+Variable types: 4 continuous, 10240 integer (10240 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 2e+00]
+  Objective range  [1e+00, 1e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+01]
+Presolve removed 4 rows and 1316 columns
+Presolve time: 1.17s
+
+Explored 0 nodes (0 simplex iterations) in 3.59 seconds
+Thread count was 1 (of 4 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+Freed default Gurobi environment
+
+Gurobi 8.0.0 (win64, Python) logging started 04/30/18 10:09:08
+
+Academic license - for non-commercial use only
+Freed default Gurobi environment
+
+Gurobi 8.0.0 (win64, Python) logging started 04/30/18 10:14:06
+
+Academic license - for non-commercial use only

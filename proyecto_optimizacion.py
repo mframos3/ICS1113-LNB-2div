@@ -50,7 +50,7 @@ for arb in arbitros:
     for i in equipos:
         for j in equipos:
             for fecha in fechas:
-                arbitrar_aijt[arb,i,j,fecha] = modelo.addVar(vtype=GRB.BINARY,name = "w_{}_{}_{}_()".format(arb,i,j,fecha))
+                arbitrar_aijt[arb,i,j,fecha] = modelo.addVar(vtype=GRB.BINARY,name = "w_{}_{}_{}_{}".format(arb,i,j,fecha))
 modelo.update()
 # -----------------------------------------------------------------------------------------------------------------------------------
 # ------------------------------------------------FUNCION OBJETIVO-------------------------------------------------------------------
@@ -98,12 +98,19 @@ for local in equipos:
 
 # -----------------------------------------------------------------------------------------------------------------------------------
 # ------------------------------------------------RESTRICCIONES arbitraje-------------------------------------------------------------------
+#RN
+for local in equipos:
+    for visita in equipos:
+        if local != visita:
+            for fecha in fechas:
+                modelo.addConstr(quicksum(arbitrar_aijt[arb,local,visita,fecha] for arb in arbitros) == partido_ijt[local,visita,fecha])
 
 # R8
 for arb in arbitros:
     for fecha in fechas:
-        modelo.addConstr((quicksum(arbitrar_aijt[arb,local,visita,fecha] for local in equipos for visita in equipos)) <= 1)
-
+        modelo.addConstr(quicksum(arbitrar_aijt[arb,local,visita,fecha] for local in equipos for visita in equipos) <=
+        arbitrar_at[arb,fecha])
+""""        
 # R9
 for local in equipos:
     for fecha in fechas:
@@ -177,6 +184,10 @@ for n in cons:
 # R17 (N.V)
 for n in cons:
     modelo.addConstr(incumple_n[n] >= 0)
-
+"""""
 #----------------Optimizar------------------------
+modelo.reset()
 modelo.optimize()
+for sol in modelo.getVars():
+    if "_a_" in str(sol) and "value 1.0" in str(sol):
+        print(sol)

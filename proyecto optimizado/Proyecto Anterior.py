@@ -2,12 +2,12 @@
 from gurobipy import *
 
 def suman_4(x1,x2,x3,x4,x5,x6,x7,x8): # Sera usada en restriccion 12
-    if x1+x2+x3+x4+x5+x6+x7+x8 == 4:
+    if (x1+x2+x3+x4+x5+x6+x7+x8) == 4:
         return 1
     return 0
 
 def suman_2(x1,x2): # Sera usada en restriccion 13
-    if x1+x2:
+    if x1+x2 == 2:
         return 1
     return 0
 
@@ -158,45 +158,42 @@ for arb in arbitros:
 # ------------------------------------------------RESTRICCIONES consideraciones-------------------------------------------------------------------
 """
 # R12
-modelo.addConstr(quicksum(quicksum(quicksum(quicksum(quicksum(suman_4(partido_ijt[local, visita, fecha1],partido_ijt[visita, local, fecha1],
+modelo.addConstr(quicksum(suman_4(partido_ijt[local, visita, fecha1],partido_ijt[visita, local, fecha1],
                                         partido_ijt[local, equipok, (fecha1 - 1)],partido_ijt[equipok, local, (fecha1 - 1)],
                                         partido_ijt[local, visita, fecha2],partido_ijt[visita, local,
                                         fecha2],partido_ijt[local, equipok, (fecha2 - 1)],
-                                        partido_ijt[equipok, local, (fecha2 - 1)])for fecha2 in range((len(fechas)//2) +2,len(fechas)+1))
-                                        for fecha1 in range((len(fechas)//2 + 2), (len(fechas) + 1))) for visita in equipos)
-                                        for equipok in equipos) for local in equipos)
+                                        partido_ijt[equipok, local, (fecha2 - 1)]) for fecha2 in range((len(fechas)//2)+2,len(fechas)+1)
+                                        for fecha1 in range(2, (len(fechas)//2 + 1)) for visita in equipos
+                                        for equipok in equipos for local in equipos)
                                          == incumple_n[1])
 
 
 
 # R13
-modelo.addConstr(quicksum(quicksum(quicksum(quicksum(suman_2(partido_ijt[local, visita, (fecha - 1)],partido_ijt[local, equipok, fecha])
-                for fecha in range(2, (len(fechas) + 1))) for visita in equipos)for equipok in equipos) for local in equipos)
-                == (incumple_n[2]))
+modelo.addConstr(quicksum(suman_2(partido_ijt[local, visita, (fecha - 1)],partido_ijt[local, equipok, fecha])
+                for fecha in range(2, (len(fechas) + 1)) for visita in equipos for equipok in equipos for local in equipos)
+                == incumple_n[2])
 
 
 # R14
-modelo.addConstr(quicksum(quicksum(quicksum(quicksum(quicksum(suman_2(arbitrar_aijt[arb,local,visita,fecha1],
+modelo.addConstr(quicksum(suman_2(arbitrar_aijt[arb,local,visita,fecha1],
             arbitrar_aijt[arb,visita,local,fecha2])
-            for fecha2 in range((len(fechas)//2 + 1), len(fechas) + 1))
-            for fecha1 in range(1, (len(fechas) // 2 + 1)))
-            for arb in arbitros) for visita in equipos) for local in equipos) == incumple_n[3])
+            for fecha2 in range((len(fechas)//2 + 1), len(fechas) + 1)
+            for fecha1 in range(1, (len(fechas) // 2 + 1))
+            for arb in arbitros for visita in equipos for local in equipos) == incumple_n[3])
 
 
 # R15
-modelo.addConstr(quicksum(quicksum(quicksum(quicksum(total_es_2(total_es_2(quicksum((partido_ijt[local,j,fecha1] + partido_ijt[j,local,fecha1] + arbitrar_aijt[arb,local,j,fecha1]
+modelo.addConstr(quicksum(total_es_2(total_es_2(quicksum((partido_ijt[local,j,fecha1] + partido_ijt[j,local,fecha1] + arbitrar_aijt[arb,local,j,fecha1]
         + arbitrar_aijt[arb,j,local,fecha1]) for j in equipos))
-        + total_es_2(quicksum((partido_ijt[local,l,fecha2] + partido_ijt[l,local,fecha2] + arbitrar_aijt[arb,local,l,fecha2]
-        + arbitrar_aijt[arb,l,local,fecha2]) for l in equipos)))
-        for fecha2 in range(1,fecha1)) for fecha1 in range(2,len(fechas)+1))
-        for arb in arbitros) for local in equipos)  == incumple_n[4])
+        + total_es_2(quicksum(partido_ijt[local,l,fecha2] + partido_ijt[l,local,fecha2] + arbitrar_aijt[arb,local,l,fecha2]
+        + arbitrar_aijt[arb,l,local,fecha2] for l in equipos))) for fecha1 in range(2,len(fechas)+1) for fecha2 in range(1,fecha1)
+        for arb in arbitros for local in equipos)  == incumple_n[4])
 
 
 
 #----------------Optimizar------------------------
-modelo.reset()
-modelo.Params.method = 2
-
+modelo.Params.method = -1
 modelo.optimize()
 """
 for sol in modelo.getVars():

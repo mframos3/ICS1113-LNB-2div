@@ -41836,3 +41836,33 @@ w_h_Estadio Palestino_Club Andino de Los Ángeles_16            1
 w_h_Club Andino de Los Ángeles_CD Quilicura Basket_2            1 
 w_h_Club Andino de Los Ángeles_CD AB Temuco_29            1 
 Freed default Gurobi environment
+
+Gurobi 8.0.0 (win64, Python) logging started 05/06/18 15:49:01
+
+Academic license - for non-commercial use only
+Parameter method unchanged
+   Value: -1  Min: -1  Max: 5  Default: -1
+Optimize a model with 8885 rows, 69124 columns and 169729 nonzeros
+Variable types: 0 continuous, 69124 integer (69120 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 3e+02]
+  Objective range  [1e+00, 1e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 4e+03]
+Presolve removed 635 rows and 4324 columns
+Presolve time: 0.90s
+Presolved: 8250 rows, 64800 columns, 146700 nonzeros
+Variable types: 0 continuous, 64800 integer (64800 binary)
+
+Root simplex log...
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+    6110    8.8000112e+01   8.772850e+02   0.000000e+00      5s
+    9292    8.8000147e+01   3.871425e+02   0.000000e+00     10s
+   12034    8.8000157e+01   9.574204e+01   0.000000e+00     15s
+   14698    8.8000175e+01   2.936284e+01   0.000000e+00     20s
+   17314    8.8000182e+01   1.002309e+01   0.000000e+00     25s
+   19432    8.8000000e+01   0.000000e+00   0.000000e+00     29s
+
+Root relaxation: objective 8.800000e+01, 19432 iterations, 28.13 seconds
+Total elapsed time = 84.86s

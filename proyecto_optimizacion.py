@@ -20,6 +20,7 @@ def total_es_4(x):
         return 1
     return 0
 
+
 # ---------------------------------------  CONJUNTOS ---------------------------------------------------
 # Conjunto de Fechas T
 fechas = list(range(1,31))  # Son 30 fechas
@@ -32,7 +33,7 @@ equipos = equipos_1 + equipos_2 + equipos_3 # Se dividieron en 3 para que sea m�
 # Consideraciones
 cons = list(range(1, 5))
 # Conjunto de Árbitros A
-arbitros = ["a", "b", "c", "d", "e", "f", "g", "h"]
+arbitros = ["a", "b", "c", "d", "e", "f", "g", "h","i" ,"j","k","l","m","n","o","p"]
 # ---------------------------------------------------------------------------------------------------------------
 
 # ---------------------------------------------- PARÁMETROS -----------------------------------------------------
@@ -58,7 +59,7 @@ for fecha in fechas:
             partido_ijt[local,visita,fecha] = modelo.addVar(vtype = GRB.BINARY, name= "x_{}_{}_{}".format(local,visita,fecha))
 # Se añade la variable que lleva el registro de cuantas veces se incumple una consideración
 for i in cons:
-    incumple_n[i] = modelo.addVar(vtype = GRB.INTEGER, name = "y_{}".format(str(i)))
+        incumple_n[i] = modelo.addVar(vtype = GRB.INTEGER, name = "y_{}".format(str(i)))
 
 
 # Se añade la variable que determina qué árbitro arbitra cada partido
@@ -84,6 +85,8 @@ for local in equipos:
     for visita in equipos:
         if local != visita:
             modelo.addConstr(quicksum(partido_ijt[local,visita,fecha] for fecha in fechas) == 1)
+        else:
+            modelo.addConstr(partido_ijt[local,visita,fecha] == 0)
 
 
 # R2
@@ -134,48 +137,24 @@ for arb in arbitros:
         modelo.addConstr(quicksum(arbitrar_aijt[arb,local,visita,fecha] for local in equipos for visita in equipos) <=
         arbitrar_at[arb,fecha])
 
-""""        
-# R9
-for local in equipos:
-    for fecha in fechas:
-        modelo.addConstr((quicksum((arbitrar_aijt[arb,local,visita,fecha] + arbitrar_aijt[arb,visita,local,fecha]) for arb in arbitros for visita in equipos)
-                         + quicksum((partido_ijt[local,visita,fecha] + partido_ijt[visita,local,fecha]) for visita in equipos)) == 2)
-
-# R10
-for arb in arbitros:
-    for local in equipos:
-        for visita in equipos:
-            if local != visita:
-                for fecha in fechas:
-                    modelo.addConstr(arbitrar_aijt[arb,local,visita,fecha] <= partido_ijt[local,visita,fecha])
-
-# R11
-for arb in arbitros:
-    for local in equipos:
-        for visita in equipos:
-            if local != visita:
-                for fecha in fechas:
-                    modelo.addConstr(arbitrar_aijt[arb,local,visita,fecha] <= arbitrar_at[arb,fecha])
 
 
-# -----------------------------------------------------------------------------------------------------------------------------------
-# ------------------------------------------------RESTRICCIONES consideraciones-------------------------------------------------------------------
-"""
 # R12
+
 modelo.addConstr(quicksum(quicksum(quicksum(total_es_4(partido_ijt[i,j,t] + quicksum(partido_ijt[i,k,t-1] +quicksum(partido_ijt[i,j,h] +
                                                         partido_ijt[i,k,h-1] for h in fechas[((len(fechas)//2))+2:])
-                                                                             for k in equipos)) for j in equipos)for t in fechas[2:(len(fechas)//2)+1]) for i in equipos) == 16*14*incumple_n[1])
-
+                                                                             for k in equipos)) for j in equipos)for i in equipos)
+                                                        for t in fechas[2:(len(fechas)//2)+1] ) == 16*16*incumple_n[1])
 
 # R13
 modelo.addConstr(quicksum(quicksum(total_es_2(quicksum(partido_ijt[i,j,t-1] for j in equipos)+quicksum(partido_ijt[i,k,t] for k in equipos))
-                                   for t in fechas[1:])for i in equipos) == 16*incumple_n[2])
+                                   for i in equipos) for t in fechas[1:]) == 16*incumple_n[2])
 
 
 # R14
 modelo.addConstr(quicksum(quicksum(quicksum(total_es_2(arbitrar_aijt[arb,i,j,t] +
-                                 quicksum(arbitrar_aijt[arb,j,i,h] for h in fechas[(len(fechas)//2)+1:])) for t in fechas[:(len(fechas)//2)+1])
-                                   for j in equipos) for i in equipos)== 16*16*incumple_n[3])
+                                 quicksum(arbitrar_aijt[arb,j,i,h] for h in fechas[(len(fechas)//2)+1:])) for i in equipos)
+                                   for j in equipos) for t in fechas[:(len(fechas)//2)+1])== 16*16*incumple_n[3])
 
 
 # R15
@@ -183,8 +162,8 @@ modelo.addConstr(quicksum(quicksum(quicksum(quicksum(total_es_2(total_es_2(quick
                     arbitrar_aijt[arb,local,j,fecha1])for j in equipos))
         + total_es_2(quicksum((partido_ijt[local,l,fecha2] +
         arbitrar_aijt[arb,local,l,fecha2]) for l in equipos)))
-        for fecha2 in range(1,fecha1)) for fecha1 in range(2,len(fechas)+1))
-        for arb in arbitros) for local in equipos)  == 29*16*8*incumple_n[4])
+        for fecha2 in range(1,fecha1)) for local in equipos )
+        for arb in arbitros)/(fecha1-1) for fecha1 in range(2,len(fechas)+1))  == 16*8*incumple_n[4])
 
 
 

@@ -1,17 +1,17 @@
 # coding=utf-8
 from gurobipy import *
 # ---------------------------------------  CONJUNTOS ---------------------------------------------------
-# Conjunto de Equipos
-equipos_1 = ["CD Boston College", "CD Liceo Curicó", "CD Alemán de Concepción", "CD Quilicura Basket", "Estadio Español"]
-equipos_2 = ["CD Brisas", "CD Ceppi", "CD Arturo Prat de San Felipe", "Stadio Italiano", "CD Manquehue"]
-equipos_3 = ["Club Atlético Puerto Varas", "CD AB Temuco", "CD La Unión", "CD Achao", "Estadio Palestino", "Club Andino de Los Ángeles"]
-equipos = ["CD Boston College", "CD Liceo Curicó", "CD Alemán de Concepción", "CD Quilicura Basket"]  # Se utilizaron 4, ya que para un número mayor el resolver el modelo se volvía inviable (tardaba mucho)
+# Conjunto de Equipos y subconjuntos por zona
+equipos_ca = ["CD Boston College", "CD Liceo Curicó", "CD Alemán de Concepción", "CD Quilicura Basket", "Estadio Palestino", "Estadio Español"]
+equipos_cb = ["CD Brisas", "Club Andino de Los Ángeles", "CD Ceppi", "CD Arturo Prat de San Felipe", "Stadio Italiano", "CD Manquehue"]
+equipos_s = ["Club Atlético Puerto Varas", "CD AB Temuco", "CD La Unión", "CD Achao"]
+equipos = equipos_s  # Se resolvieron los partidos para la zona centro a, ya que para un número mayor el resolver el modelo se volvía inviable (tardaba mucho)
 # Conjunto de Fechas
 fechas = list(range(1,(len(equipos)*2) - 1))  # Son 2*(card(equipos) - 1) fechas
 # Consideraciones
 cons = list(range(1, 5))
 # Conjunto de Árbitros
-arbitros = list("abcde")  # Se puede variar (deben ser al menos card(equipos)//2, en esta instancia son 5)
+arbitros = list("abcdefgh")  # Se puede variar (deben ser al menos card(equipos)//2, en esta instancia son 5)
 # ---------------------------------------------------------------------------------------------------------------
 
 # ---------------------------------------------- PARÁMETROS -----------------------------------------------------
@@ -98,21 +98,20 @@ for local in equipos:
 
 # -----------------------------------------------------------------------------------------------------------------------------------
 # ------------------------------------------------RESTRICCIONES ARBITRAJE-------------------------------------------------------------------
+# R8
+for arb in arbitros:
+    for fecha in fechas:
+        modelo.addConstr(quicksum(arbitrar_aijt[arb,local,visita,fecha] for local in equipos for visita in equipos) <=
+        arbitrar_at[arb,fecha])
 
-# R(9,10) (incluye ambas restricciones)
+# R9
 for local in equipos:
     for visita in equipos:
         if local != visita:
             for fecha in fechas:
                 modelo.addConstr(quicksum(arbitrar_aijt[arb,local,visita,fecha] for arb in arbitros) == partido_ijt[local,visita,fecha])
 
-# R(8,11) (incluye ambas restricciones)
-for arb in arbitros:
-    for fecha in fechas:
-        modelo.addConstr(quicksum(arbitrar_aijt[arb,local,visita,fecha] for local in equipos for visita in equipos) <=
-        arbitrar_at[arb,fecha])
-
-# R12 (carry - over)
+# R10 (carry - over)
 for i in equipos:
     for j in equipos:
         if j!=i:
@@ -124,7 +123,7 @@ for i in equipos:
                             partido_ijt[k,i,t-1] + partido_ijt[i,j,h] + partido_ijt[j,i,h] + partido_ijt[i,k,h-1] +
                             partido_ijt[k,i,h-1] - incumple_itn[i,t,1] <= 3)
 
-# R13
+# R11
 for i in equipos:
     for j in equipos:
         if i!=j:
@@ -134,7 +133,7 @@ for i in equipos:
                         modelo.addConstr(partido_ijt[i,j,t-1] + partido_ijt[i,k,t] - 1 <= incumple_itn[i,t,2])
                         modelo.addConstr(partido_ijt[j,i, t-1] + partido_ijt[k,i,t] - 1 <= incumple_itn[i,t,2])
 
-# R14
+# R12
 for arb in arbitros:
     for i in equipos:
         for j in equipos:
@@ -143,7 +142,7 @@ for arb in arbitros:
                     for h in fechas[(len(fechas)//2):]:
                         modelo.addConstr(arbitrar_aijt[arb,i,j,t] + arbitrar_aijt[arb,j,i,h] - 1 <= incumple_itn[i,t,3])
 
-# R15
+# R13
 for arb in arbitros:
     for i in equipos:
         for t in fechas[1:]:
@@ -152,7 +151,7 @@ for arb in arbitros:
                     for j in equipos) + quicksum(partido_ijt[i,l,h] + partido_ijt[l,i,h] + arbitrar_aijt[arb,i,l,h] + arbitrar_aijt[arb,l,i,h]
                     for l in equipos) - incumple_itn[i,t,4] <= 3)
 
-# R16
+# R14
 for n in cons:
     modelo.addConstr(quicksum(incumple_itn[i,t,n] for t in fechas for i in equipos) == incumple_n[n])
 

@@ -3806,3 +3806,931 @@ Parameter SolutionNumber unchanged
    Value: 0  Min: 0  Max: 2000000000  Default: 0
 Out of range for parameter value ObjNumber
 Freed default Gurobi environment
+
+Gurobi 8.0.0 (win64, Python) logging started 05/08/18 18:51:16
+
+Academic license - for non-commercial use only
+Parameter method unchanged
+   Value: -1  Min: -1  Max: 5  Default: -1
+Optimize a model with 1997 rows, 964 columns and 20425 nonzeros
+Variable types: 0 continuous, 964 integer (960 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 2e+00]
+  Objective range  [1e+00, 1e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 3e+00]
+Found heuristic solution: objective 21.0000000
+Presolve removed 161 rows and 256 columns
+Presolve time: 0.08s
+Presolved: 1836 rows, 708 columns, 13296 nonzeros
+Variable types: 0 continuous, 708 integer (708 binary)
+
+Root relaxation: objective 0.000000e+00, 194 iterations, 0.02 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0    0.00000    0   82   21.00000    0.00000   100%     -    0s
+H    0     0                       4.0000000    0.00000   100%     -    0s
+     0     0    0.00000    0   57    4.00000    0.00000   100%     -    0s
+     0     0    0.00000    0   48    4.00000    0.00000   100%     -    0s
+     0     0    0.00000    0   48    4.00000    0.00000   100%     -    0s
+     0     0    0.00000    0   68    4.00000    0.00000   100%     -    0s
+     0     0    0.00000    0   84    4.00000    0.00000   100%     -    0s
+     0     0    0.00000    0   79    4.00000    0.00000   100%     -    0s
+     0     0    0.00000    0   76    4.00000    0.00000   100%     -    0s
+     0     0    0.00000    0   73    4.00000    0.00000   100%     -    1s
+     0     0    0.00000    0   73    4.00000    0.00000   100%     -    1s
+     0     2    0.00000    0   68    4.00000    0.00000   100%     -    1s
+
+Cutting planes:
+  Clique: 1
+  MIR: 1
+  Zero half: 7
+
+Explored 78 nodes (6277 simplex iterations) in 1.72 seconds
+Thread count was 4 (of 4 available processors)
+
+Solution count 2: 4 21 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 4.000000000000e+00, best bound 4.000000000000e+00, gap 0.0000%
+
+    Variable            X 
+-------------------------
+x_CD AB Temuco_CD La Unión_1            1 
+x_CD Achao_Club Atlético Puerto Varas_1            1 
+x_Club Atlético Puerto Varas_CD AB Temuco_2            1 
+x_CD La Unión_CD Achao_2            1 
+x_CD AB Temuco_CD Achao_3            1 
+x_CD La Unión_Club Atlético Puerto Varas_3            1 
+x_Club Atlético Puerto Varas_CD La Unión_4            1 
+x_CD Achao_CD AB Temuco_4            1 
+x_CD AB Temuco_Club Atlético Puerto Varas_5            1 
+x_CD Achao_CD La Unión_5            1 
+x_Club Atlético Puerto Varas_CD Achao_6            1 
+x_CD La Unión_CD AB Temuco_6            1 
+         y_2            4 
+w_a_CD La Unión_CD AB Temuco_6            1 
+w_a_CD Achao_Club Atlético Puerto Varas_1            1 
+w_b_CD AB Temuco_CD La Unión_1            1 
+w_c_Club Atlético Puerto Varas_CD Achao_6            1 
+w_d_CD La Unión_Club Atlético Puerto Varas_3            1 
+w_e_CD AB Temuco_Club Atlético Puerto Varas_5            1 
+w_e_CD La Unión_CD Achao_2            1 
+w_f_CD Achao_CD AB Temuco_4            1 
+w_g_Club Atlético Puerto Varas_CD La Unión_4            1 
+w_g_CD AB Temuco_CD Achao_3            1 
+w_h_Club Atlético Puerto Varas_CD AB Temuco_2            1 
+w_h_CD Achao_CD La Unión_5            1 
+z_CD La Unión_3_2            1 
+z_CD La Unión_5_2            1 
+z_CD Achao_3_2            1 
+z_CD Achao_5_2            1 
+Freed default Gurobi environment
+
+Gurobi 8.0.0 (win64, Python) logging started 05/08/18 18:51:50
+
+Academic license - for non-commercial use only
+Parameter method unchanged
+   Value: -1  Min: -1  Max: 5  Default: -1
+Optimize a model with 1997 rows, 964 columns and 20425 nonzeros
+Variable types: 0 continuous, 964 integer (960 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 2e+00]
+  Objective range  [1e+00, 4e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 3e+00]
+Found heuristic solution: objective 60.0000000
+Presolve removed 161 rows and 256 columns
+Presolve time: 0.13s
+Presolved: 1836 rows, 708 columns, 13296 nonzeros
+Variable types: 0 continuous, 708 integer (708 binary)
+
+Root relaxation: objective 0.000000e+00, 194 iterations, 0.03 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0    0.00000    0   82   60.00000    0.00000   100%     -    0s
+H    0     0                      16.0000000    0.00000   100%     -    0s
+     0     0    0.00000    0   57   16.00000    0.00000   100%     -    0s
+     0     0    0.00000    0   48   16.00000    0.00000   100%     -    0s
+     0     0    0.00000    0   48   16.00000    0.00000   100%     -    0s
+     0     0    0.00000    0   68   16.00000    0.00000   100%     -    0s
+     0     0    0.00000    0   70   16.00000    0.00000   100%     -    1s
+     0     0    0.00000    0   60   16.00000    0.00000   100%     -    1s
+     0     0    0.00000    0   78   16.00000    0.00000   100%     -    1s
+     0     0    0.00000    0   82   16.00000    0.00000   100%     -    1s
+     0     0    0.00000    0   71   16.00000    0.00000   100%     -    1s
+     0     0    0.00000    0   71   16.00000    0.00000   100%     -    1s
+     0     2    0.00000    0   71   16.00000    0.00000   100%     -    1s
+
+Cutting planes:
+  Clique: 2
+  Zero half: 1
+
+Explored 105 nodes (6042 simplex iterations) in 1.86 seconds
+Thread count was 4 (of 4 available processors)
+
+Solution count 2: 16 60 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 1.600000000000e+01, best bound 1.600000000000e+01, gap 0.0000%
+
+    Variable            X 
+-------------------------
+x_CD AB Temuco_CD La Unión_1            1 
+x_CD Achao_Club Atlético Puerto Varas_1            1 
+x_Club Atlético Puerto Varas_CD AB Temuco_2            1 
+x_CD La Unión_CD Achao_2            1 
+x_CD AB Temuco_CD Achao_3            1 
+x_CD La Unión_Club Atlético Puerto Varas_3            1 
+x_Club Atlético Puerto Varas_CD La Unión_4            1 
+x_CD Achao_CD AB Temuco_4            1 
+x_CD AB Temuco_Club Atlético Puerto Varas_5            1 
+x_CD Achao_CD La Unión_5            1 
+x_Club Atlético Puerto Varas_CD Achao_6            1 
+x_CD La Unión_CD AB Temuco_6            1 
+         y_2            4 
+w_a_CD La Unión_CD AB Temuco_6            1 
+w_a_CD Achao_Club Atlético Puerto Varas_1            1 
+w_b_CD AB Temuco_CD La Unión_1            1 
+w_c_Club Atlético Puerto Varas_CD Achao_6            1 
+w_d_CD La Unión_Club Atlético Puerto Varas_3            1 
+w_e_CD AB Temuco_Club Atlético Puerto Varas_5            1 
+w_e_CD La Unión_CD Achao_2            1 
+w_f_CD Achao_CD AB Temuco_4            1 
+w_g_Club Atlético Puerto Varas_CD La Unión_4            1 
+w_g_CD AB Temuco_CD Achao_3            1 
+w_h_Club Atlético Puerto Varas_CD AB Temuco_2            1 
+w_h_CD Achao_CD La Unión_5            1 
+z_CD La Unión_3_2            1 
+z_CD La Unión_5_2            1 
+z_CD Achao_3_2            1 
+z_CD Achao_5_2            1 
+Freed default Gurobi environment
+
+Gurobi 8.0.0 (win64, Python) logging started 05/08/18 18:52:29
+
+Academic license - for non-commercial use only
+Parameter method unchanged
+   Value: -1  Min: -1  Max: 5  Default: -1
+Optimize a model with 1997 rows, 964 columns and 20425 nonzeros
+Variable types: 0 continuous, 964 integer (960 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 2e+00]
+  Objective range  [1e+00, 1e+03]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 3e+00]
+Found heuristic solution: objective 13008.000000
+Presolve removed 161 rows and 256 columns
+Presolve time: 0.09s
+Presolved: 1836 rows, 708 columns, 13296 nonzeros
+Variable types: 0 continuous, 708 integer (708 binary)
+
+Root relaxation: objective 0.000000e+00, 194 iterations, 0.03 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0    0.00000    0   82 13008.0000    0.00000   100%     -    0s
+H    0     0                    4000.0000000    0.00000   100%     -    0s
+     0     0    0.00000    0   57 4000.00000    0.00000   100%     -    0s
+     0     0    0.00000    0   48 4000.00000    0.00000   100%     -    0s
+     0     0    0.00000    0   48 4000.00000    0.00000   100%     -    0s
+     0     0    0.00000    0   68 4000.00000    0.00000   100%     -    0s
+     0     0    0.00000    0   70 4000.00000    0.00000   100%     -    0s
+     0     0    0.00000    0   60 4000.00000    0.00000   100%     -    0s
+     0     0    0.00000    0   78 4000.00000    0.00000   100%     -    0s
+     0     0    0.00000    0   82 4000.00000    0.00000   100%     -    0s
+     0     0    0.00000    0   82 4000.00000    0.00000   100%     -    0s
+     0     0    0.00000    0   82 4000.00000    0.00000   100%     -    0s
+     0     2    0.00000    0   80 4000.00000    0.00000   100%     -    1s
+
+Cutting planes:
+  Clique: 1
+  MIR: 1
+  Zero half: 9
+
+Explored 94 nodes (6097 simplex iterations) in 1.36 seconds
+Thread count was 4 (of 4 available processors)
+
+Solution count 2: 4000 13008 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 4.000000000000e+03, best bound 4.000000000000e+03, gap 0.0000%
+
+    Variable            X 
+-------------------------
+x_CD AB Temuco_CD La Unión_1            1 
+x_CD Achao_Club Atlético Puerto Varas_1            1 
+x_Club Atlético Puerto Varas_CD AB Temuco_2            1 
+x_CD La Unión_CD Achao_2            1 
+x_CD AB Temuco_CD Achao_3            1 
+x_CD La Unión_Club Atlético Puerto Varas_3            1 
+x_Club Atlético Puerto Varas_CD La Unión_4            1 
+x_CD Achao_CD AB Temuco_4            1 
+x_CD AB Temuco_Club Atlético Puerto Varas_5            1 
+x_CD Achao_CD La Unión_5            1 
+x_Club Atlético Puerto Varas_CD Achao_6            1 
+x_CD La Unión_CD AB Temuco_6            1 
+         y_2            4 
+w_a_CD La Unión_CD AB Temuco_6            1 
+w_a_CD Achao_Club Atlético Puerto Varas_1            1 
+w_b_CD AB Temuco_CD La Unión_1            1 
+w_c_Club Atlético Puerto Varas_CD Achao_6            1 
+w_d_CD La Unión_Club Atlético Puerto Varas_3            1 
+w_e_CD AB Temuco_Club Atlético Puerto Varas_5            1 
+w_e_CD La Unión_CD Achao_2            1 
+w_f_CD Achao_CD AB Temuco_4            1 
+w_g_Club Atlético Puerto Varas_CD La Unión_4            1 
+w_g_CD AB Temuco_CD Achao_3            1 
+w_h_Club Atlético Puerto Varas_CD AB Temuco_2            1 
+w_h_CD Achao_CD La Unión_5            1 
+z_CD La Unión_3_2            1 
+z_CD La Unión_5_2            1 
+z_CD Achao_3_2            1 
+z_CD Achao_5_2            1 
+Freed default Gurobi environment
+
+Gurobi 8.0.0 (win64, Python) logging started 05/08/18 18:53:03
+
+Academic license - for non-commercial use only
+Parameter method unchanged
+   Value: -1  Min: -1  Max: 5  Default: -1
+Optimize a model with 1997 rows, 964 columns and 20425 nonzeros
+Variable types: 0 continuous, 964 integer (960 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 2e+00]
+  Objective range  [1e+00, 2e+01]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 3e+00]
+Found heuristic solution: objective -43.0000000
+Presolve removed 257 rows and 264 columns
+Presolve time: 0.13s
+Presolved: 1740 rows, 700 columns, 12432 nonzeros
+Found heuristic solution: objective -353.0000000
+Variable types: 0 continuous, 700 integer (700 binary)
+
+Root relaxation: objective -3.600000e+02, 155 iterations, 0.02 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0 -360.00000    0   78 -353.00000 -360.00000  1.98%     -    0s
+H    0     0                    -356.0000000 -360.00000  1.12%     -    0s
+     0     0 -360.00000    0   70 -356.00000 -360.00000  1.12%     -    0s
+     0     0 -360.00000    0   70 -356.00000 -360.00000  1.12%     -    0s
+     0     0 -360.00000    0   77 -356.00000 -360.00000  1.12%     -    0s
+     0     0 -360.00000    0   81 -356.00000 -360.00000  1.12%     -    0s
+     0     0 -360.00000    0   64 -356.00000 -360.00000  1.12%     -    0s
+     0     0 -360.00000    0   78 -356.00000 -360.00000  1.12%     -    0s
+     0     0 -360.00000    0   66 -356.00000 -360.00000  1.12%     -    0s
+     0     0 -360.00000    0   48 -356.00000 -360.00000  1.12%     -    1s
+     0     0 -360.00000    0   78 -356.00000 -360.00000  1.12%     -    1s
+     0     0 -360.00000    0   78 -356.00000 -360.00000  1.12%     -    1s
+     0     0 -360.00000    0   74 -356.00000 -360.00000  1.12%     -    1s
+     0     0 -360.00000    0   74 -356.00000 -360.00000  1.12%     -    1s
+     0     2 -360.00000    0   74 -356.00000 -360.00000  1.12%     -    1s
+
+Cutting planes:
+  Clique: 2
+  MIR: 3
+  Zero half: 21
+
+Explored 48 nodes (5229 simplex iterations) in 1.81 seconds
+Thread count was 4 (of 4 available processors)
+
+Solution count 3: -356 -353 -343 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective -3.560000000000e+02, best bound -3.560000000000e+02, gap 0.0000%
+
+    Variable            X 
+-------------------------
+x_Club Atlético Puerto Varas_CD AB Temuco_1            1 
+x_CD La Unión_CD Achao_1            1 
+x_CD AB Temuco_CD La Unión_2            1 
+x_CD Achao_Club Atlético Puerto Varas_2            1 
+x_CD AB Temuco_CD Achao_3            1 
+x_CD La Unión_Club Atlético Puerto Varas_3            1 
+x_Club Atlético Puerto Varas_CD La Unión_4            1 
+x_CD Achao_CD AB Temuco_4            1 
+x_Club Atlético Puerto Varas_CD Achao_5            1 
+x_CD La Unión_CD AB Temuco_5            1 
+x_CD AB Temuco_Club Atlético Puerto Varas_6            1 
+x_CD Achao_CD La Unión_6            1 
+         y_1           24 
+         y_2            4 
+w_a_Club Atlético Puerto Varas_CD Achao_5            1 
+w_a_CD AB Temuco_CD La Unión_2            1 
+w_b_CD Achao_CD La Unión_6            1 
+w_c_Club Atlético Puerto Varas_CD AB Temuco_1            1 
+w_d_CD Achao_Club Atlético Puerto Varas_2            1 
+w_e_Club Atlético Puerto Varas_CD La Unión_4            1 
+w_e_CD AB Temuco_CD Achao_3            1 
+w_f_CD La Unión_CD AB Temuco_5            1 
+w_g_CD AB Temuco_Club Atlético Puerto Varas_6            1 
+w_g_CD La Unión_CD Achao_1            1 
+w_h_CD La Unión_Club Atlético Puerto Varas_3            1 
+w_h_CD Achao_CD AB Temuco_4            1 
+z_Club Atlético Puerto Varas_1_1            1 
+z_Club Atlético Puerto Varas_2_1            1 
+z_Club Atlético Puerto Varas_3_1            1 
+z_Club Atlético Puerto Varas_3_2            1 
+z_Club Atlético Puerto Varas_4_1            1 
+z_Club Atlético Puerto Varas_5_1            1 
+z_Club Atlético Puerto Varas_5_2            1 
+z_Club Atlético Puerto Varas_6_1            1 
+z_CD AB Temuco_1_1            1 
+z_CD AB Temuco_2_1            1 
+z_CD AB Temuco_3_1            1 
+z_CD AB Temuco_3_2            1 
+z_CD AB Temuco_4_1            1 
+z_CD AB Temuco_5_1            1 
+z_CD AB Temuco_5_2            1 
+z_CD AB Temuco_6_1            1 
+z_CD La Unión_1_1            1 
+z_CD La Unión_2_1            1 
+z_CD La Unión_3_1            1 
+z_CD La Unión_4_1            1 
+z_CD La Unión_5_1            1 
+z_CD La Unión_6_1            1 
+z_CD Achao_1_1            1 
+z_CD Achao_2_1            1 
+z_CD Achao_3_1            1 
+z_CD Achao_4_1            1 
+z_CD Achao_5_1            1 
+z_CD Achao_6_1            1 
+Freed default Gurobi environment
+
+Gurobi 8.0.0 (win64, Python) logging started 05/08/18 18:55:09
+
+Academic license - for non-commercial use only
+Parameter method unchanged
+   Value: -1  Min: -1  Max: 5  Default: -1
+Optimize a model with 1997 rows, 964 columns and 20425 nonzeros
+Variable types: 0 continuous, 964 integer (960 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 2e+00]
+  Objective range  [1e+00, 1e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 3e+00]
+Found heuristic solution: objective 13.0000000
+Presolve removed 257 rows and 264 columns
+Presolve time: 0.08s
+Presolved: 1740 rows, 700 columns, 12432 nonzeros
+Found heuristic solution: objective -17.0000000
+Variable types: 0 continuous, 700 integer (700 binary)
+
+Root relaxation: objective -2.400000e+01, 155 iterations, 0.02 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0  -24.00000    0   78  -17.00000  -24.00000  41.2%     -    0s
+H    0     0                     -20.0000000  -24.00000  20.0%     -    0s
+     0     0  -24.00000    0   70  -20.00000  -24.00000  20.0%     -    0s
+     0     0  -24.00000    0   70  -20.00000  -24.00000  20.0%     -    0s
+     0     0  -24.00000    0   77  -20.00000  -24.00000  20.0%     -    0s
+     0     0  -24.00000    0   81  -20.00000  -24.00000  20.0%     -    0s
+     0     0  -24.00000    0   64  -20.00000  -24.00000  20.0%     -    0s
+     0     0  -24.00000    0   78  -20.00000  -24.00000  20.0%     -    0s
+     0     0  -24.00000    0   66  -20.00000  -24.00000  20.0%     -    0s
+     0     0  -24.00000    0   48  -20.00000  -24.00000  20.0%     -    0s
+     0     0  -24.00000    0   78  -20.00000  -24.00000  20.0%     -    0s
+     0     0  -24.00000    0   78  -20.00000  -24.00000  20.0%     -    0s
+     0     0  -24.00000    0   74  -20.00000  -24.00000  20.0%     -    0s
+     0     0  -24.00000    0   74  -20.00000  -24.00000  20.0%     -    0s
+     0     2  -24.00000    0   74  -20.00000  -24.00000  20.0%     -    0s
+
+Cutting planes:
+  Clique: 2
+  MIR: 3
+  Zero half: 21
+
+Explored 48 nodes (5229 simplex iterations) in 1.14 seconds
+Thread count was 4 (of 4 available processors)
+
+Solution count 3: -20 -17 -7 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective -2.000000000000e+01, best bound -2.000000000000e+01, gap 0.0000%
+
+    Variable            X 
+-------------------------
+x_Club Atlético Puerto Varas_CD AB Temuco_1            1 
+x_CD La Unión_CD Achao_1            1 
+x_CD AB Temuco_CD La Unión_2            1 
+x_CD Achao_Club Atlético Puerto Varas_2            1 
+x_CD AB Temuco_CD Achao_3            1 
+x_CD La Unión_Club Atlético Puerto Varas_3            1 
+x_Club Atlético Puerto Varas_CD La Unión_4            1 
+x_CD Achao_CD AB Temuco_4            1 
+x_Club Atlético Puerto Varas_CD Achao_5            1 
+x_CD La Unión_CD AB Temuco_5            1 
+x_CD AB Temuco_Club Atlético Puerto Varas_6            1 
+x_CD Achao_CD La Unión_6            1 
+         y_1           24 
+         y_2            4 
+w_a_Club Atlético Puerto Varas_CD Achao_5            1 
+w_a_CD AB Temuco_CD La Unión_2            1 
+w_b_CD Achao_CD La Unión_6            1 
+w_c_Club Atlético Puerto Varas_CD AB Temuco_1            1 
+w_d_CD Achao_Club Atlético Puerto Varas_2            1 
+w_e_Club Atlético Puerto Varas_CD La Unión_4            1 
+w_e_CD AB Temuco_CD Achao_3            1 
+w_f_CD La Unión_CD AB Temuco_5            1 
+w_g_CD AB Temuco_Club Atlético Puerto Varas_6            1 
+w_g_CD La Unión_CD Achao_1            1 
+w_h_CD La Unión_Club Atlético Puerto Varas_3            1 
+w_h_CD Achao_CD AB Temuco_4            1 
+z_Club Atlético Puerto Varas_1_1            1 
+z_Club Atlético Puerto Varas_2_1            1 
+z_Club Atlético Puerto Varas_3_1            1 
+z_Club Atlético Puerto Varas_3_2            1 
+z_Club Atlético Puerto Varas_4_1            1 
+z_Club Atlético Puerto Varas_5_1            1 
+z_Club Atlético Puerto Varas_5_2            1 
+z_Club Atlético Puerto Varas_6_1            1 
+z_CD AB Temuco_1_1            1 
+z_CD AB Temuco_2_1            1 
+z_CD AB Temuco_3_1            1 
+z_CD AB Temuco_3_2            1 
+z_CD AB Temuco_4_1            1 
+z_CD AB Temuco_5_1            1 
+z_CD AB Temuco_5_2            1 
+z_CD AB Temuco_6_1            1 
+z_CD La Unión_1_1            1 
+z_CD La Unión_2_1            1 
+z_CD La Unión_3_1            1 
+z_CD La Unión_4_1            1 
+z_CD La Unión_5_1            1 
+z_CD La Unión_6_1            1 
+z_CD Achao_1_1            1 
+z_CD Achao_2_1            1 
+z_CD Achao_3_1            1 
+z_CD Achao_4_1            1 
+z_CD Achao_5_1            1 
+z_CD Achao_6_1            1 
+Freed default Gurobi environment
+
+Gurobi 8.0.0 (win64, Python) logging started 05/08/18 18:57:52
+
+Academic license - for non-commercial use only
+Parameter method unchanged
+   Value: -1  Min: -1  Max: 5  Default: -1
+Optimize a model with 1997 rows, 964 columns and 20425 nonzeros
+Variable types: 0 continuous, 964 integer (960 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 2e+00]
+  Objective range  [1e+00, 1e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 3e+00]
+Found heuristic solution: objective 13.0000000
+Presolve removed 257 rows and 264 columns
+Presolve time: 0.08s
+Presolved: 1740 rows, 700 columns, 12432 nonzeros
+Found heuristic solution: objective -17.0000000
+Variable types: 0 continuous, 700 integer (700 binary)
+
+Root relaxation: objective -2.400000e+01, 155 iterations, 0.00 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0  -24.00000    0   78  -17.00000  -24.00000  41.2%     -    0s
+H    0     0                     -20.0000000  -24.00000  20.0%     -    0s
+     0     0  -24.00000    0   70  -20.00000  -24.00000  20.0%     -    0s
+     0     0  -24.00000    0   70  -20.00000  -24.00000  20.0%     -    0s
+     0     0  -24.00000    0   77  -20.00000  -24.00000  20.0%     -    0s
+     0     0  -24.00000    0   81  -20.00000  -24.00000  20.0%     -    0s
+     0     0  -24.00000    0   64  -20.00000  -24.00000  20.0%     -    0s
+     0     0  -24.00000    0   78  -20.00000  -24.00000  20.0%     -    0s
+     0     0  -24.00000    0   66  -20.00000  -24.00000  20.0%     -    0s
+     0     0  -24.00000    0   48  -20.00000  -24.00000  20.0%     -    0s
+     0     0  -24.00000    0   78  -20.00000  -24.00000  20.0%     -    0s
+     0     0  -24.00000    0   78  -20.00000  -24.00000  20.0%     -    0s
+     0     0  -24.00000    0   74  -20.00000  -24.00000  20.0%     -    0s
+     0     0  -24.00000    0   74  -20.00000  -24.00000  20.0%     -    0s
+     0     2  -24.00000    0   74  -20.00000  -24.00000  20.0%     -    0s
+
+Cutting planes:
+  Clique: 2
+  MIR: 3
+  Zero half: 21
+
+Explored 48 nodes (5229 simplex iterations) in 1.16 seconds
+Thread count was 4 (of 4 available processors)
+
+Solution count 3: -20 -17 -7 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective -2.000000000000e+01, best bound -2.000000000000e+01, gap 0.0000%
+
+    Variable            X 
+-------------------------
+x_Club Atlético Puerto Varas_CD AB Temuco_1            1 
+x_CD La Unión_CD Achao_1            1 
+x_CD AB Temuco_CD La Unión_2            1 
+x_CD Achao_Club Atlético Puerto Varas_2            1 
+x_CD AB Temuco_CD Achao_3            1 
+x_CD La Unión_Club Atlético Puerto Varas_3            1 
+x_Club Atlético Puerto Varas_CD La Unión_4            1 
+x_CD Achao_CD AB Temuco_4            1 
+x_Club Atlético Puerto Varas_CD Achao_5            1 
+x_CD La Unión_CD AB Temuco_5            1 
+x_CD AB Temuco_Club Atlético Puerto Varas_6            1 
+x_CD Achao_CD La Unión_6            1 
+         y_1           24 
+         y_2            4 
+w_a_Club Atlético Puerto Varas_CD Achao_5            1 
+w_a_CD AB Temuco_CD La Unión_2            1 
+w_b_CD Achao_CD La Unión_6            1 
+w_c_Club Atlético Puerto Varas_CD AB Temuco_1            1 
+w_d_CD Achao_Club Atlético Puerto Varas_2            1 
+w_e_Club Atlético Puerto Varas_CD La Unión_4            1 
+w_e_CD AB Temuco_CD Achao_3            1 
+w_f_CD La Unión_CD AB Temuco_5            1 
+w_g_CD AB Temuco_Club Atlético Puerto Varas_6            1 
+w_g_CD La Unión_CD Achao_1            1 
+w_h_CD La Unión_Club Atlético Puerto Varas_3            1 
+w_h_CD Achao_CD AB Temuco_4            1 
+z_Club Atlético Puerto Varas_1_1            1 
+z_Club Atlético Puerto Varas_2_1            1 
+z_Club Atlético Puerto Varas_3_1            1 
+z_Club Atlético Puerto Varas_3_2            1 
+z_Club Atlético Puerto Varas_4_1            1 
+z_Club Atlético Puerto Varas_5_1            1 
+z_Club Atlético Puerto Varas_5_2            1 
+z_Club Atlético Puerto Varas_6_1            1 
+z_CD AB Temuco_1_1            1 
+z_CD AB Temuco_2_1            1 
+z_CD AB Temuco_3_1            1 
+z_CD AB Temuco_3_2            1 
+z_CD AB Temuco_4_1            1 
+z_CD AB Temuco_5_1            1 
+z_CD AB Temuco_5_2            1 
+z_CD AB Temuco_6_1            1 
+z_CD La Unión_1_1            1 
+z_CD La Unión_2_1            1 
+z_CD La Unión_3_1            1 
+z_CD La Unión_4_1            1 
+z_CD La Unión_5_1            1 
+z_CD La Unión_6_1            1 
+z_CD Achao_1_1            1 
+z_CD Achao_2_1            1 
+z_CD Achao_3_1            1 
+z_CD Achao_4_1            1 
+z_CD Achao_5_1            1 
+z_CD Achao_6_1            1 
+Freed default Gurobi environment
+
+Gurobi 8.0.0 (win64, Python) logging started 05/08/18 18:58:57
+
+Academic license - for non-commercial use only
+Parameter method unchanged
+   Value: -1  Min: -1  Max: 5  Default: -1
+Optimize a model with 1997 rows, 964 columns and 20425 nonzeros
+Variable types: 0 continuous, 964 integer (960 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 2e+00]
+  Objective range  [1e+00, 1e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 3e+00]
+Found heuristic solution: objective 13.0000000
+Presolve removed 257 rows and 264 columns
+Presolve time: 0.08s
+Presolved: 1740 rows, 700 columns, 12432 nonzeros
+Found heuristic solution: objective -17.0000000
+Variable types: 0 continuous, 700 integer (700 binary)
+
+Root relaxation: objective -2.400000e+01, 155 iterations, 0.02 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0  -24.00000    0   78  -17.00000  -24.00000  41.2%     -    0s
+H    0     0                     -20.0000000  -24.00000  20.0%     -    0s
+     0     0  -24.00000    0   70  -20.00000  -24.00000  20.0%     -    0s
+     0     0  -24.00000    0   70  -20.00000  -24.00000  20.0%     -    0s
+     0     0  -24.00000    0   77  -20.00000  -24.00000  20.0%     -    0s
+     0     0  -24.00000    0   81  -20.00000  -24.00000  20.0%     -    0s
+     0     0  -24.00000    0   64  -20.00000  -24.00000  20.0%     -    0s
+     0     0  -24.00000    0   78  -20.00000  -24.00000  20.0%     -    0s
+     0     0  -24.00000    0   66  -20.00000  -24.00000  20.0%     -    0s
+     0     0  -24.00000    0   48  -20.00000  -24.00000  20.0%     -    0s
+     0     0  -24.00000    0   78  -20.00000  -24.00000  20.0%     -    0s
+     0     0  -24.00000    0   78  -20.00000  -24.00000  20.0%     -    0s
+     0     0  -24.00000    0   74  -20.00000  -24.00000  20.0%     -    0s
+     0     0  -24.00000    0   74  -20.00000  -24.00000  20.0%     -    0s
+     0     2  -24.00000    0   74  -20.00000  -24.00000  20.0%     -    1s
+
+Cutting planes:
+  Clique: 2
+  MIR: 3
+  Zero half: 21
+
+Explored 48 nodes (5229 simplex iterations) in 1.27 seconds
+Thread count was 4 (of 4 available processors)
+
+Solution count 3: -20 -17 -7 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective -2.000000000000e+01, best bound -2.000000000000e+01, gap 0.0000%
+
+    Variable            X 
+-------------------------
+x_Club Atlético Puerto Varas_CD AB Temuco_1            1 
+x_CD La Unión_CD Achao_1            1 
+x_CD AB Temuco_CD La Unión_2            1 
+x_CD Achao_Club Atlético Puerto Varas_2            1 
+x_CD AB Temuco_CD Achao_3            1 
+x_CD La Unión_Club Atlético Puerto Varas_3            1 
+x_Club Atlético Puerto Varas_CD La Unión_4            1 
+x_CD Achao_CD AB Temuco_4            1 
+x_Club Atlético Puerto Varas_CD Achao_5            1 
+x_CD La Unión_CD AB Temuco_5            1 
+x_CD AB Temuco_Club Atlético Puerto Varas_6            1 
+x_CD Achao_CD La Unión_6            1 
+         y_1           24 
+         y_2            4 
+w_a_Club Atlético Puerto Varas_CD Achao_5            1 
+w_a_CD AB Temuco_CD La Unión_2            1 
+w_b_CD Achao_CD La Unión_6            1 
+w_c_Club Atlético Puerto Varas_CD AB Temuco_1            1 
+w_d_CD Achao_Club Atlético Puerto Varas_2            1 
+w_e_Club Atlético Puerto Varas_CD La Unión_4            1 
+w_e_CD AB Temuco_CD Achao_3            1 
+w_f_CD La Unión_CD AB Temuco_5            1 
+w_g_CD AB Temuco_Club Atlético Puerto Varas_6            1 
+w_g_CD La Unión_CD Achao_1            1 
+w_h_CD La Unión_Club Atlético Puerto Varas_3            1 
+w_h_CD Achao_CD AB Temuco_4            1 
+z_Club Atlético Puerto Varas_1_1            1 
+z_Club Atlético Puerto Varas_2_1            1 
+z_Club Atlético Puerto Varas_3_1            1 
+z_Club Atlético Puerto Varas_3_2            1 
+z_Club Atlético Puerto Varas_4_1            1 
+z_Club Atlético Puerto Varas_5_1            1 
+z_Club Atlético Puerto Varas_5_2            1 
+z_Club Atlético Puerto Varas_6_1            1 
+z_CD AB Temuco_1_1            1 
+z_CD AB Temuco_2_1            1 
+z_CD AB Temuco_3_1            1 
+z_CD AB Temuco_3_2            1 
+z_CD AB Temuco_4_1            1 
+z_CD AB Temuco_5_1            1 
+z_CD AB Temuco_5_2            1 
+z_CD AB Temuco_6_1            1 
+z_CD La Unión_1_1            1 
+z_CD La Unión_2_1            1 
+z_CD La Unión_3_1            1 
+z_CD La Unión_4_1            1 
+z_CD La Unión_5_1            1 
+z_CD La Unión_6_1            1 
+z_CD Achao_1_1            1 
+z_CD Achao_2_1            1 
+z_CD Achao_3_1            1 
+z_CD Achao_4_1            1 
+z_CD Achao_5_1            1 
+z_CD Achao_6_1            1 
+Freed default Gurobi environment
+
+Gurobi 8.0.0 (win64, Python) logging started 05/08/18 19:02:30
+
+Academic license - for non-commercial use only
+Parameter method unchanged
+   Value: -1  Min: -1  Max: 5  Default: -1
+Optimize a model with 1997 rows, 964 columns and 20425 nonzeros
+Variable types: 0 continuous, 964 integer (960 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 2e+00]
+  Objective range  [1e+00, 1e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 3e+00]
+Found heuristic solution: objective 17.0000000
+Presolve removed 257 rows and 264 columns
+Presolve time: 0.13s
+Presolved: 1740 rows, 700 columns, 12432 nonzeros
+Variable types: 0 continuous, 700 integer (700 binary)
+
+Root relaxation: objective 0.000000e+00, 155 iterations, 0.02 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0    0.00000    0   78   17.00000    0.00000   100%     -    0s
+H    0     0                       4.0000000    0.00000   100%     -    0s
+     0     0    0.00000    0   70    4.00000    0.00000   100%     -    0s
+     0     0    0.00000    0   70    4.00000    0.00000   100%     -    0s
+     0     0    0.00000    0   77    4.00000    0.00000   100%     -    0s
+     0     0    0.00000    0   81    4.00000    0.00000   100%     -    0s
+     0     0    0.00000    0   64    4.00000    0.00000   100%     -    0s
+     0     0    0.00000    0   78    4.00000    0.00000   100%     -    0s
+     0     0    0.00000    0   66    4.00000    0.00000   100%     -    0s
+     0     0    0.00000    0   48    4.00000    0.00000   100%     -    0s
+     0     0    0.00000    0   78    4.00000    0.00000   100%     -    0s
+     0     0    0.00000    0   78    4.00000    0.00000   100%     -    0s
+     0     0    0.00000    0   74    4.00000    0.00000   100%     -    0s
+     0     0    0.00000    0   74    4.00000    0.00000   100%     -    0s
+     0     2    0.00000    0   74    4.00000    0.00000   100%     -    1s
+
+Cutting planes:
+  Clique: 2
+  MIR: 3
+  Zero half: 21
+
+Explored 48 nodes (5105 simplex iterations) in 1.30 seconds
+Thread count was 4 (of 4 available processors)
+
+Solution count 2: 4 17 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 4.000000000000e+00, best bound 4.000000000000e+00, gap 0.0000%
+
+    Variable            X 
+-------------------------
+x_Club Atlético Puerto Varas_CD AB Temuco_1            1 
+x_CD La Unión_CD Achao_1            1 
+x_CD AB Temuco_CD La Unión_2            1 
+x_CD Achao_Club Atlético Puerto Varas_2            1 
+x_CD AB Temuco_CD Achao_3            1 
+x_CD La Unión_Club Atlético Puerto Varas_3            1 
+x_Club Atlético Puerto Varas_CD La Unión_4            1 
+x_CD Achao_CD AB Temuco_4            1 
+x_Club Atlético Puerto Varas_CD Achao_5            1 
+x_CD La Unión_CD AB Temuco_5            1 
+x_CD AB Temuco_Club Atlético Puerto Varas_6            1 
+x_CD Achao_CD La Unión_6            1 
+         y_1            8 
+         y_2            4 
+w_a_Club Atlético Puerto Varas_CD Achao_5            1 
+w_a_CD AB Temuco_CD La Unión_2            1 
+w_b_CD Achao_CD La Unión_6            1 
+w_c_Club Atlético Puerto Varas_CD AB Temuco_1            1 
+w_d_CD Achao_Club Atlético Puerto Varas_2            1 
+w_e_Club Atlético Puerto Varas_CD La Unión_4            1 
+w_e_CD AB Temuco_CD Achao_3            1 
+w_f_CD La Unión_CD AB Temuco_5            1 
+w_g_CD AB Temuco_Club Atlético Puerto Varas_6            1 
+w_g_CD La Unión_CD Achao_1            1 
+w_h_CD La Unión_Club Atlético Puerto Varas_3            1 
+w_h_CD Achao_CD AB Temuco_4            1 
+z_Club Atlético Puerto Varas_2_1            1 
+z_Club Atlético Puerto Varas_3_1            1 
+z_Club Atlético Puerto Varas_3_2            1 
+z_Club Atlético Puerto Varas_5_2            1 
+z_CD AB Temuco_2_1            1 
+z_CD AB Temuco_3_1            1 
+z_CD AB Temuco_3_2            1 
+z_CD AB Temuco_5_2            1 
+z_CD La Unión_2_1            1 
+z_CD La Unión_3_1            1 
+z_CD Achao_2_1            1 
+z_CD Achao_3_1            1 
+Freed default Gurobi environment
+
+Gurobi 8.0.0 (win64, Python) logging started 05/08/18 19:03:02
+
+Academic license - for non-commercial use only
+Parameter method unchanged
+   Value: -1  Min: -1  Max: 5  Default: -1
+Optimize a model with 1997 rows, 964 columns and 20425 nonzeros
+Variable types: 0 continuous, 964 integer (960 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 2e+00]
+  Objective range  [1e+00, 1e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 3e+00]
+Found heuristic solution: objective 13.0000000
+Presolve removed 521 rows and 276 columns
+Presolve time: 0.08s
+Presolved: 1476 rows, 688 columns, 8496 nonzeros
+Found heuristic solution: objective -14.0000000
+Variable types: 0 continuous, 688 integer (688 binary)
+
+Root relaxation: objective -2.400000e+01, 134 iterations, 0.02 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0  -24.00000    0   46  -14.00000  -24.00000  71.4%     -    0s
+     0     0  -24.00000    0   75  -14.00000  -24.00000  71.4%     -    0s
+     0     0  -24.00000    0   60  -14.00000  -24.00000  71.4%     -    0s
+     0     0  -24.00000    0   48  -14.00000  -24.00000  71.4%     -    0s
+     0     0  -24.00000    0   48  -14.00000  -24.00000  71.4%     -    0s
+     0     0  -24.00000    0   72  -14.00000  -24.00000  71.4%     -    0s
+H    0     0                     -16.0000000  -24.00000  50.0%     -    0s
+     0     0  -24.00000    0   66  -16.00000  -24.00000  50.0%     -    0s
+     0     0  -24.00000    0   48  -16.00000  -24.00000  50.0%     -    0s
+     0     0  -24.00000    0   48  -16.00000  -24.00000  50.0%     -    0s
+
+Gurobi 8.0.0 (win64, Python) logging started 05/08/18 19:03:03
+
+Academic license - for non-commercial use only
+Parameter method unchanged
+   Value: -1  Min: -1  Max: 5  Default: -1
+Optimize a model with 1997 rows, 964 columns and 20425 nonzeros
+Variable types: 0 continuous, 964 integer (960 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 2e+00]
+  Objective range  [1e+00, 1e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 3e+00]
+Found heuristic solution: objective 13.0000000
+Presolve removed 521 rows and 276 columns
+Presolve time: 0.08s
+Presolved: 1476 rows, 688 columns, 8496 nonzeros
+Found heuristic solution: objective -14.0000000
+Variable types: 0 continuous, 688 integer (688 binary)
+
+Root relaxation: objective -2.400000e+01, 134 iterations, 0.00 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0  -24.00000    0   46  -14.00000  -24.00000  71.4%     -    0s
+     0     0  -24.00000    0   75  -14.00000  -24.00000  71.4%     -    0s
+     0     0  -24.00000    0   60  -14.00000  -24.00000  71.4%     -    0s
+     0     0  -24.00000    0   48  -14.00000  -24.00000  71.4%     -    0s
+     0     0  -24.00000    0   48  -14.00000  -24.00000  71.4%     -    0s
+     0     0  -24.00000    0   72  -14.00000  -24.00000  71.4%     -    0s
+H    0     0                     -16.0000000  -24.00000  50.0%     -    0s
+     0     0  -24.00000    0   66  -16.00000  -24.00000  50.0%     -    0s
+     0     0  -24.00000    0   48  -16.00000  -24.00000  50.0%     -    0s
+     0     0  -24.00000    0   48  -16.00000  -24.00000  50.0%     -    0s
+H    0     0                     -20.0000000  -24.00000  20.0%     -    0s
+     0     2  -24.00000    0   48  -20.00000  -24.00000  20.0%     -    0s
+
+Cutting planes:
+  Clique: 3
+  MIR: 5
+  Zero half: 4
+
+Explored 75 nodes (2701 simplex iterations) in 1.16 seconds
+Thread count was 4 (of 4 available processors)
+
+Solution count 4: -20 -16 -14 -7 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective -2.000000000000e+01, best bound -2.000000000000e+01, gap 0.0000%
+
+    Variable            X 
+-------------------------
+x_CD AB Temuco_CD La Unión_1            1 
+x_CD Achao_Club Atlético Puerto Varas_1            1 
+x_CD AB Temuco_CD Achao_2            1 
+x_CD La Unión_Club Atlético Puerto Varas_2            1 
+x_Club Atlético Puerto Varas_CD AB Temuco_3            1 
+x_CD Achao_CD La Unión_3            1 
+x_CD AB Temuco_Club Atlético Puerto Varas_4            1 
+x_CD La Unión_CD Achao_4            1 
+x_Club Atlético Puerto Varas_CD La Unión_5            1 
+x_CD Achao_CD AB Temuco_5            1 
+x_Club Atlético Puerto Varas_CD Achao_6            1 
+x_CD La Unión_CD AB Temuco_6            1 
+         y_2            4 
+         y_4           24 
+w_a_Club Atlético Puerto Varas_CD AB Temuco_3            1 
+w_a_CD La Unión_CD AB Temuco_6            1 
+w_b_CD AB Temuco_CD Achao_2            1 
+w_c_Club Atlético Puerto Varas_CD Achao_6            1 
+w_d_CD AB Temuco_CD La Unión_1            1 
+w_e_CD AB Temuco_Club Atlético Puerto Varas_4            1 
+w_e_CD Achao_CD AB Temuco_5            1 
+w_f_CD La Unión_Club Atlético Puerto Varas_2            1 
+w_f_CD Achao_Club Atlético Puerto Varas_1            1 
+w_g_Club Atlético Puerto Varas_CD La Unión_5            1 
+w_g_CD La Unión_CD Achao_4            1 
+w_h_CD Achao_CD La Unión_3            1 
+z_Club Atlético Puerto Varas_1_4            1 
+z_Club Atlético Puerto Varas_2_2            1 
+z_Club Atlético Puerto Varas_2_4            1 
+z_Club Atlético Puerto Varas_3_4            1 
+z_Club Atlético Puerto Varas_4_4            1 
+z_Club Atlético Puerto Varas_5_4            1 
+z_Club Atlético Puerto Varas_6_2            1 
+z_Club Atlético Puerto Varas_6_4            1 
+z_CD AB Temuco_1_4            1 
+z_CD AB Temuco_2_2            1 
+z_CD AB Temuco_2_4            1 
+z_CD AB Temuco_3_4            1 
+z_CD AB Temuco_4_4            1 
+z_CD AB Temuco_5_4            1 
+z_CD AB Temuco_6_2            1 
+z_CD AB Temuco_6_4            1 
+z_CD La Unión_1_4            1 
+z_CD La Unión_2_4            1 
+z_CD La Unión_3_4            1 
+z_CD La Unión_4_4            1 
+z_CD La Unión_5_4            1 
+z_CD La Unión_6_4            1 
+z_CD Achao_1_4            1 
+z_CD Achao_2_4            1 
+z_CD Achao_3_4            1 
+z_CD Achao_4_4            1 
+z_CD Achao_5_4            1 
+z_CD Achao_6_4            1 
+Freed default Gurobi environment

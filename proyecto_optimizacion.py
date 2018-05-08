@@ -5,20 +5,23 @@ from gurobipy import *
 equipos_ca = ["CD Boston College", "CD Liceo Curicó", "CD Alemán de Concepción", "CD Quilicura Basket", "Estadio Palestino", "Estadio Español"]
 equipos_cb = ["CD Brisas", "Club Andino de Los Ángeles", "CD Ceppi", "CD Arturo Prat de San Felipe", "Stadio Italiano", "CD Manquehue"]
 equipos_s = ["Club Atlético Puerto Varas", "CD AB Temuco", "CD La Unión", "CD Achao"]
-equipos = equipos_s  # Se resolvieron los partidos para la zona centro a, ya que para un número mayor el resolver el modelo se volvía inviable (tardaba mucho)
+equipos = equipos_s  # Se resolvieron los partidos para la zona sur, ya que para un número mayor el resolver el modelo se volvía inviable (tardaba mucho)
 # Conjunto de Fechas
 fechas = list(range(1,(len(equipos)*2) - 1))  # Son 2*(card(equipos) - 1) fechas
 # Consideraciones
 cons = list(range(1, 5))
 # Conjunto de Árbitros
-arbitros = list("abcdefgh")  # Se puede variar (deben ser al menos card(equipos)//2, en esta instancia son 5)
+arbitros = list("abcdefgh")  # Se puede variar (deben ser al menos card(equipos)//2, en esta instancia son 8)
 # ---------------------------------------------------------------------------------------------------------------
 
 # ---------------------------------------------- PARÁMETROS -----------------------------------------------------
-arbitrar_at = {}
+arbitrar_at = {}        # Parámetro que indica si el árbitro a está disponible para arbitrar en la fecha t
 for arb in arbitros:   # Por el momento está en 1 este parámetro (todos los árbitros pueden arbitrar en todas las fechas)
     for fecha in fechas:
         arbitrar_at[arb,fecha] = 1
+peso_n = {}       # Parámetro que indica los pesos de las consideraciones en la función objetivo
+for n in cons:     # Por el momento está en 1, es decir todas las consideraciones son igual de importantes
+    peso_n[n] = 1
 # ----------------------------------------------------------------------------------------------------------------
 
 # --------------------------------------------------MODELO----------------------------------------------------------
@@ -54,7 +57,7 @@ modelo.update()
 # -----------------------------------------------------------------------------------------------------------------------------------
 # ------------------------------------------------FUNCIÓN OBJETIVO-------------------------------------------------------------------
 
-objetivo = quicksum(incumple_n[n] for n in cons)
+objetivo = quicksum((incumple_n[n]*peso_n[n]) for n in cons)
 modelo.setObjective(objetivo,GRB.MINIMIZE)
 
 # -----------------------------------------------------------------------------------------------------------------------------------
@@ -159,4 +162,4 @@ for n in cons:
 
 modelo.Params.method = -1 # 2 = Barrier, -1 = Auto (método de resolución)
 modelo.optimize()
-modelo.printAttr("X") # Imprimir los valores de las variables básicas
+modelo.printAttr("X") # Imprimir los valores de las variables básicas en el óptimo

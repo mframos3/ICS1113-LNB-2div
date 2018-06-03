@@ -4734,3 +4734,85 @@ z_CD Achao_4_4            1
 z_CD Achao_5_4            1 
 z_CD Achao_6_4            1 
 Freed default Gurobi environment
+
+Gurobi 8.0.0 (win64, Python) logging started 05/08/18 21:57:13
+
+Academic license - for non-commercial use only
+Parameter method unchanged
+   Value: -1  Min: -1  Max: 5  Default: -1
+Optimize a model with 1997 rows, 964 columns and 20425 nonzeros
+Variable types: 0 continuous, 964 integer (960 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 2e+00]
+  Objective range  [1e+00, 1e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 3e+00]
+Found heuristic solution: objective 21.0000000
+Presolve removed 161 rows and 256 columns
+Presolve time: 0.08s
+Presolved: 1836 rows, 708 columns, 13296 nonzeros
+Variable types: 0 continuous, 708 integer (708 binary)
+
+Root relaxation: objective 0.000000e+00, 194 iterations, 0.00 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0    0.00000    0   82   21.00000    0.00000   100%     -    0s
+H    0     0                       4.0000000    0.00000   100%     -    0s
+     0     0    0.00000    0   57    4.00000    0.00000   100%     -    0s
+     0     0    0.00000    0   48    4.00000    0.00000   100%     -    0s
+     0     0    0.00000    0   48    4.00000    0.00000   100%     -    0s
+     0     0    0.00000    0   68    4.00000    0.00000   100%     -    0s
+     0     0    0.00000    0   84    4.00000    0.00000   100%     -    0s
+     0     0    0.00000    0   79    4.00000    0.00000   100%     -    0s
+     0     0    0.00000    0   76    4.00000    0.00000   100%     -    0s
+     0     0    0.00000    0   73    4.00000    0.00000   100%     -    0s
+     0     0    0.00000    0   73    4.00000    0.00000   100%     -    0s
+     0     2    0.00000    0   68    4.00000    0.00000   100%     -    0s
+
+Cutting planes:
+  Clique: 1
+  MIR: 1
+  Zero half: 7
+
+Explored 78 nodes (6277 simplex iterations) in 1.12 seconds
+Thread count was 4 (of 4 available processors)
+
+Solution count 2: 4 21 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 4.000000000000e+00, best bound 4.000000000000e+00, gap 0.0000%
+
+    Variable            X 
+-------------------------
+x_CD AB Temuco_CD La Unión_1            1 
+x_CD Achao_Club Atlético Puerto Varas_1            1 
+x_Club Atlético Puerto Varas_CD AB Temuco_2            1 
+x_CD La Unión_CD Achao_2            1 
+x_CD AB Temuco_CD Achao_3            1 
+x_CD La Unión_Club Atlético Puerto Varas_3            1 
+x_Club Atlético Puerto Varas_CD La Unión_4            1 
+x_CD Achao_CD AB Temuco_4            1 
+x_CD AB Temuco_Club Atlético Puerto Varas_5            1 
+x_CD Achao_CD La Unión_5            1 
+x_Club Atlético Puerto Varas_CD Achao_6            1 
+x_CD La Unión_CD AB Temuco_6            1 
+         y_2            4 
+w_a_CD La Unión_CD AB Temuco_6            1 
+w_a_CD Achao_Club Atlético Puerto Varas_1            1 
+w_b_CD AB Temuco_CD La Unión_1            1 
+w_c_Club Atlético Puerto Varas_CD Achao_6            1 
+w_d_CD La Unión_Club Atlético Puerto Varas_3            1 
+w_e_CD AB Temuco_Club Atlético Puerto Varas_5            1 
+w_e_CD La Unión_CD Achao_2            1 
+w_f_CD Achao_CD AB Temuco_4            1 
+w_g_Club Atlético Puerto Varas_CD La Unión_4            1 
+w_g_CD AB Temuco_CD Achao_3            1 
+w_h_Club Atlético Puerto Varas_CD AB Temuco_2            1 
+w_h_CD Achao_CD La Unión_5            1 
+z_CD La Unión_3_2            1 
+z_CD La Unión_5_2            1 
+z_CD Achao_3_2            1 
+z_CD Achao_5_2            1 
+Freed default Gurobi environment

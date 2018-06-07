@@ -1,16 +1,16 @@
 # coding=utf-8
 from gurobipy import *
+import random
 # --------------------------------------- CONJUNTOS---------------------------------------------------
 # Conjunto de Equipos y subconjuntos por zona
 equipos_ca = ["CD Boston College", "CD Liceo Curicó", "CD Alemán de Concepción", "CD Quilicura Basket", "Estadio Palestino", "Estadio Español"]
 equipos_cb = ["CD Brisas", "Club Andino de Los Ángeles", "CD Ceppi", "CD Arturo Prat de San Felipe", "Stadio Italiano", "CD Manquehue"]
 equipos_s = ["Club Atlético Puerto Varas", "CD AB Temuco", "CD La Unión", "CD Achao"]
 equipos = equipos_s + equipos_ca + equipos_cb
+random.shuffle(equipos) # Para que los 2 equipos "beneficiados" sean aleatorios
 fechas = list(range(1,len(equipos)))  # Son (card(equipos) - 1) fechas en la primera ronda
 # Consideraciones
 cons = list(range(1, 5))
-# Conjunto de Árbitros
-arbitros = list("abcdefghijklmnopqrst")  # Se puede variar (deben ser al menos card(equipos)//2)
 partidos = []  # Conjunto de partidos de la primera ronda
 for i in equipos:
     for j in equipos:
@@ -19,14 +19,10 @@ for i in equipos:
 # ---------------------------------------------------------------------------------------------------------------
 
 # ---------------------------------------------- PARÁMETROS -----------------------------------------------------
-arbitrar_at = {}        # Parámetro que indica si el árbitro a está disponible para arbitrar en la fecha t
-for arb in arbitros:   # Por el momento está en 1 este parámetro (todos los árbitros pueden arbitrar en todas las fechas)
-    for fecha in fechas:
-        arbitrar_at[arb,fecha] = 1
-
 peso_n = {}       # Parámetro que indica los pesos de las consideraciones en la función objetivo
-for n in cons:# Por el momento está en 1, es decir todas las consideraciones son igual de importantes
-        peso_n[n] = 1
+                  # Se varía el peso de la consideración 2, ya que es la única que aplica en esta primera parte
+for n in cons:
+   peso_n[n] = 1
 
 juega_i ={}     # Parámetro auxiliar utilizado para las heurísticas
 for i in equipos[:len(equipos)//4]:
@@ -143,3 +139,17 @@ modelo.addConstr(quicksum(incumple_itn[i,14,2] for i in equipos) == 0)
 modelo.Params.MIPFocus = 3 # Enfocarse en encontrar soluciones enteras más rápido
 modelo.optimize()
 modelo.printAttr("X") # Imprimir los valores de las variables básicas en el óptimo
+
+#----------------Exportar a .txt------------------------
+out = open("Ronda 1.txt",'w')
+c = 0
+for i in modelo.getVars():
+    s = str(i)
+    if "value 1" in s:
+        s2 = s[12: len(s) - 13]
+        if c == 0:
+            out.write(s2 + "            1")
+            c = 1
+        else:
+            out.write("\n" + s2 + "            1")
+out.close()

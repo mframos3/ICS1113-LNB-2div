@@ -1,0 +1,21 @@
+1) Ejecutar el archivo "Parte 1".py para optimizar la primera ronda del torneo (consideración 2)
+
+2) Ejecutar el archivo "Parte 2".py para optimizar la segunda ronda del torneo (consideraciones 3 y 4)
+
+* Cuando gurobi obtenga las soluciones en ambos casos, se van a desplegar las variables en el óptimo con la simbología explicada más abajo
+
+3) Tras ejecutar ambos archivos en orden, el excel "Partidos".csv contendrá los partidos del torneo junto a los árbitros en una tabla (requiere tener Pandas)
+
+*El archivo Ronda 1 es utilizado por gurobi para la Parte 2 (contiene la información de la Parte 1)
+
+Simbología:
+
+Parte 1:
+ 
+x_i_j_t => Indica que el equipo i juega de local contra el j en la fecha t
+z_i_t_2 => Indica que la consideración 2 se incumplió para el equipo i en la fecha t
+
+Parte 2: Así se desplegan las soluciones:
+
+w_aijt_"árbitro"_"equipo local"_"equipo visita"_"fecha"
+z_ain_"árbitro"_"equipo"_"consideración incumplida"       "cantidad de veces que ocurre"

@@ -1,4 +1,6 @@
 from gurobipy import *
+import pandas as pd
+
 modelo = Model()
 
 # ------------------------------------- CONJUNTOS -------------------------------------------------------
@@ -6,6 +8,7 @@ equipos_ca = ["CD Boston College", "CD Liceo Curicó", "CD Alemán de Concepció
 equipos_cb = ["CD Brisas", "Club Andino de Los Ángeles", "CD Ceppi", "CD Arturo Prat de San Felipe", "Stadio Italiano", "CD Manquehue"]
 equipos_s = ["Club Atlético Puerto Varas", "CD AB Temuco", "CD La Unión", "CD Achao"]
 equipos = equipos_s + equipos_ca +equipos_cb
+# Árbitros: Se puede variar (deben ser al menos card(equipos)//2)
 arbitros = "a b c d e f g h i j k l m n o p q r".split()
 fechas = list(range(1,31))      # Son 30 fechas
 N = [3,4] # Se utiliza para las consideraciones 3 y 4 más abajo
@@ -13,7 +16,7 @@ N = [3,4] # Se utiliza para las consideraciones 3 y 4 más abajo
 # -------------------------- PARÁMETROS ------------------------------------------------------------------
 # Se ingresan como parámetros los resultados de la primera ronda (de manera de evitar el Carry - Over invirtiendo el orden de partidos de la primera ronda)
 
-archivo = open("1 ronda.txt")
+archivo = open("Ronda 1.txt")
 x = []           # Lista de las variables x_ijt de la primera ronda
 z = []           # Lista de las variables z_itn de la primera ronda
 for i in archivo:
@@ -103,3 +106,29 @@ for a in arbitros:
 modelo.Params.MIPFocus = 3
 modelo.optimize()
 modelo.printAttr("X") # Imprimir los valores de las variables básicas en el óptimo
+
+#----------------Exportar a Excel-------------------------------------------------------------------
+aex = []
+iex = []
+jex = []
+tex = []
+torneo = []
+for i in modelo.getVars():
+    s = str(i)
+    if "value 1" in s and "w_" in s:
+        s2 = s[12:len(s)-13]
+        torneo.append(s2)
+for r in range (len(torneo)):
+    st = torneo[r]
+    if st[len(st)-2] == "_":
+        torneo[r] = st[:len(st)-2] + "_0" + st[len(st)-1]
+torneoS = sorted(torneo,key=lambda x: int(x[len(x)-2:]))
+for u in torneoS:
+    l = u.split("_")
+    aex.append(l[2])
+    iex.append(l[3])
+    jex.append(l[4])
+    tex.append(l[5])
+data = {'Fechas': tex, 'Local': iex, 'Visita': jex, 'Árbitro': aex}
+output = pd.DataFrame(data)
+output.to_csv("Partidos.csv",encoding='utf-8-sig')

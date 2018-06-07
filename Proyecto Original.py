@@ -162,4 +162,14 @@ for n in cons:
 
 modelo.Params.method = -1 # 2 = Barrier, -1 = Auto (método de resolución)
 modelo.optimize()
-modelo.printAttr("X") # Imprimir los valores de las variables básicas en el óptimo
+# Imprimir los valores de las variables básicas en el óptimo
+modelo.printAttr("X")
+
+#----------------Exportar a .txt------------------------
+out = open("test.txt",'w')
+for i in modelo.getVars():
+    s = str(i)
+    if "value 1" in s:
+        s2 = s[12: len(s) - 13]
+        out.write(s2 + "            1" + "\n")
+out.close()

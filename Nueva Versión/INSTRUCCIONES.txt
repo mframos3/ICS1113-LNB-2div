@@ -6,9 +6,12 @@
 
 3) Tras ejecutar ambos archivos en orden, el excel "Partidos".csv contendrá los partidos del torneo junto a los árbitros en una tabla (requiere tener Pandas)
 
+4) Tras ejecutar ambos archivos en orden, los archivos de texto tipo "P1 - R Activas" contendrán la información de las variables de holgura en el óptimo para cada restricción, en el formato utilizado en Gurobi
+
+
 *El archivo Ronda 1 es utilizado por gurobi para la Parte 2 (contiene la información de la Parte 1)
 
-Simbología:
+Simbología de Gurobi:
 
 Parte 1:
  

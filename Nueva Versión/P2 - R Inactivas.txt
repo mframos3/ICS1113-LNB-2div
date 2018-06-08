@@ -1,0 +1,1980 @@
+R1_b_5, Holgura:1.0
+R1_b_11, Holgura:1.0
+R1_b_12, Holgura:1.0
+R1_b_14, Holgura:1.0
+R1_b_15, Holgura:1.0
+R1_b_19, Holgura:1.0
+R1_b_23, Holgura:1.0
+R1_b_25, Holgura:1.0
+R1_b_28, Holgura:1.0
+R1_c_2, Holgura:1.0
+R1_c_4, Holgura:1.0
+R1_c_13, Holgura:1.0
+R1_c_25, Holgura:1.0
+R1_c_29, Holgura:1.0
+R1_d_1, Holgura:1.0
+R1_d_4, Holgura:1.0
+R1_d_6, Holgura:1.0
+R1_d_7, Holgura:1.0
+R1_d_9, Holgura:1.0
+R1_d_10, Holgura:1.0
+R1_d_11, Holgura:1.0
+R1_d_18, Holgura:1.0
+R1_d_21, Holgura:1.0
+R1_d_22, Holgura:1.0
+R1_d_29, Holgura:1.0
+R1_d_30, Holgura:1.0
+R1_e_1, Holgura:1.0
+R1_e_3, Holgura:1.0
+R1_e_7, Holgura:1.0
+R1_e_13, Holgura:1.0
+R1_e_17, Holgura:1.0
+R1_e_20, Holgura:1.0
+R1_e_21, Holgura:1.0
+R1_e_23, Holgura:1.0
+R1_e_24, Holgura:1.0
+R1_e_26, Holgura:1.0
+R1_e_28, Holgura:1.0
+R1_f_5, Holgura:1.0
+R1_f_6, Holgura:1.0
+R1_f_8, Holgura:1.0
+R1_f_14, Holgura:1.0
+R1_f_19, Holgura:1.0
+R1_f_27, Holgura:1.0
+R1_g_12, Holgura:1.0
+R1_g_24, Holgura:1.0
+R1_h_3, Holgura:1.0
+R1_h_9, Holgura:1.0
+R1_h_15, Holgura:1.0
+R1_h_17, Holgura:1.0
+R1_h_20, Holgura:1.0
+R1_h_22, Holgura:1.0
+R1_h_27, Holgura:1.0
+R1_i_2, Holgura:1.0
+R1_i_8, Holgura:1.0
+R1_i_16, Holgura:1.0
+R1_i_18, Holgura:1.0
+R1_i_26, Holgura:1.0
+R1_i_30, Holgura:1.0
+R1_j_10, Holgura:1.0
+R1_j_16, Holgura:1.0
+R3_a_('CD Quilicura Basket', 'CD Arturo Prat de San Felipe', 1), Holgura:1.0
+R3_a_('Club Andino de Los Ángeles', 'Club Atlético Puerto Varas', 1), Holgura:1.0
+R3_a_('Estadio Palestino', 'CD Ceppi', 1), Holgura:1.0
+R3_a_('Stadio Italiano', 'CD AB Temuco', 1), Holgura:1.0
+R3_a_('Estadio Español', 'CD Brisas', 1), Holgura:1.0
+R3_a_('CD Alemán de Concepción', 'CD Liceo Curicó', 1), Holgura:1.0
+R3_a_('CD Arturo Prat de San Felipe', 'Estadio Palestino', 2), Holgura:1.0
+R3_a_('CD AB Temuco', 'Estadio Español', 2), Holgura:1.0
+R3_a_('CD Liceo Curicó', 'Stadio Italiano', 2), Holgura:1.0
+R3_a_('CD Brisas', 'CD Quilicura Basket', 2), Holgura:1.0
+R3_a_('CD La Unión', 'CD Manquehue', 2), Holgura:1.0
+R3_a_('CD Ceppi', 'CD Alemán de Concepción', 2), Holgura:1.0
+R3_a_('CD Quilicura Basket', 'CD Liceo Curicó', 3), Holgura:1.0
+R3_a_('Stadio Italiano', 'CD Arturo Prat de San Felipe', 3), Holgura:1.0
+R3_a_('Estadio Español', 'CD Ceppi', 3), Holgura:1.0
+R3_a_('CD Manquehue', 'Club Atlético Puerto Varas', 3), Holgura:1.0
+R3_a_('CD Brisas', 'CD AB Temuco', 3), Holgura:1.0
+R3_a_('CD Alemán de Concepción', 'CD La Unión', 3), Holgura:1.0
+R3_a_('CD Arturo Prat de San Felipe', 'CD Brisas', 4), Holgura:1.0
+R3_a_('CD AB Temuco', 'CD Quilicura Basket', 4), Holgura:1.0
+R3_a_('Club Andino de Los Ángeles', 'CD Manquehue', 4), Holgura:1.0
+R3_a_('CD Liceo Curicó', 'Estadio Español', 4), Holgura:1.0
+R3_a_('CD La Unión', 'Estadio Palestino', 4), Holgura:1.0
+R3_a_('CD Ceppi', 'Stadio Italiano', 4), Holgura:1.0
+R3_a_('CD Quilicura Basket', 'Club Atlético Puerto Varas', 5), Holgura:1.0
+R3_a_('CD AB Temuco', 'Club Andino de Los Ángeles', 5), Holgura:1.0
+R3_a_('Estadio Palestino', 'CD Liceo Curicó', 5), Holgura:1.0
+R3_a_('Stadio Italiano', 'CD La Unión', 5), Holgura:1.0
+R3_a_('Estadio Español', 'CD Arturo Prat de San Felipe', 5), Holgura:1.0
+R3_a_('CD Boston College', 'CD Manquehue', 5), Holgura:1.0
+R3_a_('CD Arturo Prat de San Felipe', 'CD AB Temuco', 6), Holgura:1.0
+R3_a_('Club Atlético Puerto Varas', 'Stadio Italiano', 6), Holgura:1.0
+R3_a_('Club Andino de Los Ángeles', 'CD Alemán de Concepción', 6), Holgura:1.0
+R3_a_('CD Liceo Curicó', 'CD Boston College', 6), Holgura:1.0
+R3_a_('CD Manquehue', 'Estadio Palestino', 6), Holgura:1.0
+R3_a_('CD Ceppi', 'CD Quilicura Basket', 6), Holgura:1.0
+R3_a_('CD Quilicura Basket', 'CD Manquehue', 7), Holgura:1.0
+R3_a_('CD Arturo Prat de San Felipe', 'CD Ceppi', 7), Holgura:1.0
+R3_a_('Estadio Palestino', 'Club Atlético Puerto Varas', 7), Holgura:1.0
+R3_a_('Estadio Español', 'Club Andino de Los Ángeles', 7), Holgura:1.0
+R3_a_('CD Brisas', 'CD Liceo Curicó', 7), Holgura:1.0
+R3_a_('CD Alemán de Concepción', 'CD Boston College', 7), Holgura:1.0
+R3_a_('Club Andino de Los Ángeles', 'Estadio Palestino', 8), Holgura:1.0
+R3_a_('CD Liceo Curicó', 'CD Arturo Prat de San Felipe', 8), Holgura:1.0
+R3_a_('CD Manquehue', 'CD Alemán de Concepción', 8), Holgura:1.0
+R3_a_('CD Boston College', 'Stadio Italiano', 8), Holgura:1.0
+R3_a_('CD La Unión', 'CD Quilicura Basket', 8), Holgura:1.0
+R3_a_('CD Ceppi', 'CD AB Temuco', 8), Holgura:1.0
+R3_a_('CD Quilicura Basket', 'Club Andino de Los Ángeles', 9), Holgura:1.0
+R3_a_('CD Arturo Prat de San Felipe', 'CD Achao', 9), Holgura:1.0
+R3_a_('CD AB Temuco', 'Club Atlético Puerto Varas', 9), Holgura:1.0
+R3_a_('Estadio Palestino', 'CD Alemán de Concepción', 9), Holgura:1.0
+R3_a_('Stadio Italiano', 'CD Manquehue', 9), Holgura:1.0
+R3_a_('CD Ceppi', 'CD Liceo Curicó', 9), Holgura:1.0
+R3_a_('Club Andino de Los Ángeles', 'CD Brisas', 10), Holgura:1.0
+R3_a_('CD Liceo Curicó', 'CD AB Temuco', 10), Holgura:1.0
+R3_a_('CD Manquehue', 'Estadio Español', 10), Holgura:1.0
+R3_a_('CD Boston College', 'Estadio Palestino', 10), Holgura:1.0
+R3_a_('CD La Unión', 'CD Ceppi', 10), Holgura:1.0
+R3_a_('CD Alemán de Concepción', 'Stadio Italiano', 10), Holgura:1.0
+R3_a_('CD Quilicura Basket', 'CD Alemán de Concepción', 11), Holgura:1.0
+R3_a_('CD Arturo Prat de San Felipe', 'CD Manquehue', 11), Holgura:1.0
+R3_a_('CD AB Temuco', 'CD Achao', 11), Holgura:1.0
+R3_a_('Stadio Italiano', 'Estadio Palestino', 11), Holgura:1.0
+R3_a_('CD Liceo Curicó', 'CD La Unión', 11), Holgura:1.0
+R3_a_('CD Brisas', 'Club Atlético Puerto Varas', 11), Holgura:1.0
+R3_a_('Club Atlético Puerto Varas', 'CD Liceo Curicó', 12), Holgura:1.0
+R3_a_('Club Andino de Los Ángeles', 'Stadio Italiano', 12), Holgura:1.0
+R3_a_('CD Manquehue', 'CD Brisas', 12), Holgura:1.0
+R3_a_('CD Boston College', 'CD Quilicura Basket', 12), Holgura:1.0
+R3_a_('CD La Unión', 'CD Arturo Prat de San Felipe', 12), Holgura:1.0
+R3_a_('CD Alemán de Concepción', 'CD AB Temuco', 12), Holgura:1.0
+R3_a_('CD Quilicura Basket', 'Stadio Italiano', 13), Holgura:1.0
+R3_a_('CD Arturo Prat de San Felipe', 'Club Andino de Los Ángeles', 13), Holgura:1.0
+R3_a_('CD AB Temuco', 'CD Boston College', 13), Holgura:1.0
+R3_a_('CD Brisas', 'Estadio Palestino', 13), Holgura:1.0
+R3_a_('CD La Unión', 'Club Atlético Puerto Varas', 13), Holgura:1.0
+R3_a_('CD Ceppi', 'CD Manquehue', 13), Holgura:1.0
+R3_a_('Club Atlético Puerto Varas', 'CD Ceppi', 14), Holgura:1.0
+R3_a_('Club Andino de Los Ángeles', 'CD Liceo Curicó', 14), Holgura:1.0
+R3_a_('Estadio Palestino', 'CD Quilicura Basket', 14), Holgura:1.0
+R3_a_('CD Boston College', 'CD Arturo Prat de San Felipe', 14), Holgura:1.0
+R3_a_('CD Achao', 'CD La Unión', 14), Holgura:1.0
+R3_a_('CD Alemán de Concepción', 'CD Brisas', 14), Holgura:1.0
+R3_a_('CD Quilicura Basket', 'Estadio Español', 15), Holgura:1.0
+R3_a_('CD Arturo Prat de San Felipe', 'CD Alemán de Concepción', 15), Holgura:1.0
+R3_a_('Club Atlético Puerto Varas', 'CD Achao', 15), Holgura:1.0
+R3_a_('CD AB Temuco', 'Estadio Palestino', 15), Holgura:1.0
+R3_a_('CD Liceo Curicó', 'CD Manquehue', 15), Holgura:1.0
+R3_a_('CD Brisas', 'Stadio Italiano', 15), Holgura:1.0
+R3_a_('Stadio Italiano', 'CD Brisas', 30), Holgura:1.0
+R3_a_('CD Manquehue', 'CD Liceo Curicó', 30), Holgura:1.0
+R3_a_('Estadio Palestino', 'CD AB Temuco', 30), Holgura:1.0
+R3_a_('CD Achao', 'Club Atlético Puerto Varas', 30), Holgura:1.0
+R3_a_('CD Alemán de Concepción', 'CD Arturo Prat de San Felipe', 30), Holgura:1.0
+R3_a_('Estadio Español', 'CD Quilicura Basket', 30), Holgura:1.0
+R3_a_('CD Brisas', 'CD Alemán de Concepción', 29), Holgura:1.0
+R3_a_('CD La Unión', 'CD Achao', 29), Holgura:1.0
+R3_a_('CD Arturo Prat de San Felipe', 'CD Boston College', 29), Holgura:1.0
+R3_a_('CD Quilicura Basket', 'Estadio Palestino', 29), Holgura:1.0
+R3_a_('CD Liceo Curicó', 'Club Andino de Los Ángeles', 29), Holgura:1.0
+R3_a_('CD Ceppi', 'Club Atlético Puerto Varas', 29), Holgura:1.0
+R3_a_('CD Manquehue', 'CD Ceppi', 28), Holgura:1.0
+R3_a_('Club Atlético Puerto Varas', 'CD La Unión', 28), Holgura:1.0
+R3_a_('Estadio Palestino', 'CD Brisas', 28), Holgura:1.0
+R3_a_('CD Boston College', 'CD AB Temuco', 28), Holgura:1.0
+R3_a_('Club Andino de Los Ángeles', 'CD Arturo Prat de San Felipe', 28), Holgura:1.0
+R3_a_('Stadio Italiano', 'CD Quilicura Basket', 28), Holgura:1.0
+R3_a_('CD AB Temuco', 'CD Alemán de Concepción', 27), Holgura:1.0
+R3_a_('CD Arturo Prat de San Felipe', 'CD La Unión', 27), Holgura:1.0
+R3_a_('CD Quilicura Basket', 'CD Boston College', 27), Holgura:1.0
+R3_a_('CD Brisas', 'CD Manquehue', 27), Holgura:1.0
+R3_a_('Stadio Italiano', 'Club Andino de Los Ángeles', 27), Holgura:1.0
+R3_a_('CD Liceo Curicó', 'Club Atlético Puerto Varas', 27), Holgura:1.0
+R3_a_('Club Atlético Puerto Varas', 'CD Brisas', 26), Holgura:1.0
+R3_a_('CD La Unión', 'CD Liceo Curicó', 26), Holgura:1.0
+R3_a_('Estadio Palestino', 'Stadio Italiano', 26), Holgura:1.0
+R3_a_('CD Achao', 'CD AB Temuco', 26), Holgura:1.0
+R3_a_('CD Manquehue', 'CD Arturo Prat de San Felipe', 26), Holgura:1.0
+R3_a_('CD Alemán de Concepción', 'CD Quilicura Basket', 26), Holgura:1.0
+R3_a_('Stadio Italiano', 'CD Alemán de Concepción', 25), Holgura:1.0
+R3_a_('CD Ceppi', 'CD La Unión', 25), Holgura:1.0
+R3_a_('Estadio Palestino', 'CD Boston College', 25), Holgura:1.0
+R3_a_('Estadio Español', 'CD Manquehue', 25), Holgura:1.0
+R3_a_('CD AB Temuco', 'CD Liceo Curicó', 25), Holgura:1.0
+R3_a_('CD Brisas', 'Club Andino de Los Ángeles', 25), Holgura:1.0
+R3_a_('CD Liceo Curicó', 'CD Ceppi', 24), Holgura:1.0
+R3_a_('CD Manquehue', 'Stadio Italiano', 24), Holgura:1.0
+R3_a_('CD Alemán de Concepción', 'Estadio Palestino', 24), Holgura:1.0
+R3_a_('Club Atlético Puerto Varas', 'CD AB Temuco', 24), Holgura:1.0
+R3_a_('CD Achao', 'CD Arturo Prat de San Felipe', 24), Holgura:1.0
+R3_a_('Club Andino de Los Ángeles', 'CD Quilicura Basket', 24), Holgura:1.0
+R3_a_('CD AB Temuco', 'CD Ceppi', 23), Holgura:1.0
+R3_a_('CD Quilicura Basket', 'CD La Unión', 23), Holgura:1.0
+R3_a_('Stadio Italiano', 'CD Boston College', 23), Holgura:1.0
+R3_a_('CD Alemán de Concepción', 'CD Manquehue', 23), Holgura:1.0
+R3_a_('CD Arturo Prat de San Felipe', 'CD Liceo Curicó', 23), Holgura:1.0
+R3_a_('Estadio Palestino', 'Club Andino de Los Ángeles', 23), Holgura:1.0
+R3_a_('CD Boston College', 'CD Alemán de Concepción', 22), Holgura:1.0
+R3_a_('CD Liceo Curicó', 'CD Brisas', 22), Holgura:1.0
+R3_a_('Club Andino de Los Ángeles', 'Estadio Español', 22), Holgura:1.0
+R3_a_('Club Atlético Puerto Varas', 'Estadio Palestino', 22), Holgura:1.0
+R3_a_('CD Ceppi', 'CD Arturo Prat de San Felipe', 22), Holgura:1.0
+R3_a_('CD Manquehue', 'CD Quilicura Basket', 22), Holgura:1.0
+R3_a_('CD Quilicura Basket', 'CD Ceppi', 21), Holgura:1.0
+R3_a_('Estadio Palestino', 'CD Manquehue', 21), Holgura:1.0
+R3_a_('CD Boston College', 'CD Liceo Curicó', 21), Holgura:1.0
+R3_a_('CD Alemán de Concepción', 'Club Andino de Los Ángeles', 21), Holgura:1.0
+R3_a_('Stadio Italiano', 'Club Atlético Puerto Varas', 21), Holgura:1.0
+R3_a_('CD AB Temuco', 'CD Arturo Prat de San Felipe', 21), Holgura:1.0
+R3_a_('CD Manquehue', 'CD Boston College', 20), Holgura:1.0
+R3_a_('CD Arturo Prat de San Felipe', 'Estadio Español', 20), Holgura:1.0
+R3_a_('CD La Unión', 'Stadio Italiano', 20), Holgura:1.0
+R3_a_('CD Liceo Curicó', 'Estadio Palestino', 20), Holgura:1.0
+R3_a_('Club Andino de Los Ángeles', 'CD AB Temuco', 20), Holgura:1.0
+R3_a_('Club Atlético Puerto Varas', 'CD Quilicura Basket', 20), Holgura:1.0
+R3_a_('Stadio Italiano', 'CD Ceppi', 19), Holgura:1.0
+R3_a_('Estadio Palestino', 'CD La Unión', 19), Holgura:1.0
+R3_a_('Estadio Español', 'CD Liceo Curicó', 19), Holgura:1.0
+R3_a_('CD Manquehue', 'Club Andino de Los Ángeles', 19), Holgura:1.0
+R3_a_('CD Quilicura Basket', 'CD AB Temuco', 19), Holgura:1.0
+R3_a_('CD Brisas', 'CD Arturo Prat de San Felipe', 19), Holgura:1.0
+R3_a_('CD La Unión', 'CD Alemán de Concepción', 18), Holgura:1.0
+R3_a_('CD AB Temuco', 'CD Brisas', 18), Holgura:1.0
+R3_a_('Club Atlético Puerto Varas', 'CD Manquehue', 18), Holgura:1.0
+R3_a_('CD Ceppi', 'Estadio Español', 18), Holgura:1.0
+R3_a_('CD Arturo Prat de San Felipe', 'Stadio Italiano', 18), Holgura:1.0
+R3_a_('CD Liceo Curicó', 'CD Quilicura Basket', 18), Holgura:1.0
+R3_a_('CD Alemán de Concepción', 'CD Ceppi', 17), Holgura:1.0
+R3_a_('CD Manquehue', 'CD La Unión', 17), Holgura:1.0
+R3_a_('CD Quilicura Basket', 'CD Brisas', 17), Holgura:1.0
+R3_a_('Stadio Italiano', 'CD Liceo Curicó', 17), Holgura:1.0
+R3_a_('Estadio Español', 'CD AB Temuco', 17), Holgura:1.0
+R3_a_('Estadio Palestino', 'CD Arturo Prat de San Felipe', 17), Holgura:1.0
+R3_a_('CD Liceo Curicó', 'CD Alemán de Concepción', 16), Holgura:1.0
+R3_a_('CD Brisas', 'Estadio Español', 16), Holgura:1.0
+R3_a_('CD AB Temuco', 'Stadio Italiano', 16), Holgura:1.0
+R3_a_('CD Ceppi', 'Estadio Palestino', 16), Holgura:1.0
+R3_a_('Club Atlético Puerto Varas', 'Club Andino de Los Ángeles', 16), Holgura:1.0
+R3_a_('CD Arturo Prat de San Felipe', 'CD Quilicura Basket', 16), Holgura:1.0
+R3_b_('Club Andino de Los Ángeles', 'Club Atlético Puerto Varas', 1), Holgura:1.0
+R3_b_('Stadio Italiano', 'CD AB Temuco', 1), Holgura:1.0
+R3_b_('Estadio Español', 'CD Brisas', 1), Holgura:1.0
+R3_b_('CD Manquehue', 'CD Achao', 1), Holgura:1.0
+R3_b_('CD Boston College', 'CD La Unión', 1), Holgura:1.0
+R3_b_('CD Alemán de Concepción', 'CD Liceo Curicó', 1), Holgura:1.0
+R3_b_('Club Atlético Puerto Varas', 'CD Boston College', 2), Holgura:1.0
+R3_b_('CD AB Temuco', 'Estadio Español', 2), Holgura:1.0
+R3_b_('CD Brisas', 'CD Quilicura Basket', 2), Holgura:1.0
+R3_b_('CD La Unión', 'CD Manquehue', 2), Holgura:1.0
+R3_b_('CD Ceppi', 'CD Alemán de Concepción', 2), Holgura:1.0
+R3_b_('CD Achao', 'Club Andino de Los Ángeles', 2), Holgura:1.0
+R3_b_('CD Quilicura Basket', 'CD Liceo Curicó', 3), Holgura:1.0
+R3_b_('Estadio Palestino', 'CD Achao', 3), Holgura:1.0
+R3_b_('Estadio Español', 'CD Ceppi', 3), Holgura:1.0
+R3_b_('CD Boston College', 'Club Andino de Los Ángeles', 3), Holgura:1.0
+R3_b_('CD Brisas', 'CD AB Temuco', 3), Holgura:1.0
+R3_b_('CD Alemán de Concepción', 'CD La Unión', 3), Holgura:1.0
+R3_b_('CD Arturo Prat de San Felipe', 'CD Brisas', 4), Holgura:1.0
+R3_b_('Club Atlético Puerto Varas', 'CD Alemán de Concepción', 4), Holgura:1.0
+R3_b_('CD AB Temuco', 'CD Quilicura Basket', 4), Holgura:1.0
+R3_b_('Club Andino de Los Ángeles', 'CD Manquehue', 4), Holgura:1.0
+R3_b_('CD Liceo Curicó', 'Estadio Español', 4), Holgura:1.0
+R3_b_('CD La Unión', 'Estadio Palestino', 4), Holgura:1.0
+R3_b_('CD Achao', 'CD Boston College', 4), Holgura:1.0
+R3_b_('CD Quilicura Basket', 'Club Atlético Puerto Varas', 5), Holgura:1.0
+R3_b_('CD AB Temuco', 'Club Andino de Los Ángeles', 5), Holgura:1.0
+R3_b_('Stadio Italiano', 'CD La Unión', 5), Holgura:1.0
+R3_b_('Estadio Español', 'CD Arturo Prat de San Felipe', 5), Holgura:1.0
+R3_b_('CD Boston College', 'CD Manquehue', 5), Holgura:1.0
+R3_b_('CD Brisas', 'CD Ceppi', 5), Holgura:1.0
+R3_b_('CD Alemán de Concepción', 'CD Achao', 5), Holgura:1.0
+R3_b_('Club Andino de Los Ángeles', 'CD Alemán de Concepción', 6), Holgura:1.0
+R3_b_('CD Liceo Curicó', 'CD Boston College', 6), Holgura:1.0
+R3_b_('CD Manquehue', 'Estadio Palestino', 6), Holgura:1.0
+R3_b_('CD La Unión', 'CD Brisas', 6), Holgura:1.0
+R3_b_('CD Ceppi', 'CD Quilicura Basket', 6), Holgura:1.0
+R3_b_('CD Achao', 'Estadio Español', 6), Holgura:1.0
+R3_b_('CD Arturo Prat de San Felipe', 'CD Ceppi', 7), Holgura:1.0
+R3_b_('CD AB Temuco', 'CD La Unión', 7), Holgura:1.0
+R3_b_('Estadio Palestino', 'Club Atlético Puerto Varas', 7), Holgura:1.0
+R3_b_('Stadio Italiano', 'CD Achao', 7), Holgura:1.0
+R3_b_('CD Brisas', 'CD Liceo Curicó', 7), Holgura:1.0
+R3_b_('CD Alemán de Concepción', 'CD Boston College', 7), Holgura:1.0
+R3_b_('Club Atlético Puerto Varas', 'Estadio Español', 8), Holgura:1.0
+R3_b_('Club Andino de Los Ángeles', 'Estadio Palestino', 8), Holgura:1.0
+R3_b_('CD Manquehue', 'CD Alemán de Concepción', 8), Holgura:1.0
+R3_b_('CD Boston College', 'Stadio Italiano', 8), Holgura:1.0
+R3_b_('CD La Unión', 'CD Quilicura Basket', 8), Holgura:1.0
+R3_b_('CD Ceppi', 'CD AB Temuco', 8), Holgura:1.0
+R3_b_('CD Achao', 'CD Brisas', 8), Holgura:1.0
+R3_b_('CD Quilicura Basket', 'Club Andino de Los Ángeles', 9), Holgura:1.0
+R3_b_('CD AB Temuco', 'Club Atlético Puerto Varas', 9), Holgura:1.0
+R3_b_('Stadio Italiano', 'CD Manquehue', 9), Holgura:1.0
+R3_b_('Estadio Español', 'CD La Unión', 9), Holgura:1.0
+R3_b_('CD Brisas', 'CD Boston College', 9), Holgura:1.0
+R3_b_('CD Ceppi', 'CD Liceo Curicó', 9), Holgura:1.0
+R3_b_('Club Atlético Puerto Varas', 'CD Arturo Prat de San Felipe', 10), Holgura:1.0
+R3_b_('Club Andino de Los Ángeles', 'CD Brisas', 10), Holgura:1.0
+R3_b_('CD Liceo Curicó', 'CD AB Temuco', 10), Holgura:1.0
+R3_b_('CD Manquehue', 'Estadio Español', 10), Holgura:1.0
+R3_b_('CD La Unión', 'CD Ceppi', 10), Holgura:1.0
+R3_b_('CD Achao', 'CD Quilicura Basket', 10), Holgura:1.0
+R3_b_('CD Alemán de Concepción', 'Stadio Italiano', 10), Holgura:1.0
+R3_b_('CD Quilicura Basket', 'CD Alemán de Concepción', 11), Holgura:1.0
+R3_b_('CD AB Temuco', 'CD Achao', 11), Holgura:1.0
+R3_b_('Stadio Italiano', 'Estadio Palestino', 11), Holgura:1.0
+R3_b_('CD Liceo Curicó', 'CD La Unión', 11), Holgura:1.0
+R3_b_('Estadio Español', 'CD Boston College', 11), Holgura:1.0
+R3_b_('CD Brisas', 'Club Atlético Puerto Varas', 11), Holgura:1.0
+R3_b_('CD Ceppi', 'Club Andino de Los Ángeles', 11), Holgura:1.0
+R3_b_('Club Atlético Puerto Varas', 'CD Liceo Curicó', 12), Holgura:1.0
+R3_b_('Club Andino de Los Ángeles', 'Stadio Italiano', 12), Holgura:1.0
+R3_b_('Estadio Palestino', 'Estadio Español', 12), Holgura:1.0
+R3_b_('CD Manquehue', 'CD Brisas', 12), Holgura:1.0
+R3_b_('CD La Unión', 'CD Arturo Prat de San Felipe', 12), Holgura:1.0
+R3_b_('CD Achao', 'CD Ceppi', 12), Holgura:1.0
+R3_b_('CD Alemán de Concepción', 'CD AB Temuco', 12), Holgura:1.0
+R3_b_('CD Quilicura Basket', 'Stadio Italiano', 13), Holgura:1.0
+R3_b_('CD Arturo Prat de San Felipe', 'Club Andino de Los Ángeles', 13), Holgura:1.0
+R3_b_('CD AB Temuco', 'CD Boston College', 13), Holgura:1.0
+R3_b_('CD Liceo Curicó', 'CD Achao', 13), Holgura:1.0
+R3_b_('Estadio Español', 'CD Alemán de Concepción', 13), Holgura:1.0
+R3_b_('CD La Unión', 'Club Atlético Puerto Varas', 13), Holgura:1.0
+R3_b_('CD Ceppi', 'CD Manquehue', 13), Holgura:1.0
+R3_b_('Club Atlético Puerto Varas', 'CD Ceppi', 14), Holgura:1.0
+R3_b_('Club Andino de Los Ángeles', 'CD Liceo Curicó', 14), Holgura:1.0
+R3_b_('Estadio Palestino', 'CD Quilicura Basket', 14), Holgura:1.0
+R3_b_('Stadio Italiano', 'Estadio Español', 14), Holgura:1.0
+R3_b_('CD Manquehue', 'CD AB Temuco', 14), Holgura:1.0
+R3_b_('CD Boston College', 'CD Arturo Prat de San Felipe', 14), Holgura:1.0
+R3_b_('CD Alemán de Concepción', 'CD Brisas', 14), Holgura:1.0
+R3_b_('CD Arturo Prat de San Felipe', 'CD Alemán de Concepción', 15), Holgura:1.0
+R3_b_('Club Atlético Puerto Varas', 'CD Achao', 15), Holgura:1.0
+R3_b_('CD AB Temuco', 'Estadio Palestino', 15), Holgura:1.0
+R3_b_('CD Liceo Curicó', 'CD Manquehue', 15), Holgura:1.0
+R3_b_('CD Brisas', 'Stadio Italiano', 15), Holgura:1.0
+R3_b_('CD La Unión', 'Club Andino de Los Ángeles', 15), Holgura:1.0
+R3_b_('CD Ceppi', 'CD Boston College', 15), Holgura:1.0
+R3_b_('CD Boston College', 'CD Ceppi', 30), Holgura:1.0
+R3_b_('Club Andino de Los Ángeles', 'CD La Unión', 30), Holgura:1.0
+R3_b_('Stadio Italiano', 'CD Brisas', 30), Holgura:1.0
+R3_b_('CD Manquehue', 'CD Liceo Curicó', 30), Holgura:1.0
+R3_b_('Estadio Palestino', 'CD AB Temuco', 30), Holgura:1.0
+R3_b_('CD Achao', 'Club Atlético Puerto Varas', 30), Holgura:1.0
+R3_b_('CD Alemán de Concepción', 'CD Arturo Prat de San Felipe', 30), Holgura:1.0
+R3_b_('CD Brisas', 'CD Alemán de Concepción', 29), Holgura:1.0
+R3_b_('CD Arturo Prat de San Felipe', 'CD Boston College', 29), Holgura:1.0
+R3_b_('CD AB Temuco', 'CD Manquehue', 29), Holgura:1.0
+R3_b_('Estadio Español', 'Stadio Italiano', 29), Holgura:1.0
+R3_b_('CD Quilicura Basket', 'Estadio Palestino', 29), Holgura:1.0
+R3_b_('CD Liceo Curicó', 'Club Andino de Los Ángeles', 29), Holgura:1.0
+R3_b_('CD Ceppi', 'Club Atlético Puerto Varas', 29), Holgura:1.0
+R3_b_('CD Manquehue', 'CD Ceppi', 28), Holgura:1.0
+R3_b_('Club Atlético Puerto Varas', 'CD La Unión', 28), Holgura:1.0
+R3_b_('CD Alemán de Concepción', 'Estadio Español', 28), Holgura:1.0
+R3_b_('CD Achao', 'CD Liceo Curicó', 28), Holgura:1.0
+R3_b_('CD Boston College', 'CD AB Temuco', 28), Holgura:1.0
+R3_b_('Club Andino de Los Ángeles', 'CD Arturo Prat de San Felipe', 28), Holgura:1.0
+R3_b_('Stadio Italiano', 'CD Quilicura Basket', 28), Holgura:1.0
+R3_b_('CD AB Temuco', 'CD Alemán de Concepción', 27), Holgura:1.0
+R3_b_('CD Ceppi', 'CD Achao', 27), Holgura:1.0
+R3_b_('CD Arturo Prat de San Felipe', 'CD La Unión', 27), Holgura:1.0
+R3_b_('CD Brisas', 'CD Manquehue', 27), Holgura:1.0
+R3_b_('Estadio Español', 'Estadio Palestino', 27), Holgura:1.0
+R3_b_('Stadio Italiano', 'Club Andino de Los Ángeles', 27), Holgura:1.0
+R3_b_('CD Liceo Curicó', 'Club Atlético Puerto Varas', 27), Holgura:1.0
+R3_b_('Club Andino de Los Ángeles', 'CD Ceppi', 26), Holgura:1.0
+R3_b_('Club Atlético Puerto Varas', 'CD Brisas', 26), Holgura:1.0
+R3_b_('CD Boston College', 'Estadio Español', 26), Holgura:1.0
+R3_b_('CD La Unión', 'CD Liceo Curicó', 26), Holgura:1.0
+R3_b_('Estadio Palestino', 'Stadio Italiano', 26), Holgura:1.0
+R3_b_('CD Achao', 'CD AB Temuco', 26), Holgura:1.0
+R3_b_('CD Alemán de Concepción', 'CD Quilicura Basket', 26), Holgura:1.0
+R3_b_('Stadio Italiano', 'CD Alemán de Concepción', 25), Holgura:1.0
+R3_b_('CD Quilicura Basket', 'CD Achao', 25), Holgura:1.0
+R3_b_('CD Ceppi', 'CD La Unión', 25), Holgura:1.0
+R3_b_('Estadio Español', 'CD Manquehue', 25), Holgura:1.0
+R3_b_('CD AB Temuco', 'CD Liceo Curicó', 25), Holgura:1.0
+R3_b_('CD Brisas', 'Club Andino de Los Ángeles', 25), Holgura:1.0
+R3_b_('CD Arturo Prat de San Felipe', 'Club Atlético Puerto Varas', 25), Holgura:1.0
+R3_b_('CD Liceo Curicó', 'CD Ceppi', 24), Holgura:1.0
+R3_b_('CD Boston College', 'CD Brisas', 24), Holgura:1.0
+R3_b_('CD La Unión', 'Estadio Español', 24), Holgura:1.0
+R3_b_('CD Manquehue', 'Stadio Italiano', 24), Holgura:1.0
+R3_b_('Club Atlético Puerto Varas', 'CD AB Temuco', 24), Holgura:1.0
+R3_b_('Club Andino de Los Ángeles', 'CD Quilicura Basket', 24), Holgura:1.0
+R3_b_('CD Brisas', 'CD Achao', 23), Holgura:1.0
+R3_b_('CD AB Temuco', 'CD Ceppi', 23), Holgura:1.0
+R3_b_('CD Quilicura Basket', 'CD La Unión', 23), Holgura:1.0
+R3_b_('Stadio Italiano', 'CD Boston College', 23), Holgura:1.0
+R3_b_('CD Alemán de Concepción', 'CD Manquehue', 23), Holgura:1.0
+R3_b_('Estadio Palestino', 'Club Andino de Los Ángeles', 23), Holgura:1.0
+R3_b_('Estadio Español', 'Club Atlético Puerto Varas', 23), Holgura:1.0
+R3_b_('CD Boston College', 'CD Alemán de Concepción', 22), Holgura:1.0
+R3_b_('CD Liceo Curicó', 'CD Brisas', 22), Holgura:1.0
+R3_b_('CD Achao', 'Stadio Italiano', 22), Holgura:1.0
+R3_b_('Club Atlético Puerto Varas', 'Estadio Palestino', 22), Holgura:1.0
+R3_b_('CD La Unión', 'CD AB Temuco', 22), Holgura:1.0
+R3_b_('CD Ceppi', 'CD Arturo Prat de San Felipe', 22), Holgura:1.0
+R3_b_('Estadio Español', 'CD Achao', 21), Holgura:1.0
+R3_b_('CD Quilicura Basket', 'CD Ceppi', 21), Holgura:1.0
+R3_b_('CD Brisas', 'CD La Unión', 21), Holgura:1.0
+R3_b_('Estadio Palestino', 'CD Manquehue', 21), Holgura:1.0
+R3_b_('CD Boston College', 'CD Liceo Curicó', 21), Holgura:1.0
+R3_b_('CD Alemán de Concepción', 'Club Andino de Los Ángeles', 21), Holgura:1.0
+R3_b_('CD Achao', 'CD Alemán de Concepción', 20), Holgura:1.0
+R3_b_('CD Ceppi', 'CD Brisas', 20), Holgura:1.0
+R3_b_('CD Manquehue', 'CD Boston College', 20), Holgura:1.0
+R3_b_('CD Arturo Prat de San Felipe', 'Estadio Español', 20), Holgura:1.0
+R3_b_('CD La Unión', 'Stadio Italiano', 20), Holgura:1.0
+R3_b_('Club Andino de Los Ángeles', 'CD AB Temuco', 20), Holgura:1.0
+R3_b_('Club Atlético Puerto Varas', 'CD Quilicura Basket', 20), Holgura:1.0
+R3_b_('CD Boston College', 'CD Achao', 19), Holgura:1.0
+R3_b_('Estadio Palestino', 'CD La Unión', 19), Holgura:1.0
+R3_b_('Estadio Español', 'CD Liceo Curicó', 19), Holgura:1.0
+R3_b_('CD Manquehue', 'Club Andino de Los Ángeles', 19), Holgura:1.0
+R3_b_('CD Quilicura Basket', 'CD AB Temuco', 19), Holgura:1.0
+R3_b_('CD Alemán de Concepción', 'Club Atlético Puerto Varas', 19), Holgura:1.0
+R3_b_('CD Brisas', 'CD Arturo Prat de San Felipe', 19), Holgura:1.0
+R3_b_('CD La Unión', 'CD Alemán de Concepción', 18), Holgura:1.0
+R3_b_('CD AB Temuco', 'CD Brisas', 18), Holgura:1.0
+R3_b_('Club Andino de Los Ángeles', 'CD Boston College', 18), Holgura:1.0
+R3_b_('CD Ceppi', 'Estadio Español', 18), Holgura:1.0
+R3_b_('CD Achao', 'Estadio Palestino', 18), Holgura:1.0
+R3_b_('CD Liceo Curicó', 'CD Quilicura Basket', 18), Holgura:1.0
+R3_b_('Club Andino de Los Ángeles', 'CD Achao', 17), Holgura:1.0
+R3_b_('CD Alemán de Concepción', 'CD Ceppi', 17), Holgura:1.0
+R3_b_('CD Manquehue', 'CD La Unión', 17), Holgura:1.0
+R3_b_('CD Quilicura Basket', 'CD Brisas', 17), Holgura:1.0
+R3_b_('Estadio Español', 'CD AB Temuco', 17), Holgura:1.0
+R3_b_('CD Boston College', 'Club Atlético Puerto Varas', 17), Holgura:1.0
+R3_b_('CD Liceo Curicó', 'CD Alemán de Concepción', 16), Holgura:1.0
+R3_b_('CD La Unión', 'CD Boston College', 16), Holgura:1.0
+R3_b_('CD Achao', 'CD Manquehue', 16), Holgura:1.0
+R3_b_('CD Brisas', 'Estadio Español', 16), Holgura:1.0
+R3_b_('CD AB Temuco', 'Stadio Italiano', 16), Holgura:1.0
+R3_b_('Club Atlético Puerto Varas', 'Club Andino de Los Ángeles', 16), Holgura:1.0
+R3_c_('CD Quilicura Basket', 'CD Arturo Prat de San Felipe', 1), Holgura:1.0
+R3_c_('Estadio Palestino', 'CD Ceppi', 1), Holgura:1.0
+R3_c_('Stadio Italiano', 'CD AB Temuco', 1), Holgura:1.0
+R3_c_('Estadio Español', 'CD Brisas', 1), Holgura:1.0
+R3_c_('CD Manquehue', 'CD Achao', 1), Holgura:1.0
+R3_c_('CD Boston College', 'CD La Unión', 1), Holgura:1.0
+R3_c_('CD Arturo Prat de San Felipe', 'Estadio Palestino', 2), Holgura:1.0
+R3_c_('Club Atlético Puerto Varas', 'CD Boston College', 2), Holgura:1.0
+R3_c_('CD AB Temuco', 'Estadio Español', 2), Holgura:1.0
+R3_c_('CD Liceo Curicó', 'Stadio Italiano', 2), Holgura:1.0
+R3_c_('CD Brisas', 'CD Quilicura Basket', 2), Holgura:1.0
+R3_c_('CD La Unión', 'CD Manquehue', 2), Holgura:1.0
+R3_c_('CD Achao', 'Club Andino de Los Ángeles', 2), Holgura:1.0
+R3_c_('CD Quilicura Basket', 'CD Liceo Curicó', 3), Holgura:1.0
+R3_c_('Estadio Palestino', 'CD Achao', 3), Holgura:1.0
+R3_c_('Stadio Italiano', 'CD Arturo Prat de San Felipe', 3), Holgura:1.0
+R3_c_('CD Manquehue', 'Club Atlético Puerto Varas', 3), Holgura:1.0
+R3_c_('CD Boston College', 'Club Andino de Los Ángeles', 3), Holgura:1.0
+R3_c_('CD Brisas', 'CD AB Temuco', 3), Holgura:1.0
+R3_c_('CD Arturo Prat de San Felipe', 'CD Brisas', 4), Holgura:1.0
+R3_c_('Club Atlético Puerto Varas', 'CD Alemán de Concepción', 4), Holgura:1.0
+R3_c_('Club Andino de Los Ángeles', 'CD Manquehue', 4), Holgura:1.0
+R3_c_('CD Liceo Curicó', 'Estadio Español', 4), Holgura:1.0
+R3_c_('CD La Unión', 'Estadio Palestino', 4), Holgura:1.0
+R3_c_('CD Ceppi', 'Stadio Italiano', 4), Holgura:1.0
+R3_c_('CD Achao', 'CD Boston College', 4), Holgura:1.0
+R3_c_('CD AB Temuco', 'Club Andino de Los Ángeles', 5), Holgura:1.0
+R3_c_('Estadio Palestino', 'CD Liceo Curicó', 5), Holgura:1.0
+R3_c_('Stadio Italiano', 'CD La Unión', 5), Holgura:1.0
+R3_c_('Estadio Español', 'CD Arturo Prat de San Felipe', 5), Holgura:1.0
+R3_c_('CD Brisas', 'CD Ceppi', 5), Holgura:1.0
+R3_c_('CD Alemán de Concepción', 'CD Achao', 5), Holgura:1.0
+R3_c_('CD Arturo Prat de San Felipe', 'CD AB Temuco', 6), Holgura:1.0
+R3_c_('Club Atlético Puerto Varas', 'Stadio Italiano', 6), Holgura:1.0
+R3_c_('Club Andino de Los Ángeles', 'CD Alemán de Concepción', 6), Holgura:1.0
+R3_c_('CD Liceo Curicó', 'CD Boston College', 6), Holgura:1.0
+R3_c_('CD La Unión', 'CD Brisas', 6), Holgura:1.0
+R3_c_('CD Achao', 'Estadio Español', 6), Holgura:1.0
+R3_c_('CD Arturo Prat de San Felipe', 'CD Ceppi', 7), Holgura:1.0
+R3_c_('CD AB Temuco', 'CD La Unión', 7), Holgura:1.0
+R3_c_('Estadio Palestino', 'Club Atlético Puerto Varas', 7), Holgura:1.0
+R3_c_('Stadio Italiano', 'CD Achao', 7), Holgura:1.0
+R3_c_('Estadio Español', 'Club Andino de Los Ángeles', 7), Holgura:1.0
+R3_c_('CD Brisas', 'CD Liceo Curicó', 7), Holgura:1.0
+R3_c_('Club Atlético Puerto Varas', 'Estadio Español', 8), Holgura:1.0
+R3_c_('Club Andino de Los Ángeles', 'Estadio Palestino', 8), Holgura:1.0
+R3_c_('CD Liceo Curicó', 'CD Arturo Prat de San Felipe', 8), Holgura:1.0
+R3_c_('CD Boston College', 'Stadio Italiano', 8), Holgura:1.0
+R3_c_('CD La Unión', 'CD Quilicura Basket', 8), Holgura:1.0
+R3_c_('CD Achao', 'CD Brisas', 8), Holgura:1.0
+R3_c_('CD Quilicura Basket', 'Club Andino de Los Ángeles', 9), Holgura:1.0
+R3_c_('CD Arturo Prat de San Felipe', 'CD Achao', 9), Holgura:1.0
+R3_c_('CD AB Temuco', 'Club Atlético Puerto Varas', 9), Holgura:1.0
+R3_c_('Stadio Italiano', 'CD Manquehue', 9), Holgura:1.0
+R3_c_('Estadio Español', 'CD La Unión', 9), Holgura:1.0
+R3_c_('CD Ceppi', 'CD Liceo Curicó', 9), Holgura:1.0
+R3_c_('Club Atlético Puerto Varas', 'CD Arturo Prat de San Felipe', 10), Holgura:1.0
+R3_c_('Club Andino de Los Ángeles', 'CD Brisas', 10), Holgura:1.0
+R3_c_('CD Liceo Curicó', 'CD AB Temuco', 10), Holgura:1.0
+R3_c_('CD Manquehue', 'Estadio Español', 10), Holgura:1.0
+R3_c_('CD Boston College', 'Estadio Palestino', 10), Holgura:1.0
+R3_c_('CD La Unión', 'CD Ceppi', 10), Holgura:1.0
+R3_c_('CD Achao', 'CD Quilicura Basket', 10), Holgura:1.0
+R3_c_('CD Arturo Prat de San Felipe', 'CD Manquehue', 11), Holgura:1.0
+R3_c_('Stadio Italiano', 'Estadio Palestino', 11), Holgura:1.0
+R3_c_('CD Liceo Curicó', 'CD La Unión', 11), Holgura:1.0
+R3_c_('Estadio Español', 'CD Boston College', 11), Holgura:1.0
+R3_c_('CD Brisas', 'Club Atlético Puerto Varas', 11), Holgura:1.0
+R3_c_('CD Ceppi', 'Club Andino de Los Ángeles', 11), Holgura:1.0
+R3_c_('Club Andino de Los Ángeles', 'Stadio Italiano', 12), Holgura:1.0
+R3_c_('Estadio Palestino', 'Estadio Español', 12), Holgura:1.0
+R3_c_('CD Manquehue', 'CD Brisas', 12), Holgura:1.0
+R3_c_('CD La Unión', 'CD Arturo Prat de San Felipe', 12), Holgura:1.0
+R3_c_('CD Achao', 'CD Ceppi', 12), Holgura:1.0
+R3_c_('CD Alemán de Concepción', 'CD AB Temuco', 12), Holgura:1.0
+R3_c_('CD Quilicura Basket', 'Stadio Italiano', 13), Holgura:1.0
+R3_c_('CD Arturo Prat de San Felipe', 'Club Andino de Los Ángeles', 13), Holgura:1.0
+R3_c_('CD AB Temuco', 'CD Boston College', 13), Holgura:1.0
+R3_c_('CD Liceo Curicó', 'CD Achao', 13), Holgura:1.0
+R3_c_('Estadio Español', 'CD Alemán de Concepción', 13), Holgura:1.0
+R3_c_('CD Brisas', 'Estadio Palestino', 13), Holgura:1.0
+R3_c_('CD La Unión', 'Club Atlético Puerto Varas', 13), Holgura:1.0
+R3_c_('Club Andino de Los Ángeles', 'CD Liceo Curicó', 14), Holgura:1.0
+R3_c_('Estadio Palestino', 'CD Quilicura Basket', 14), Holgura:1.0
+R3_c_('Stadio Italiano', 'Estadio Español', 14), Holgura:1.0
+R3_c_('CD Manquehue', 'CD AB Temuco', 14), Holgura:1.0
+R3_c_('CD Boston College', 'CD Arturo Prat de San Felipe', 14), Holgura:1.0
+R3_c_('CD Achao', 'CD La Unión', 14), Holgura:1.0
+R3_c_('CD Alemán de Concepción', 'CD Brisas', 14), Holgura:1.0
+R3_c_('CD Quilicura Basket', 'Estadio Español', 15), Holgura:1.0
+R3_c_('Club Atlético Puerto Varas', 'CD Achao', 15), Holgura:1.0
+R3_c_('CD Liceo Curicó', 'CD Manquehue', 15), Holgura:1.0
+R3_c_('CD Brisas', 'Stadio Italiano', 15), Holgura:1.0
+R3_c_('CD La Unión', 'Club Andino de Los Ángeles', 15), Holgura:1.0
+R3_c_('CD Ceppi', 'CD Boston College', 15), Holgura:1.0
+R3_c_('CD Boston College', 'CD Ceppi', 30), Holgura:1.0
+R3_c_('Club Andino de Los Ángeles', 'CD La Unión', 30), Holgura:1.0
+R3_c_('Stadio Italiano', 'CD Brisas', 30), Holgura:1.0
+R3_c_('CD Manquehue', 'CD Liceo Curicó', 30), Holgura:1.0
+R3_c_('CD Achao', 'Club Atlético Puerto Varas', 30), Holgura:1.0
+R3_c_('Estadio Español', 'CD Quilicura Basket', 30), Holgura:1.0
+R3_c_('CD Brisas', 'CD Alemán de Concepción', 29), Holgura:1.0
+R3_c_('CD La Unión', 'CD Achao', 29), Holgura:1.0
+R3_c_('CD Arturo Prat de San Felipe', 'CD Boston College', 29), Holgura:1.0
+R3_c_('CD AB Temuco', 'CD Manquehue', 29), Holgura:1.0
+R3_c_('Estadio Español', 'Stadio Italiano', 29), Holgura:1.0
+R3_c_('CD Quilicura Basket', 'Estadio Palestino', 29), Holgura:1.0
+R3_c_('CD Liceo Curicó', 'Club Andino de Los Ángeles', 29), Holgura:1.0
+R3_c_('Club Atlético Puerto Varas', 'CD La Unión', 28), Holgura:1.0
+R3_c_('Estadio Palestino', 'CD Brisas', 28), Holgura:1.0
+R3_c_('CD Alemán de Concepción', 'Estadio Español', 28), Holgura:1.0
+R3_c_('CD Achao', 'CD Liceo Curicó', 28), Holgura:1.0
+R3_c_('CD Boston College', 'CD AB Temuco', 28), Holgura:1.0
+R3_c_('Club Andino de Los Ángeles', 'CD Arturo Prat de San Felipe', 28), Holgura:1.0
+R3_c_('Stadio Italiano', 'CD Quilicura Basket', 28), Holgura:1.0
+R3_c_('CD AB Temuco', 'CD Alemán de Concepción', 27), Holgura:1.0
+R3_c_('CD Ceppi', 'CD Achao', 27), Holgura:1.0
+R3_c_('CD Arturo Prat de San Felipe', 'CD La Unión', 27), Holgura:1.0
+R3_c_('CD Brisas', 'CD Manquehue', 27), Holgura:1.0
+R3_c_('Estadio Español', 'Estadio Palestino', 27), Holgura:1.0
+R3_c_('Stadio Italiano', 'Club Andino de Los Ángeles', 27), Holgura:1.0
+R3_c_('Club Andino de Los Ángeles', 'CD Ceppi', 26), Holgura:1.0
+R3_c_('Club Atlético Puerto Varas', 'CD Brisas', 26), Holgura:1.0
+R3_c_('CD Boston College', 'Estadio Español', 26), Holgura:1.0
+R3_c_('CD La Unión', 'CD Liceo Curicó', 26), Holgura:1.0
+R3_c_('Estadio Palestino', 'Stadio Italiano', 26), Holgura:1.0
+R3_c_('CD Manquehue', 'CD Arturo Prat de San Felipe', 26), Holgura:1.0
+R3_c_('CD Quilicura Basket', 'CD Achao', 25), Holgura:1.0
+R3_c_('CD Ceppi', 'CD La Unión', 25), Holgura:1.0
+R3_c_('Estadio Palestino', 'CD Boston College', 25), Holgura:1.0
+R3_c_('Estadio Español', 'CD Manquehue', 25), Holgura:1.0
+R3_c_('CD AB Temuco', 'CD Liceo Curicó', 25), Holgura:1.0
+R3_c_('CD Brisas', 'Club Andino de Los Ángeles', 25), Holgura:1.0
+R3_c_('CD Arturo Prat de San Felipe', 'Club Atlético Puerto Varas', 25), Holgura:1.0
+R3_c_('CD Liceo Curicó', 'CD Ceppi', 24), Holgura:1.0
+R3_c_('CD La Unión', 'Estadio Español', 24), Holgura:1.0
+R3_c_('CD Manquehue', 'Stadio Italiano', 24), Holgura:1.0
+R3_c_('Club Atlético Puerto Varas', 'CD AB Temuco', 24), Holgura:1.0
+R3_c_('CD Achao', 'CD Arturo Prat de San Felipe', 24), Holgura:1.0
+R3_c_('Club Andino de Los Ángeles', 'CD Quilicura Basket', 24), Holgura:1.0
+R3_c_('CD Brisas', 'CD Achao', 23), Holgura:1.0
+R3_c_('CD Quilicura Basket', 'CD La Unión', 23), Holgura:1.0
+R3_c_('Stadio Italiano', 'CD Boston College', 23), Holgura:1.0
+R3_c_('CD Arturo Prat de San Felipe', 'CD Liceo Curicó', 23), Holgura:1.0
+R3_c_('Estadio Palestino', 'Club Andino de Los Ángeles', 23), Holgura:1.0
+R3_c_('Estadio Español', 'Club Atlético Puerto Varas', 23), Holgura:1.0
+R3_c_('CD Liceo Curicó', 'CD Brisas', 22), Holgura:1.0
+R3_c_('Club Andino de Los Ángeles', 'Estadio Español', 22), Holgura:1.0
+R3_c_('CD Achao', 'Stadio Italiano', 22), Holgura:1.0
+R3_c_('Club Atlético Puerto Varas', 'Estadio Palestino', 22), Holgura:1.0
+R3_c_('CD La Unión', 'CD AB Temuco', 22), Holgura:1.0
+R3_c_('CD Ceppi', 'CD Arturo Prat de San Felipe', 22), Holgura:1.0
+R3_c_('Estadio Español', 'CD Achao', 21), Holgura:1.0
+R3_c_('CD Brisas', 'CD La Unión', 21), Holgura:1.0
+R3_c_('CD Boston College', 'CD Liceo Curicó', 21), Holgura:1.0
+R3_c_('CD Alemán de Concepción', 'Club Andino de Los Ángeles', 21), Holgura:1.0
+R3_c_('Stadio Italiano', 'Club Atlético Puerto Varas', 21), Holgura:1.0
+R3_c_('CD AB Temuco', 'CD Arturo Prat de San Felipe', 21), Holgura:1.0
+R3_c_('CD Achao', 'CD Alemán de Concepción', 20), Holgura:1.0
+R3_c_('CD Ceppi', 'CD Brisas', 20), Holgura:1.0
+R3_c_('CD Arturo Prat de San Felipe', 'Estadio Español', 20), Holgura:1.0
+R3_c_('CD La Unión', 'Stadio Italiano', 20), Holgura:1.0
+R3_c_('CD Liceo Curicó', 'Estadio Palestino', 20), Holgura:1.0
+R3_c_('Club Andino de Los Ángeles', 'CD AB Temuco', 20), Holgura:1.0
+R3_c_('CD Boston College', 'CD Achao', 19), Holgura:1.0
+R3_c_('Stadio Italiano', 'CD Ceppi', 19), Holgura:1.0
+R3_c_('Estadio Palestino', 'CD La Unión', 19), Holgura:1.0
+R3_c_('Estadio Español', 'CD Liceo Curicó', 19), Holgura:1.0
+R3_c_('CD Manquehue', 'Club Andino de Los Ángeles', 19), Holgura:1.0
+R3_c_('CD Alemán de Concepción', 'Club Atlético Puerto Varas', 19), Holgura:1.0
+R3_c_('CD Brisas', 'CD Arturo Prat de San Felipe', 19), Holgura:1.0
+R3_c_('CD AB Temuco', 'CD Brisas', 18), Holgura:1.0
+R3_c_('Club Andino de Los Ángeles', 'CD Boston College', 18), Holgura:1.0
+R3_c_('Club Atlético Puerto Varas', 'CD Manquehue', 18), Holgura:1.0
+R3_c_('CD Arturo Prat de San Felipe', 'Stadio Italiano', 18), Holgura:1.0
+R3_c_('CD Achao', 'Estadio Palestino', 18), Holgura:1.0
+R3_c_('CD Liceo Curicó', 'CD Quilicura Basket', 18), Holgura:1.0
+R3_c_('Club Andino de Los Ángeles', 'CD Achao', 17), Holgura:1.0
+R3_c_('CD Manquehue', 'CD La Unión', 17), Holgura:1.0
+R3_c_('CD Quilicura Basket', 'CD Brisas', 17), Holgura:1.0
+R3_c_('Stadio Italiano', 'CD Liceo Curicó', 17), Holgura:1.0
+R3_c_('Estadio Español', 'CD AB Temuco', 17), Holgura:1.0
+R3_c_('CD Boston College', 'Club Atlético Puerto Varas', 17), Holgura:1.0
+R3_c_('Estadio Palestino', 'CD Arturo Prat de San Felipe', 17), Holgura:1.0
+R3_c_('CD La Unión', 'CD Boston College', 16), Holgura:1.0
+R3_c_('CD Achao', 'CD Manquehue', 16), Holgura:1.0
+R3_c_('CD Brisas', 'Estadio Español', 16), Holgura:1.0
+R3_c_('CD AB Temuco', 'Stadio Italiano', 16), Holgura:1.0
+R3_c_('CD Ceppi', 'Estadio Palestino', 16), Holgura:1.0
+R3_c_('CD Arturo Prat de San Felipe', 'CD Quilicura Basket', 16), Holgura:1.0
+R3_d_('CD Quilicura Basket', 'CD Arturo Prat de San Felipe', 1), Holgura:1.0
+R3_d_('Club Andino de Los Ángeles', 'Club Atlético Puerto Varas', 1), Holgura:1.0
+R3_d_('Estadio Palestino', 'CD Ceppi', 1), Holgura:1.0
+R3_d_('Stadio Italiano', 'CD AB Temuco', 1), Holgura:1.0
+R3_d_('Estadio Español', 'CD Brisas', 1), Holgura:1.0
+R3_d_('CD Manquehue', 'CD Achao', 1), Holgura:1.0
+R3_d_('CD Alemán de Concepción', 'CD Liceo Curicó', 1), Holgura:1.0
+R3_d_('CD Arturo Prat de San Felipe', 'Estadio Palestino', 2), Holgura:1.0
+R3_d_('Club Atlético Puerto Varas', 'CD Boston College', 2), Holgura:1.0
+R3_d_('CD Liceo Curicó', 'Stadio Italiano', 2), Holgura:1.0
+R3_d_('CD Brisas', 'CD Quilicura Basket', 2), Holgura:1.0
+R3_d_('CD Ceppi', 'CD Alemán de Concepción', 2), Holgura:1.0
+R3_d_('CD Achao', 'Club Andino de Los Ángeles', 2), Holgura:1.0
+R3_d_('CD Quilicura Basket', 'CD Liceo Curicó', 3), Holgura:1.0
+R3_d_('Estadio Palestino', 'CD Achao', 3), Holgura:1.0
+R3_d_('Stadio Italiano', 'CD Arturo Prat de San Felipe', 3), Holgura:1.0
+R3_d_('Estadio Español', 'CD Ceppi', 3), Holgura:1.0
+R3_d_('CD Manquehue', 'Club Atlético Puerto Varas', 3), Holgura:1.0
+R3_d_('CD Boston College', 'Club Andino de Los Ángeles', 3), Holgura:1.0
+R3_d_('CD Alemán de Concepción', 'CD La Unión', 3), Holgura:1.0
+R3_d_('CD Arturo Prat de San Felipe', 'CD Brisas', 4), Holgura:1.0
+R3_d_('Club Atlético Puerto Varas', 'CD Alemán de Concepción', 4), Holgura:1.0
+R3_d_('CD AB Temuco', 'CD Quilicura Basket', 4), Holgura:1.0
+R3_d_('Club Andino de Los Ángeles', 'CD Manquehue', 4), Holgura:1.0
+R3_d_('CD Liceo Curicó', 'Estadio Español', 4), Holgura:1.0
+R3_d_('CD La Unión', 'Estadio Palestino', 4), Holgura:1.0
+R3_d_('CD Achao', 'CD Boston College', 4), Holgura:1.0
+R3_d_('CD AB Temuco', 'Club Andino de Los Ángeles', 5), Holgura:1.0
+R3_d_('Estadio Palestino', 'CD Liceo Curicó', 5), Holgura:1.0
+R3_d_('Estadio Español', 'CD Arturo Prat de San Felipe', 5), Holgura:1.0
+R3_d_('CD Boston College', 'CD Manquehue', 5), Holgura:1.0
+R3_d_('CD Brisas', 'CD Ceppi', 5), Holgura:1.0
+R3_d_('CD Alemán de Concepción', 'CD Achao', 5), Holgura:1.0
+R3_d_('CD Arturo Prat de San Felipe', 'CD AB Temuco', 6), Holgura:1.0
+R3_d_('Club Atlético Puerto Varas', 'Stadio Italiano', 6), Holgura:1.0
+R3_d_('Club Andino de Los Ángeles', 'CD Alemán de Concepción', 6), Holgura:1.0
+R3_d_('CD Liceo Curicó', 'CD Boston College', 6), Holgura:1.0
+R3_d_('CD Manquehue', 'Estadio Palestino', 6), Holgura:1.0
+R3_d_('CD La Unión', 'CD Brisas', 6), Holgura:1.0
+R3_d_('CD Ceppi', 'CD Quilicura Basket', 6), Holgura:1.0
+R3_d_('CD Achao', 'Estadio Español', 6), Holgura:1.0
+R3_d_('CD Quilicura Basket', 'CD Manquehue', 7), Holgura:1.0
+R3_d_('CD Arturo Prat de San Felipe', 'CD Ceppi', 7), Holgura:1.0
+R3_d_('CD AB Temuco', 'CD La Unión', 7), Holgura:1.0
+R3_d_('Estadio Palestino', 'Club Atlético Puerto Varas', 7), Holgura:1.0
+R3_d_('Stadio Italiano', 'CD Achao', 7), Holgura:1.0
+R3_d_('Estadio Español', 'Club Andino de Los Ángeles', 7), Holgura:1.0
+R3_d_('CD Brisas', 'CD Liceo Curicó', 7), Holgura:1.0
+R3_d_('CD Alemán de Concepción', 'CD Boston College', 7), Holgura:1.0
+R3_d_('Club Atlético Puerto Varas', 'Estadio Español', 8), Holgura:1.0
+R3_d_('Club Andino de Los Ángeles', 'Estadio Palestino', 8), Holgura:1.0
+R3_d_('CD Liceo Curicó', 'CD Arturo Prat de San Felipe', 8), Holgura:1.0
+R3_d_('CD Manquehue', 'CD Alemán de Concepción', 8), Holgura:1.0
+R3_d_('CD Boston College', 'Stadio Italiano', 8), Holgura:1.0
+R3_d_('CD Ceppi', 'CD AB Temuco', 8), Holgura:1.0
+R3_d_('CD Quilicura Basket', 'Club Andino de Los Ángeles', 9), Holgura:1.0
+R3_d_('CD Arturo Prat de San Felipe', 'CD Achao', 9), Holgura:1.0
+R3_d_('CD AB Temuco', 'Club Atlético Puerto Varas', 9), Holgura:1.0
+R3_d_('Estadio Palestino', 'CD Alemán de Concepción', 9), Holgura:1.0
+R3_d_('Estadio Español', 'CD La Unión', 9), Holgura:1.0
+R3_d_('CD Brisas', 'CD Boston College', 9), Holgura:1.0
+R3_d_('CD Ceppi', 'CD Liceo Curicó', 9), Holgura:1.0
+R3_d_('Club Atlético Puerto Varas', 'CD Arturo Prat de San Felipe', 10), Holgura:1.0
+R3_d_('Club Andino de Los Ángeles', 'CD Brisas', 10), Holgura:1.0
+R3_d_('CD Liceo Curicó', 'CD AB Temuco', 10), Holgura:1.0
+R3_d_('CD Manquehue', 'Estadio Español', 10), Holgura:1.0
+R3_d_('CD Boston College', 'Estadio Palestino', 10), Holgura:1.0
+R3_d_('CD Achao', 'CD Quilicura Basket', 10), Holgura:1.0
+R3_d_('CD Alemán de Concepción', 'Stadio Italiano', 10), Holgura:1.0
+R3_d_('CD Quilicura Basket', 'CD Alemán de Concepción', 11), Holgura:1.0
+R3_d_('CD Arturo Prat de San Felipe', 'CD Manquehue', 11), Holgura:1.0
+R3_d_('Stadio Italiano', 'Estadio Palestino', 11), Holgura:1.0
+R3_d_('CD Liceo Curicó', 'CD La Unión', 11), Holgura:1.0
+R3_d_('Estadio Español', 'CD Boston College', 11), Holgura:1.0
+R3_d_('CD Brisas', 'Club Atlético Puerto Varas', 11), Holgura:1.0
+R3_d_('CD Ceppi', 'Club Andino de Los Ángeles', 11), Holgura:1.0
+R3_d_('Club Atlético Puerto Varas', 'CD Liceo Curicó', 12), Holgura:1.0
+R3_d_('Club Andino de Los Ángeles', 'Stadio Italiano', 12), Holgura:1.0
+R3_d_('Estadio Palestino', 'Estadio Español', 12), Holgura:1.0
+R3_d_('CD Manquehue', 'CD Brisas', 12), Holgura:1.0
+R3_d_('CD Boston College', 'CD Quilicura Basket', 12), Holgura:1.0
+R3_d_('CD Achao', 'CD Ceppi', 12), Holgura:1.0
+R3_d_('CD Quilicura Basket', 'Stadio Italiano', 13), Holgura:1.0
+R3_d_('CD Arturo Prat de San Felipe', 'Club Andino de Los Ángeles', 13), Holgura:1.0
+R3_d_('CD AB Temuco', 'CD Boston College', 13), Holgura:1.0
+R3_d_('Estadio Español', 'CD Alemán de Concepción', 13), Holgura:1.0
+R3_d_('CD Brisas', 'Estadio Palestino', 13), Holgura:1.0
+R3_d_('CD Ceppi', 'CD Manquehue', 13), Holgura:1.0
+R3_d_('Club Atlético Puerto Varas', 'CD Ceppi', 14), Holgura:1.0
+R3_d_('Club Andino de Los Ángeles', 'CD Liceo Curicó', 14), Holgura:1.0
+R3_d_('Stadio Italiano', 'Estadio Español', 14), Holgura:1.0
+R3_d_('CD Manquehue', 'CD AB Temuco', 14), Holgura:1.0
+R3_d_('CD Boston College', 'CD Arturo Prat de San Felipe', 14), Holgura:1.0
+R3_d_('CD Achao', 'CD La Unión', 14), Holgura:1.0
+R3_d_('CD Alemán de Concepción', 'CD Brisas', 14), Holgura:1.0
+R3_d_('CD Quilicura Basket', 'Estadio Español', 15), Holgura:1.0
+R3_d_('CD Arturo Prat de San Felipe', 'CD Alemán de Concepción', 15), Holgura:1.0
+R3_d_('Club Atlético Puerto Varas', 'CD Achao', 15), Holgura:1.0
+R3_d_('CD AB Temuco', 'Estadio Palestino', 15), Holgura:1.0
+R3_d_('CD Liceo Curicó', 'CD Manquehue', 15), Holgura:1.0
+R3_d_('CD Brisas', 'Stadio Italiano', 15), Holgura:1.0
+R3_d_('CD Ceppi', 'CD Boston College', 15), Holgura:1.0
+R3_d_('CD Boston College', 'CD Ceppi', 30), Holgura:1.0
+R3_d_('Stadio Italiano', 'CD Brisas', 30), Holgura:1.0
+R3_d_('CD Manquehue', 'CD Liceo Curicó', 30), Holgura:1.0
+R3_d_('Estadio Palestino', 'CD AB Temuco', 30), Holgura:1.0
+R3_d_('CD Achao', 'Club Atlético Puerto Varas', 30), Holgura:1.0
+R3_d_('CD Alemán de Concepción', 'CD Arturo Prat de San Felipe', 30), Holgura:1.0
+R3_d_('Estadio Español', 'CD Quilicura Basket', 30), Holgura:1.0
+R3_d_('CD Brisas', 'CD Alemán de Concepción', 29), Holgura:1.0
+R3_d_('CD La Unión', 'CD Achao', 29), Holgura:1.0
+R3_d_('CD Arturo Prat de San Felipe', 'CD Boston College', 29), Holgura:1.0
+R3_d_('CD AB Temuco', 'CD Manquehue', 29), Holgura:1.0
+R3_d_('Estadio Español', 'Stadio Italiano', 29), Holgura:1.0
+R3_d_('CD Liceo Curicó', 'Club Andino de Los Ángeles', 29), Holgura:1.0
+R3_d_('CD Ceppi', 'Club Atlético Puerto Varas', 29), Holgura:1.0
+R3_d_('CD Manquehue', 'CD Ceppi', 28), Holgura:1.0
+R3_d_('Estadio Palestino', 'CD Brisas', 28), Holgura:1.0
+R3_d_('CD Alemán de Concepción', 'Estadio Español', 28), Holgura:1.0
+R3_d_('CD Boston College', 'CD AB Temuco', 28), Holgura:1.0
+R3_d_('Club Andino de Los Ángeles', 'CD Arturo Prat de San Felipe', 28), Holgura:1.0
+R3_d_('Stadio Italiano', 'CD Quilicura Basket', 28), Holgura:1.0
+R3_d_('CD Ceppi', 'CD Achao', 27), Holgura:1.0
+R3_d_('CD Quilicura Basket', 'CD Boston College', 27), Holgura:1.0
+R3_d_('CD Brisas', 'CD Manquehue', 27), Holgura:1.0
+R3_d_('Estadio Español', 'Estadio Palestino', 27), Holgura:1.0
+R3_d_('Stadio Italiano', 'Club Andino de Los Ángeles', 27), Holgura:1.0
+R3_d_('CD Liceo Curicó', 'Club Atlético Puerto Varas', 27), Holgura:1.0
+R3_d_('Club Andino de Los Ángeles', 'CD Ceppi', 26), Holgura:1.0
+R3_d_('Club Atlético Puerto Varas', 'CD Brisas', 26), Holgura:1.0
+R3_d_('CD Boston College', 'Estadio Español', 26), Holgura:1.0
+R3_d_('CD La Unión', 'CD Liceo Curicó', 26), Holgura:1.0
+R3_d_('Estadio Palestino', 'Stadio Italiano', 26), Holgura:1.0
+R3_d_('CD Manquehue', 'CD Arturo Prat de San Felipe', 26), Holgura:1.0
+R3_d_('CD Alemán de Concepción', 'CD Quilicura Basket', 26), Holgura:1.0
+R3_d_('Stadio Italiano', 'CD Alemán de Concepción', 25), Holgura:1.0
+R3_d_('CD Quilicura Basket', 'CD Achao', 25), Holgura:1.0
+R3_d_('Estadio Palestino', 'CD Boston College', 25), Holgura:1.0
+R3_d_('Estadio Español', 'CD Manquehue', 25), Holgura:1.0
+R3_d_('CD AB Temuco', 'CD Liceo Curicó', 25), Holgura:1.0
+R3_d_('CD Brisas', 'Club Andino de Los Ángeles', 25), Holgura:1.0
+R3_d_('CD Arturo Prat de San Felipe', 'Club Atlético Puerto Varas', 25), Holgura:1.0
+R3_d_('CD Liceo Curicó', 'CD Ceppi', 24), Holgura:1.0
+R3_d_('CD Boston College', 'CD Brisas', 24), Holgura:1.0
+R3_d_('CD La Unión', 'Estadio Español', 24), Holgura:1.0
+R3_d_('CD Alemán de Concepción', 'Estadio Palestino', 24), Holgura:1.0
+R3_d_('Club Atlético Puerto Varas', 'CD AB Temuco', 24), Holgura:1.0
+R3_d_('CD Achao', 'CD Arturo Prat de San Felipe', 24), Holgura:1.0
+R3_d_('Club Andino de Los Ángeles', 'CD Quilicura Basket', 24), Holgura:1.0
+R3_d_('CD AB Temuco', 'CD Ceppi', 23), Holgura:1.0
+R3_d_('Stadio Italiano', 'CD Boston College', 23), Holgura:1.0
+R3_d_('CD Alemán de Concepción', 'CD Manquehue', 23), Holgura:1.0
+R3_d_('CD Arturo Prat de San Felipe', 'CD Liceo Curicó', 23), Holgura:1.0
+R3_d_('Estadio Palestino', 'Club Andino de Los Ángeles', 23), Holgura:1.0
+R3_d_('Estadio Español', 'Club Atlético Puerto Varas', 23), Holgura:1.0
+R3_d_('CD Boston College', 'CD Alemán de Concepción', 22), Holgura:1.0
+R3_d_('CD Liceo Curicó', 'CD Brisas', 22), Holgura:1.0
+R3_d_('Club Andino de Los Ángeles', 'Estadio Español', 22), Holgura:1.0
+R3_d_('CD Achao', 'Stadio Italiano', 22), Holgura:1.0
+R3_d_('Club Atlético Puerto Varas', 'Estadio Palestino', 22), Holgura:1.0
+R3_d_('CD La Unión', 'CD AB Temuco', 22), Holgura:1.0
+R3_d_('CD Ceppi', 'CD Arturo Prat de San Felipe', 22), Holgura:1.0
+R3_d_('CD Manquehue', 'CD Quilicura Basket', 22), Holgura:1.0
+R3_d_('Estadio Español', 'CD Achao', 21), Holgura:1.0
+R3_d_('CD Quilicura Basket', 'CD Ceppi', 21), Holgura:1.0
+R3_d_('CD Brisas', 'CD La Unión', 21), Holgura:1.0
+R3_d_('Estadio Palestino', 'CD Manquehue', 21), Holgura:1.0
+R3_d_('CD Boston College', 'CD Liceo Curicó', 21), Holgura:1.0
+R3_d_('CD Alemán de Concepción', 'Club Andino de Los Ángeles', 21), Holgura:1.0
+R3_d_('Stadio Italiano', 'Club Atlético Puerto Varas', 21), Holgura:1.0
+R3_d_('CD AB Temuco', 'CD Arturo Prat de San Felipe', 21), Holgura:1.0
+R3_d_('CD Achao', 'CD Alemán de Concepción', 20), Holgura:1.0
+R3_d_('CD Ceppi', 'CD Brisas', 20), Holgura:1.0
+R3_d_('CD Manquehue', 'CD Boston College', 20), Holgura:1.0
+R3_d_('CD Arturo Prat de San Felipe', 'Estadio Español', 20), Holgura:1.0
+R3_d_('CD Liceo Curicó', 'Estadio Palestino', 20), Holgura:1.0
+R3_d_('Club Andino de Los Ángeles', 'CD AB Temuco', 20), Holgura:1.0
+R3_d_('CD Boston College', 'CD Achao', 19), Holgura:1.0
+R3_d_('Estadio Palestino', 'CD La Unión', 19), Holgura:1.0
+R3_d_('Estadio Español', 'CD Liceo Curicó', 19), Holgura:1.0
+R3_d_('CD Manquehue', 'Club Andino de Los Ángeles', 19), Holgura:1.0
+R3_d_('CD Quilicura Basket', 'CD AB Temuco', 19), Holgura:1.0
+R3_d_('CD Alemán de Concepción', 'Club Atlético Puerto Varas', 19), Holgura:1.0
+R3_d_('CD Brisas', 'CD Arturo Prat de San Felipe', 19), Holgura:1.0
+R3_d_('CD La Unión', 'CD Alemán de Concepción', 18), Holgura:1.0
+R3_d_('Club Andino de Los Ángeles', 'CD Boston College', 18), Holgura:1.0
+R3_d_('Club Atlético Puerto Varas', 'CD Manquehue', 18), Holgura:1.0
+R3_d_('CD Ceppi', 'Estadio Español', 18), Holgura:1.0
+R3_d_('CD Arturo Prat de San Felipe', 'Stadio Italiano', 18), Holgura:1.0
+R3_d_('CD Achao', 'Estadio Palestino', 18), Holgura:1.0
+R3_d_('CD Liceo Curicó', 'CD Quilicura Basket', 18), Holgura:1.0
+R3_d_('Club Andino de Los Ángeles', 'CD Achao', 17), Holgura:1.0
+R3_d_('CD Alemán de Concepción', 'CD Ceppi', 17), Holgura:1.0
+R3_d_('CD Quilicura Basket', 'CD Brisas', 17), Holgura:1.0
+R3_d_('Stadio Italiano', 'CD Liceo Curicó', 17), Holgura:1.0
+R3_d_('CD Boston College', 'Club Atlético Puerto Varas', 17), Holgura:1.0
+R3_d_('Estadio Palestino', 'CD Arturo Prat de San Felipe', 17), Holgura:1.0
+R3_d_('CD Liceo Curicó', 'CD Alemán de Concepción', 16), Holgura:1.0
+R3_d_('CD Achao', 'CD Manquehue', 16), Holgura:1.0
+R3_d_('CD Brisas', 'Estadio Español', 16), Holgura:1.0
+R3_d_('CD AB Temuco', 'Stadio Italiano', 16), Holgura:1.0
+R3_d_('CD Ceppi', 'Estadio Palestino', 16), Holgura:1.0
+R3_d_('Club Atlético Puerto Varas', 'Club Andino de Los Ángeles', 16), Holgura:1.0
+R3_d_('CD Arturo Prat de San Felipe', 'CD Quilicura Basket', 16), Holgura:1.0
+R3_e_('CD Quilicura Basket', 'CD Arturo Prat de San Felipe', 1), Holgura:1.0
+R3_e_('Estadio Palestino', 'CD Ceppi', 1), Holgura:1.0
+R3_e_('Stadio Italiano', 'CD AB Temuco', 1), Holgura:1.0
+R3_e_('Estadio Español', 'CD Brisas', 1), Holgura:1.0
+R3_e_('CD Manquehue', 'CD Achao', 1), Holgura:1.0
+R3_e_('CD Boston College', 'CD La Unión', 1), Holgura:1.0
+R3_e_('CD Alemán de Concepción', 'CD Liceo Curicó', 1), Holgura:1.0
+R3_e_('CD Arturo Prat de San Felipe', 'Estadio Palestino', 2), Holgura:1.0
+R3_e_('Club Atlético Puerto Varas', 'CD Boston College', 2), Holgura:1.0
+R3_e_('CD AB Temuco', 'Estadio Español', 2), Holgura:1.0
+R3_e_('CD Liceo Curicó', 'Stadio Italiano', 2), Holgura:1.0
+R3_e_('CD Brisas', 'CD Quilicura Basket', 2), Holgura:1.0
+R3_e_('CD La Unión', 'CD Manquehue', 2), Holgura:1.0
+R3_e_('CD Achao', 'Club Andino de Los Ángeles', 2), Holgura:1.0
+R3_e_('CD Quilicura Basket', 'CD Liceo Curicó', 3), Holgura:1.0
+R3_e_('Estadio Palestino', 'CD Achao', 3), Holgura:1.0
+R3_e_('Stadio Italiano', 'CD Arturo Prat de San Felipe', 3), Holgura:1.0
+R3_e_('Estadio Español', 'CD Ceppi', 3), Holgura:1.0
+R3_e_('CD Manquehue', 'Club Atlético Puerto Varas', 3), Holgura:1.0
+R3_e_('CD Boston College', 'Club Andino de Los Ángeles', 3), Holgura:1.0
+R3_e_('CD Alemán de Concepción', 'CD La Unión', 3), Holgura:1.0
+R3_e_('CD Arturo Prat de San Felipe', 'CD Brisas', 4), Holgura:1.0
+R3_e_('CD AB Temuco', 'CD Quilicura Basket', 4), Holgura:1.0
+R3_e_('Club Andino de Los Ángeles', 'CD Manquehue', 4), Holgura:1.0
+R3_e_('CD Liceo Curicó', 'Estadio Español', 4), Holgura:1.0
+R3_e_('CD Ceppi', 'Stadio Italiano', 4), Holgura:1.0
+R3_e_('CD Achao', 'CD Boston College', 4), Holgura:1.0
+R3_e_('CD Quilicura Basket', 'Club Atlético Puerto Varas', 5), Holgura:1.0
+R3_e_('CD AB Temuco', 'Club Andino de Los Ángeles', 5), Holgura:1.0
+R3_e_('Estadio Palestino', 'CD Liceo Curicó', 5), Holgura:1.0
+R3_e_('Stadio Italiano', 'CD La Unión', 5), Holgura:1.0
+R3_e_('Estadio Español', 'CD Arturo Prat de San Felipe', 5), Holgura:1.0
+R3_e_('CD Boston College', 'CD Manquehue', 5), Holgura:1.0
+R3_e_('CD Brisas', 'CD Ceppi', 5), Holgura:1.0
+R3_e_('CD Arturo Prat de San Felipe', 'CD AB Temuco', 6), Holgura:1.0
+R3_e_('Club Atlético Puerto Varas', 'Stadio Italiano', 6), Holgura:1.0
+R3_e_('Club Andino de Los Ángeles', 'CD Alemán de Concepción', 6), Holgura:1.0
+R3_e_('CD Liceo Curicó', 'CD Boston College', 6), Holgura:1.0
+R3_e_('CD Manquehue', 'Estadio Palestino', 6), Holgura:1.0
+R3_e_('CD Ceppi', 'CD Quilicura Basket', 6), Holgura:1.0
+R3_e_('CD Achao', 'Estadio Español', 6), Holgura:1.0
+R3_e_('CD Quilicura Basket', 'CD Manquehue', 7), Holgura:1.0
+R3_e_('CD Arturo Prat de San Felipe', 'CD Ceppi', 7), Holgura:1.0
+R3_e_('Estadio Palestino', 'Club Atlético Puerto Varas', 7), Holgura:1.0
+R3_e_('Stadio Italiano', 'CD Achao', 7), Holgura:1.0
+R3_e_('Estadio Español', 'Club Andino de Los Ángeles', 7), Holgura:1.0
+R3_e_('CD Brisas', 'CD Liceo Curicó', 7), Holgura:1.0
+R3_e_('CD Alemán de Concepción', 'CD Boston College', 7), Holgura:1.0
+R3_e_('Club Andino de Los Ángeles', 'Estadio Palestino', 8), Holgura:1.0
+R3_e_('CD Liceo Curicó', 'CD Arturo Prat de San Felipe', 8), Holgura:1.0
+R3_e_('CD Manquehue', 'CD Alemán de Concepción', 8), Holgura:1.0
+R3_e_('CD Boston College', 'Stadio Italiano', 8), Holgura:1.0
+R3_e_('CD La Unión', 'CD Quilicura Basket', 8), Holgura:1.0
+R3_e_('CD Ceppi', 'CD AB Temuco', 8), Holgura:1.0
+R3_e_('CD Achao', 'CD Brisas', 8), Holgura:1.0
+R3_e_('CD Quilicura Basket', 'Club Andino de Los Ángeles', 9), Holgura:1.0
+R3_e_('CD Arturo Prat de San Felipe', 'CD Achao', 9), Holgura:1.0
+R3_e_('Estadio Palestino', 'CD Alemán de Concepción', 9), Holgura:1.0
+R3_e_('Stadio Italiano', 'CD Manquehue', 9), Holgura:1.0
+R3_e_('Estadio Español', 'CD La Unión', 9), Holgura:1.0
+R3_e_('CD Brisas', 'CD Boston College', 9), Holgura:1.0
+R3_e_('CD Ceppi', 'CD Liceo Curicó', 9), Holgura:1.0
+R3_e_('Club Andino de Los Ángeles', 'CD Brisas', 10), Holgura:1.0
+R3_e_('CD Liceo Curicó', 'CD AB Temuco', 10), Holgura:1.0
+R3_e_('CD Manquehue', 'Estadio Español', 10), Holgura:1.0
+R3_e_('CD Boston College', 'Estadio Palestino', 10), Holgura:1.0
+R3_e_('CD La Unión', 'CD Ceppi', 10), Holgura:1.0
+R3_e_('CD Alemán de Concepción', 'Stadio Italiano', 10), Holgura:1.0
+R3_e_('CD Quilicura Basket', 'CD Alemán de Concepción', 11), Holgura:1.0
+R3_e_('CD Arturo Prat de San Felipe', 'CD Manquehue', 11), Holgura:1.0
+R3_e_('CD AB Temuco', 'CD Achao', 11), Holgura:1.0
+R3_e_('Stadio Italiano', 'Estadio Palestino', 11), Holgura:1.0
+R3_e_('Estadio Español', 'CD Boston College', 11), Holgura:1.0
+R3_e_('CD Brisas', 'Club Atlético Puerto Varas', 11), Holgura:1.0
+R3_e_('CD Ceppi', 'Club Andino de Los Ángeles', 11), Holgura:1.0
+R3_e_('Club Atlético Puerto Varas', 'CD Liceo Curicó', 12), Holgura:1.0
+R3_e_('Estadio Palestino', 'Estadio Español', 12), Holgura:1.0
+R3_e_('CD Manquehue', 'CD Brisas', 12), Holgura:1.0
+R3_e_('CD Boston College', 'CD Quilicura Basket', 12), Holgura:1.0
+R3_e_('CD La Unión', 'CD Arturo Prat de San Felipe', 12), Holgura:1.0
+R3_e_('CD Achao', 'CD Ceppi', 12), Holgura:1.0
+R3_e_('CD Quilicura Basket', 'Stadio Italiano', 13), Holgura:1.0
+R3_e_('CD Arturo Prat de San Felipe', 'Club Andino de Los Ángeles', 13), Holgura:1.0
+R3_e_('CD AB Temuco', 'CD Boston College', 13), Holgura:1.0
+R3_e_('CD Liceo Curicó', 'CD Achao', 13), Holgura:1.0
+R3_e_('Estadio Español', 'CD Alemán de Concepción', 13), Holgura:1.0
+R3_e_('CD Brisas', 'Estadio Palestino', 13), Holgura:1.0
+R3_e_('CD La Unión', 'Club Atlético Puerto Varas', 13), Holgura:1.0
+R3_e_('CD Ceppi', 'CD Manquehue', 13), Holgura:1.0
+R3_e_('Club Atlético Puerto Varas', 'CD Ceppi', 14), Holgura:1.0
+R3_e_('Club Andino de Los Ángeles', 'CD Liceo Curicó', 14), Holgura:1.0
+R3_e_('Estadio Palestino', 'CD Quilicura Basket', 14), Holgura:1.0
+R3_e_('Stadio Italiano', 'Estadio Español', 14), Holgura:1.0
+R3_e_('CD Boston College', 'CD Arturo Prat de San Felipe', 14), Holgura:1.0
+R3_e_('CD Alemán de Concepción', 'CD Brisas', 14), Holgura:1.0
+R3_e_('CD Quilicura Basket', 'Estadio Español', 15), Holgura:1.0
+R3_e_('CD Arturo Prat de San Felipe', 'CD Alemán de Concepción', 15), Holgura:1.0
+R3_e_('Club Atlético Puerto Varas', 'CD Achao', 15), Holgura:1.0
+R3_e_('CD Liceo Curicó', 'CD Manquehue', 15), Holgura:1.0
+R3_e_('CD Brisas', 'Stadio Italiano', 15), Holgura:1.0
+R3_e_('CD La Unión', 'Club Andino de Los Ángeles', 15), Holgura:1.0
+R3_e_('Club Andino de Los Ángeles', 'CD La Unión', 30), Holgura:1.0
+R3_e_('Stadio Italiano', 'CD Brisas', 30), Holgura:1.0
+R3_e_('CD Manquehue', 'CD Liceo Curicó', 30), Holgura:1.0
+R3_e_('CD Achao', 'Club Atlético Puerto Varas', 30), Holgura:1.0
+R3_e_('CD Alemán de Concepción', 'CD Arturo Prat de San Felipe', 30), Holgura:1.0
+R3_e_('Estadio Español', 'CD Quilicura Basket', 30), Holgura:1.0
+R3_e_('CD Brisas', 'CD Alemán de Concepción', 29), Holgura:1.0
+R3_e_('CD Arturo Prat de San Felipe', 'CD Boston College', 29), Holgura:1.0
+R3_e_('Estadio Español', 'Stadio Italiano', 29), Holgura:1.0
+R3_e_('CD Quilicura Basket', 'Estadio Palestino', 29), Holgura:1.0
+R3_e_('CD Liceo Curicó', 'Club Andino de Los Ángeles', 29), Holgura:1.0
+R3_e_('CD Ceppi', 'Club Atlético Puerto Varas', 29), Holgura:1.0
+R3_e_('CD Manquehue', 'CD Ceppi', 28), Holgura:1.0
+R3_e_('Club Atlético Puerto Varas', 'CD La Unión', 28), Holgura:1.0
+R3_e_('Estadio Palestino', 'CD Brisas', 28), Holgura:1.0
+R3_e_('CD Alemán de Concepción', 'Estadio Español', 28), Holgura:1.0
+R3_e_('CD Achao', 'CD Liceo Curicó', 28), Holgura:1.0
+R3_e_('CD Boston College', 'CD AB Temuco', 28), Holgura:1.0
+R3_e_('Club Andino de Los Ángeles', 'CD Arturo Prat de San Felipe', 28), Holgura:1.0
+R3_e_('Stadio Italiano', 'CD Quilicura Basket', 28), Holgura:1.0
+R3_e_('CD Ceppi', 'CD Achao', 27), Holgura:1.0
+R3_e_('CD Arturo Prat de San Felipe', 'CD La Unión', 27), Holgura:1.0
+R3_e_('CD Quilicura Basket', 'CD Boston College', 27), Holgura:1.0
+R3_e_('CD Brisas', 'CD Manquehue', 27), Holgura:1.0
+R3_e_('Estadio Español', 'Estadio Palestino', 27), Holgura:1.0
+R3_e_('CD Liceo Curicó', 'Club Atlético Puerto Varas', 27), Holgura:1.0
+R3_e_('Club Andino de Los Ángeles', 'CD Ceppi', 26), Holgura:1.0
+R3_e_('Club Atlético Puerto Varas', 'CD Brisas', 26), Holgura:1.0
+R3_e_('CD Boston College', 'Estadio Español', 26), Holgura:1.0
+R3_e_('Estadio Palestino', 'Stadio Italiano', 26), Holgura:1.0
+R3_e_('CD Achao', 'CD AB Temuco', 26), Holgura:1.0
+R3_e_('CD Manquehue', 'CD Arturo Prat de San Felipe', 26), Holgura:1.0
+R3_e_('CD Alemán de Concepción', 'CD Quilicura Basket', 26), Holgura:1.0
+R3_e_('Stadio Italiano', 'CD Alemán de Concepción', 25), Holgura:1.0
+R3_e_('CD Ceppi', 'CD La Unión', 25), Holgura:1.0
+R3_e_('Estadio Palestino', 'CD Boston College', 25), Holgura:1.0
+R3_e_('Estadio Español', 'CD Manquehue', 25), Holgura:1.0
+R3_e_('CD AB Temuco', 'CD Liceo Curicó', 25), Holgura:1.0
+R3_e_('CD Brisas', 'Club Andino de Los Ángeles', 25), Holgura:1.0
+R3_e_('CD Liceo Curicó', 'CD Ceppi', 24), Holgura:1.0
+R3_e_('CD Boston College', 'CD Brisas', 24), Holgura:1.0
+R3_e_('CD La Unión', 'Estadio Español', 24), Holgura:1.0
+R3_e_('CD Manquehue', 'Stadio Italiano', 24), Holgura:1.0
+R3_e_('CD Alemán de Concepción', 'Estadio Palestino', 24), Holgura:1.0
+R3_e_('CD Achao', 'CD Arturo Prat de San Felipe', 24), Holgura:1.0
+R3_e_('Club Andino de Los Ángeles', 'CD Quilicura Basket', 24), Holgura:1.0
+R3_e_('CD Brisas', 'CD Achao', 23), Holgura:1.0
+R3_e_('CD AB Temuco', 'CD Ceppi', 23), Holgura:1.0
+R3_e_('CD Quilicura Basket', 'CD La Unión', 23), Holgura:1.0
+R3_e_('Stadio Italiano', 'CD Boston College', 23), Holgura:1.0
+R3_e_('CD Alemán de Concepción', 'CD Manquehue', 23), Holgura:1.0
+R3_e_('CD Arturo Prat de San Felipe', 'CD Liceo Curicó', 23), Holgura:1.0
+R3_e_('Estadio Palestino', 'Club Andino de Los Ángeles', 23), Holgura:1.0
+R3_e_('CD Boston College', 'CD Alemán de Concepción', 22), Holgura:1.0
+R3_e_('CD Liceo Curicó', 'CD Brisas', 22), Holgura:1.0
+R3_e_('Club Andino de Los Ángeles', 'Estadio Español', 22), Holgura:1.0
+R3_e_('CD Achao', 'Stadio Italiano', 22), Holgura:1.0
+R3_e_('Club Atlético Puerto Varas', 'Estadio Palestino', 22), Holgura:1.0
+R3_e_('CD Ceppi', 'CD Arturo Prat de San Felipe', 22), Holgura:1.0
+R3_e_('CD Manquehue', 'CD Quilicura Basket', 22), Holgura:1.0
+R3_e_('Estadio Español', 'CD Achao', 21), Holgura:1.0
+R3_e_('CD Quilicura Basket', 'CD Ceppi', 21), Holgura:1.0
+R3_e_('Estadio Palestino', 'CD Manquehue', 21), Holgura:1.0
+R3_e_('CD Boston College', 'CD Liceo Curicó', 21), Holgura:1.0
+R3_e_('CD Alemán de Concepción', 'Club Andino de Los Ángeles', 21), Holgura:1.0
+R3_e_('Stadio Italiano', 'Club Atlético Puerto Varas', 21), Holgura:1.0
+R3_e_('CD AB Temuco', 'CD Arturo Prat de San Felipe', 21), Holgura:1.0
+R3_e_('CD Ceppi', 'CD Brisas', 20), Holgura:1.0
+R3_e_('CD Manquehue', 'CD Boston College', 20), Holgura:1.0
+R3_e_('CD Arturo Prat de San Felipe', 'Estadio Español', 20), Holgura:1.0
+R3_e_('CD La Unión', 'Stadio Italiano', 20), Holgura:1.0
+R3_e_('CD Liceo Curicó', 'Estadio Palestino', 20), Holgura:1.0
+R3_e_('Club Andino de Los Ángeles', 'CD AB Temuco', 20), Holgura:1.0
+R3_e_('Club Atlético Puerto Varas', 'CD Quilicura Basket', 20), Holgura:1.0
+R3_e_('CD Boston College', 'CD Achao', 19), Holgura:1.0
+R3_e_('Stadio Italiano', 'CD Ceppi', 19), Holgura:1.0
+R3_e_('Estadio Español', 'CD Liceo Curicó', 19), Holgura:1.0
+R3_e_('CD Manquehue', 'Club Andino de Los Ángeles', 19), Holgura:1.0
+R3_e_('CD Quilicura Basket', 'CD AB Temuco', 19), Holgura:1.0
+R3_e_('CD Brisas', 'CD Arturo Prat de San Felipe', 19), Holgura:1.0
+R3_e_('CD La Unión', 'CD Alemán de Concepción', 18), Holgura:1.0
+R3_e_('Club Andino de Los Ángeles', 'CD Boston College', 18), Holgura:1.0
+R3_e_('Club Atlético Puerto Varas', 'CD Manquehue', 18), Holgura:1.0
+R3_e_('CD Ceppi', 'Estadio Español', 18), Holgura:1.0
+R3_e_('CD Arturo Prat de San Felipe', 'Stadio Italiano', 18), Holgura:1.0
+R3_e_('CD Achao', 'Estadio Palestino', 18), Holgura:1.0
+R3_e_('CD Liceo Curicó', 'CD Quilicura Basket', 18), Holgura:1.0
+R3_e_('Club Andino de Los Ángeles', 'CD Achao', 17), Holgura:1.0
+R3_e_('CD Manquehue', 'CD La Unión', 17), Holgura:1.0
+R3_e_('CD Quilicura Basket', 'CD Brisas', 17), Holgura:1.0
+R3_e_('Stadio Italiano', 'CD Liceo Curicó', 17), Holgura:1.0
+R3_e_('Estadio Español', 'CD AB Temuco', 17), Holgura:1.0
+R3_e_('CD Boston College', 'Club Atlético Puerto Varas', 17), Holgura:1.0
+R3_e_('Estadio Palestino', 'CD Arturo Prat de San Felipe', 17), Holgura:1.0
+R3_e_('CD Liceo Curicó', 'CD Alemán de Concepción', 16), Holgura:1.0
+R3_e_('CD La Unión', 'CD Boston College', 16), Holgura:1.0
+R3_e_('CD Achao', 'CD Manquehue', 16), Holgura:1.0
+R3_e_('CD Brisas', 'Estadio Español', 16), Holgura:1.0
+R3_e_('CD AB Temuco', 'Stadio Italiano', 16), Holgura:1.0
+R3_e_('CD Ceppi', 'Estadio Palestino', 16), Holgura:1.0
+R3_e_('CD Arturo Prat de San Felipe', 'CD Quilicura Basket', 16), Holgura:1.0
+R3_f_('CD Quilicura Basket', 'CD Arturo Prat de San Felipe', 1), Holgura:1.0
+R3_f_('Club Andino de Los Ángeles', 'Club Atlético Puerto Varas', 1), Holgura:1.0
+R3_f_('Estadio Palestino', 'CD Ceppi', 1), Holgura:1.0
+R3_f_('Stadio Italiano', 'CD AB Temuco', 1), Holgura:1.0
+R3_f_('CD Manquehue', 'CD Achao', 1), Holgura:1.0
+R3_f_('CD Boston College', 'CD La Unión', 1), Holgura:1.0
+R3_f_('CD Arturo Prat de San Felipe', 'Estadio Palestino', 2), Holgura:1.0
+R3_f_('Club Atlético Puerto Varas', 'CD Boston College', 2), Holgura:1.0
+R3_f_('CD AB Temuco', 'Estadio Español', 2), Holgura:1.0
+R3_f_('CD La Unión', 'CD Manquehue', 2), Holgura:1.0
+R3_f_('CD Ceppi', 'CD Alemán de Concepción', 2), Holgura:1.0
+R3_f_('CD Achao', 'Club Andino de Los Ángeles', 2), Holgura:1.0
+R3_f_('Estadio Palestino', 'CD Achao', 3), Holgura:1.0
+R3_f_('Stadio Italiano', 'CD Arturo Prat de San Felipe', 3), Holgura:1.0
+R3_f_('CD Manquehue', 'Club Atlético Puerto Varas', 3), Holgura:1.0
+R3_f_('CD Boston College', 'Club Andino de Los Ángeles', 3), Holgura:1.0
+R3_f_('CD Brisas', 'CD AB Temuco', 3), Holgura:1.0
+R3_f_('CD Alemán de Concepción', 'CD La Unión', 3), Holgura:1.0
+R3_f_('CD Arturo Prat de San Felipe', 'CD Brisas', 4), Holgura:1.0
+R3_f_('Club Atlético Puerto Varas', 'CD Alemán de Concepción', 4), Holgura:1.0
+R3_f_('CD AB Temuco', 'CD Quilicura Basket', 4), Holgura:1.0
+R3_f_('Club Andino de Los Ángeles', 'CD Manquehue', 4), Holgura:1.0
+R3_f_('CD La Unión', 'Estadio Palestino', 4), Holgura:1.0
+R3_f_('CD Ceppi', 'Stadio Italiano', 4), Holgura:1.0
+R3_f_('CD Achao', 'CD Boston College', 4), Holgura:1.0
+R3_f_('CD Quilicura Basket', 'Club Atlético Puerto Varas', 5), Holgura:1.0
+R3_f_('CD AB Temuco', 'Club Andino de Los Ángeles', 5), Holgura:1.0
+R3_f_('Estadio Palestino', 'CD Liceo Curicó', 5), Holgura:1.0
+R3_f_('Estadio Español', 'CD Arturo Prat de San Felipe', 5), Holgura:1.0
+R3_f_('CD Boston College', 'CD Manquehue', 5), Holgura:1.0
+R3_f_('CD Brisas', 'CD Ceppi', 5), Holgura:1.0
+R3_f_('CD Alemán de Concepción', 'CD Achao', 5), Holgura:1.0
+R3_f_('CD Arturo Prat de San Felipe', 'CD AB Temuco', 6), Holgura:1.0
+R3_f_('Club Atlético Puerto Varas', 'Stadio Italiano', 6), Holgura:1.0
+R3_f_('Club Andino de Los Ángeles', 'CD Alemán de Concepción', 6), Holgura:1.0
+R3_f_('CD Liceo Curicó', 'CD Boston College', 6), Holgura:1.0
+R3_f_('CD Manquehue', 'Estadio Palestino', 6), Holgura:1.0
+R3_f_('CD La Unión', 'CD Brisas', 6), Holgura:1.0
+R3_f_('CD Achao', 'Estadio Español', 6), Holgura:1.0
+R3_f_('CD Quilicura Basket', 'CD Manquehue', 7), Holgura:1.0
+R3_f_('CD AB Temuco', 'CD La Unión', 7), Holgura:1.0
+R3_f_('Stadio Italiano', 'CD Achao', 7), Holgura:1.0
+R3_f_('Estadio Español', 'Club Andino de Los Ángeles', 7), Holgura:1.0
+R3_f_('CD Brisas', 'CD Liceo Curicó', 7), Holgura:1.0
+R3_f_('CD Alemán de Concepción', 'CD Boston College', 7), Holgura:1.0
+R3_f_('Club Atlético Puerto Varas', 'Estadio Español', 8), Holgura:1.0
+R3_f_('Club Andino de Los Ángeles', 'Estadio Palestino', 8), Holgura:1.0
+R3_f_('CD Liceo Curicó', 'CD Arturo Prat de San Felipe', 8), Holgura:1.0
+R3_f_('CD Manquehue', 'CD Alemán de Concepción', 8), Holgura:1.0
+R3_f_('CD Boston College', 'Stadio Italiano', 8), Holgura:1.0
+R3_f_('CD Ceppi', 'CD AB Temuco', 8), Holgura:1.0
+R3_f_('CD Achao', 'CD Brisas', 8), Holgura:1.0
+R3_f_('CD Arturo Prat de San Felipe', 'CD Achao', 9), Holgura:1.0
+R3_f_('Estadio Palestino', 'CD Alemán de Concepción', 9), Holgura:1.0
+R3_f_('Stadio Italiano', 'CD Manquehue', 9), Holgura:1.0
+R3_f_('Estadio Español', 'CD La Unión', 9), Holgura:1.0
+R3_f_('CD Brisas', 'CD Boston College', 9), Holgura:1.0
+R3_f_('CD Ceppi', 'CD Liceo Curicó', 9), Holgura:1.0
+R3_f_('Club Atlético Puerto Varas', 'CD Arturo Prat de San Felipe', 10), Holgura:1.0
+R3_f_('Club Andino de Los Ángeles', 'CD Brisas', 10), Holgura:1.0
+R3_f_('CD Liceo Curicó', 'CD AB Temuco', 10), Holgura:1.0
+R3_f_('CD Boston College', 'Estadio Palestino', 10), Holgura:1.0
+R3_f_('CD Achao', 'CD Quilicura Basket', 10), Holgura:1.0
+R3_f_('CD Alemán de Concepción', 'Stadio Italiano', 10), Holgura:1.0
+R3_f_('CD Arturo Prat de San Felipe', 'CD Manquehue', 11), Holgura:1.0
+R3_f_('CD AB Temuco', 'CD Achao', 11), Holgura:1.0
+R3_f_('Stadio Italiano', 'Estadio Palestino', 11), Holgura:1.0
+R3_f_('Estadio Español', 'CD Boston College', 11), Holgura:1.0
+R3_f_('CD Brisas', 'Club Atlético Puerto Varas', 11), Holgura:1.0
+R3_f_('CD Ceppi', 'Club Andino de Los Ángeles', 11), Holgura:1.0
+R3_f_('Club Andino de Los Ángeles', 'Stadio Italiano', 12), Holgura:1.0
+R3_f_('Estadio Palestino', 'Estadio Español', 12), Holgura:1.0
+R3_f_('CD Manquehue', 'CD Brisas', 12), Holgura:1.0
+R3_f_('CD Boston College', 'CD Quilicura Basket', 12), Holgura:1.0
+R3_f_('CD La Unión', 'CD Arturo Prat de San Felipe', 12), Holgura:1.0
+R3_f_('CD Achao', 'CD Ceppi', 12), Holgura:1.0
+R3_f_('CD Alemán de Concepción', 'CD AB Temuco', 12), Holgura:1.0
+R3_f_('CD Arturo Prat de San Felipe', 'Club Andino de Los Ángeles', 13), Holgura:1.0
+R3_f_('CD Liceo Curicó', 'CD Achao', 13), Holgura:1.0
+R3_f_('Estadio Español', 'CD Alemán de Concepción', 13), Holgura:1.0
+R3_f_('CD Brisas', 'Estadio Palestino', 13), Holgura:1.0
+R3_f_('CD La Unión', 'Club Atlético Puerto Varas', 13), Holgura:1.0
+R3_f_('CD Ceppi', 'CD Manquehue', 13), Holgura:1.0
+R3_f_('Club Andino de Los Ángeles', 'CD Liceo Curicó', 14), Holgura:1.0
+R3_f_('Estadio Palestino', 'CD Quilicura Basket', 14), Holgura:1.0
+R3_f_('Stadio Italiano', 'Estadio Español', 14), Holgura:1.0
+R3_f_('CD Manquehue', 'CD AB Temuco', 14), Holgura:1.0
+R3_f_('CD Boston College', 'CD Arturo Prat de San Felipe', 14), Holgura:1.0
+R3_f_('CD Achao', 'CD La Unión', 14), Holgura:1.0
+R3_f_('CD Alemán de Concepción', 'CD Brisas', 14), Holgura:1.0
+R3_f_('CD Quilicura Basket', 'Estadio Español', 15), Holgura:1.0
+R3_f_('CD Arturo Prat de San Felipe', 'CD Alemán de Concepción', 15), Holgura:1.0
+R3_f_('CD AB Temuco', 'Estadio Palestino', 15), Holgura:1.0
+R3_f_('CD Liceo Curicó', 'CD Manquehue', 15), Holgura:1.0
+R3_f_('CD La Unión', 'Club Andino de Los Ángeles', 15), Holgura:1.0
+R3_f_('CD Ceppi', 'CD Boston College', 15), Holgura:1.0
+R3_f_('CD Boston College', 'CD Ceppi', 30), Holgura:1.0
+R3_f_('Club Andino de Los Ángeles', 'CD La Unión', 30), Holgura:1.0
+R3_f_('CD Manquehue', 'CD Liceo Curicó', 30), Holgura:1.0
+R3_f_('Estadio Palestino', 'CD AB Temuco', 30), Holgura:1.0
+R3_f_('CD Alemán de Concepción', 'CD Arturo Prat de San Felipe', 30), Holgura:1.0
+R3_f_('Estadio Español', 'CD Quilicura Basket', 30), Holgura:1.0
+R3_f_('CD Brisas', 'CD Alemán de Concepción', 29), Holgura:1.0
+R3_f_('CD La Unión', 'CD Achao', 29), Holgura:1.0
+R3_f_('CD Arturo Prat de San Felipe', 'CD Boston College', 29), Holgura:1.0
+R3_f_('CD AB Temuco', 'CD Manquehue', 29), Holgura:1.0
+R3_f_('Estadio Español', 'Stadio Italiano', 29), Holgura:1.0
+R3_f_('CD Quilicura Basket', 'Estadio Palestino', 29), Holgura:1.0
+R3_f_('CD Liceo Curicó', 'Club Andino de Los Ángeles', 29), Holgura:1.0
+R3_f_('CD Manquehue', 'CD Ceppi', 28), Holgura:1.0
+R3_f_('Club Atlético Puerto Varas', 'CD La Unión', 28), Holgura:1.0
+R3_f_('Estadio Palestino', 'CD Brisas', 28), Holgura:1.0
+R3_f_('CD Alemán de Concepción', 'Estadio Español', 28), Holgura:1.0
+R3_f_('CD Achao', 'CD Liceo Curicó', 28), Holgura:1.0
+R3_f_('Club Andino de Los Ángeles', 'CD Arturo Prat de San Felipe', 28), Holgura:1.0
+R3_f_('CD AB Temuco', 'CD Alemán de Concepción', 27), Holgura:1.0
+R3_f_('CD Ceppi', 'CD Achao', 27), Holgura:1.0
+R3_f_('CD Arturo Prat de San Felipe', 'CD La Unión', 27), Holgura:1.0
+R3_f_('CD Quilicura Basket', 'CD Boston College', 27), Holgura:1.0
+R3_f_('CD Brisas', 'CD Manquehue', 27), Holgura:1.0
+R3_f_('Estadio Español', 'Estadio Palestino', 27), Holgura:1.0
+R3_f_('Stadio Italiano', 'Club Andino de Los Ángeles', 27), Holgura:1.0
+R3_f_('Club Andino de Los Ángeles', 'CD Ceppi', 26), Holgura:1.0
+R3_f_('Club Atlético Puerto Varas', 'CD Brisas', 26), Holgura:1.0
+R3_f_('CD Boston College', 'Estadio Español', 26), Holgura:1.0
+R3_f_('Estadio Palestino', 'Stadio Italiano', 26), Holgura:1.0
+R3_f_('CD Achao', 'CD AB Temuco', 26), Holgura:1.0
+R3_f_('CD Manquehue', 'CD Arturo Prat de San Felipe', 26), Holgura:1.0
+R3_f_('Stadio Italiano', 'CD Alemán de Concepción', 25), Holgura:1.0
+R3_f_('CD Quilicura Basket', 'CD Achao', 25), Holgura:1.0
+R3_f_('Estadio Palestino', 'CD Boston College', 25), Holgura:1.0
+R3_f_('CD AB Temuco', 'CD Liceo Curicó', 25), Holgura:1.0
+R3_f_('CD Brisas', 'Club Andino de Los Ángeles', 25), Holgura:1.0
+R3_f_('CD Arturo Prat de San Felipe', 'Club Atlético Puerto Varas', 25), Holgura:1.0
+R3_f_('CD Liceo Curicó', 'CD Ceppi', 24), Holgura:1.0
+R3_f_('CD Boston College', 'CD Brisas', 24), Holgura:1.0
+R3_f_('CD La Unión', 'Estadio Español', 24), Holgura:1.0
+R3_f_('CD Manquehue', 'Stadio Italiano', 24), Holgura:1.0
+R3_f_('CD Alemán de Concepción', 'Estadio Palestino', 24), Holgura:1.0
+R3_f_('CD Achao', 'CD Arturo Prat de San Felipe', 24), Holgura:1.0
+R3_f_('CD Brisas', 'CD Achao', 23), Holgura:1.0
+R3_f_('CD AB Temuco', 'CD Ceppi', 23), Holgura:1.0
+R3_f_('Stadio Italiano', 'CD Boston College', 23), Holgura:1.0
+R3_f_('CD Alemán de Concepción', 'CD Manquehue', 23), Holgura:1.0
+R3_f_('CD Arturo Prat de San Felipe', 'CD Liceo Curicó', 23), Holgura:1.0
+R3_f_('Estadio Palestino', 'Club Andino de Los Ángeles', 23), Holgura:1.0
+R3_f_('Estadio Español', 'Club Atlético Puerto Varas', 23), Holgura:1.0
+R3_f_('CD Boston College', 'CD Alemán de Concepción', 22), Holgura:1.0
+R3_f_('CD Liceo Curicó', 'CD Brisas', 22), Holgura:1.0
+R3_f_('Club Andino de Los Ángeles', 'Estadio Español', 22), Holgura:1.0
+R3_f_('CD Achao', 'Stadio Italiano', 22), Holgura:1.0
+R3_f_('CD La Unión', 'CD AB Temuco', 22), Holgura:1.0
+R3_f_('CD Manquehue', 'CD Quilicura Basket', 22), Holgura:1.0
+R3_f_('Estadio Español', 'CD Achao', 21), Holgura:1.0
+R3_f_('CD Brisas', 'CD La Unión', 21), Holgura:1.0
+R3_f_('Estadio Palestino', 'CD Manquehue', 21), Holgura:1.0
+R3_f_('CD Boston College', 'CD Liceo Curicó', 21), Holgura:1.0
+R3_f_('CD Alemán de Concepción', 'Club Andino de Los Ángeles', 21), Holgura:1.0
+R3_f_('Stadio Italiano', 'Club Atlético Puerto Varas', 21), Holgura:1.0
+R3_f_('CD AB Temuco', 'CD Arturo Prat de San Felipe', 21), Holgura:1.0
+R3_f_('CD Achao', 'CD Alemán de Concepción', 20), Holgura:1.0
+R3_f_('CD Ceppi', 'CD Brisas', 20), Holgura:1.0
+R3_f_('CD Manquehue', 'CD Boston College', 20), Holgura:1.0
+R3_f_('CD Arturo Prat de San Felipe', 'Estadio Español', 20), Holgura:1.0
+R3_f_('CD Liceo Curicó', 'Estadio Palestino', 20), Holgura:1.0
+R3_f_('Club Andino de Los Ángeles', 'CD AB Temuco', 20), Holgura:1.0
+R3_f_('Club Atlético Puerto Varas', 'CD Quilicura Basket', 20), Holgura:1.0
+R3_f_('CD Boston College', 'CD Achao', 19), Holgura:1.0
+R3_f_('Stadio Italiano', 'CD Ceppi', 19), Holgura:1.0
+R3_f_('Estadio Palestino', 'CD La Unión', 19), Holgura:1.0
+R3_f_('CD Manquehue', 'Club Andino de Los Ángeles', 19), Holgura:1.0
+R3_f_('CD Quilicura Basket', 'CD AB Temuco', 19), Holgura:1.0
+R3_f_('CD Alemán de Concepción', 'Club Atlético Puerto Varas', 19), Holgura:1.0
+R3_f_('CD Brisas', 'CD Arturo Prat de San Felipe', 19), Holgura:1.0
+R3_f_('CD La Unión', 'CD Alemán de Concepción', 18), Holgura:1.0
+R3_f_('CD AB Temuco', 'CD Brisas', 18), Holgura:1.0
+R3_f_('Club Andino de Los Ángeles', 'CD Boston College', 18), Holgura:1.0
+R3_f_('Club Atlético Puerto Varas', 'CD Manquehue', 18), Holgura:1.0
+R3_f_('CD Arturo Prat de San Felipe', 'Stadio Italiano', 18), Holgura:1.0
+R3_f_('CD Achao', 'Estadio Palestino', 18), Holgura:1.0
+R3_f_('Club Andino de Los Ángeles', 'CD Achao', 17), Holgura:1.0
+R3_f_('CD Alemán de Concepción', 'CD Ceppi', 17), Holgura:1.0
+R3_f_('CD Manquehue', 'CD La Unión', 17), Holgura:1.0
+R3_f_('Estadio Español', 'CD AB Temuco', 17), Holgura:1.0
+R3_f_('CD Boston College', 'Club Atlético Puerto Varas', 17), Holgura:1.0
+R3_f_('Estadio Palestino', 'CD Arturo Prat de San Felipe', 17), Holgura:1.0
+R3_f_('CD La Unión', 'CD Boston College', 16), Holgura:1.0
+R3_f_('CD Achao', 'CD Manquehue', 16), Holgura:1.0
+R3_f_('CD AB Temuco', 'Stadio Italiano', 16), Holgura:1.0
+R3_f_('CD Ceppi', 'Estadio Palestino', 16), Holgura:1.0
+R3_f_('Club Atlético Puerto Varas', 'Club Andino de Los Ángeles', 16), Holgura:1.0
+R3_f_('CD Arturo Prat de San Felipe', 'CD Quilicura Basket', 16), Holgura:1.0
+R3_g_('CD Quilicura Basket', 'CD Arturo Prat de San Felipe', 1), Holgura:1.0
+R3_g_('Club Andino de Los Ángeles', 'Club Atlético Puerto Varas', 1), Holgura:1.0
+R3_g_('Estadio Palestino', 'CD Ceppi', 1), Holgura:1.0
+R3_g_('CD Manquehue', 'CD Achao', 1), Holgura:1.0
+R3_g_('CD Boston College', 'CD La Unión', 1), Holgura:1.0
+R3_g_('CD Alemán de Concepción', 'CD Liceo Curicó', 1), Holgura:1.0
+R3_g_('CD Arturo Prat de San Felipe', 'Estadio Palestino', 2), Holgura:1.0
+R3_g_('Club Atlético Puerto Varas', 'CD Boston College', 2), Holgura:1.0
+R3_g_('CD Liceo Curicó', 'Stadio Italiano', 2), Holgura:1.0
+R3_g_('CD Brisas', 'CD Quilicura Basket', 2), Holgura:1.0
+R3_g_('CD La Unión', 'CD Manquehue', 2), Holgura:1.0
+R3_g_('CD Ceppi', 'CD Alemán de Concepción', 2), Holgura:1.0
+R3_g_('Estadio Palestino', 'CD Achao', 3), Holgura:1.0
+R3_g_('Stadio Italiano', 'CD Arturo Prat de San Felipe', 3), Holgura:1.0
+R3_g_('Estadio Español', 'CD Ceppi', 3), Holgura:1.0
+R3_g_('CD Boston College', 'Club Andino de Los Ángeles', 3), Holgura:1.0
+R3_g_('CD Brisas', 'CD AB Temuco', 3), Holgura:1.0
+R3_g_('CD Alemán de Concepción', 'CD La Unión', 3), Holgura:1.0
+R3_g_('CD Arturo Prat de San Felipe', 'CD Brisas', 4), Holgura:1.0
+R3_g_('Club Atlético Puerto Varas', 'CD Alemán de Concepción', 4), Holgura:1.0
+R3_g_('CD AB Temuco', 'CD Quilicura Basket', 4), Holgura:1.0
+R3_g_('CD La Unión', 'Estadio Palestino', 4), Holgura:1.0
+R3_g_('CD Ceppi', 'Stadio Italiano', 4), Holgura:1.0
+R3_g_('CD Achao', 'CD Boston College', 4), Holgura:1.0
+R3_g_('CD Quilicura Basket', 'Club Atlético Puerto Varas', 5), Holgura:1.0
+R3_g_('Estadio Palestino', 'CD Liceo Curicó', 5), Holgura:1.0
+R3_g_('Stadio Italiano', 'CD La Unión', 5), Holgura:1.0
+R3_g_('Estadio Español', 'CD Arturo Prat de San Felipe', 5), Holgura:1.0
+R3_g_('CD Brisas', 'CD Ceppi', 5), Holgura:1.0
+R3_g_('CD Alemán de Concepción', 'CD Achao', 5), Holgura:1.0
+R3_g_('CD Arturo Prat de San Felipe', 'CD AB Temuco', 6), Holgura:1.0
+R3_g_('Club Atlético Puerto Varas', 'Stadio Italiano', 6), Holgura:1.0
+R3_g_('CD Manquehue', 'Estadio Palestino', 6), Holgura:1.0
+R3_g_('CD La Unión', 'CD Brisas', 6), Holgura:1.0
+R3_g_('CD Ceppi', 'CD Quilicura Basket', 6), Holgura:1.0
+R3_g_('CD Achao', 'Estadio Español', 6), Holgura:1.0
+R3_g_('CD Quilicura Basket', 'CD Manquehue', 7), Holgura:1.0
+R3_g_('CD Arturo Prat de San Felipe', 'CD Ceppi', 7), Holgura:1.0
+R3_g_('CD AB Temuco', 'CD La Unión', 7), Holgura:1.0
+R3_g_('Estadio Palestino', 'Club Atlético Puerto Varas', 7), Holgura:1.0
+R3_g_('Stadio Italiano', 'CD Achao', 7), Holgura:1.0
+R3_g_('CD Brisas', 'CD Liceo Curicó', 7), Holgura:1.0
+R3_g_('Club Atlético Puerto Varas', 'Estadio Español', 8), Holgura:1.0
+R3_g_('CD Liceo Curicó', 'CD Arturo Prat de San Felipe', 8), Holgura:1.0
+R3_g_('CD Boston College', 'Stadio Italiano', 8), Holgura:1.0
+R3_g_('CD La Unión', 'CD Quilicura Basket', 8), Holgura:1.0
+R3_g_('CD Ceppi', 'CD AB Temuco', 8), Holgura:1.0
+R3_g_('CD Achao', 'CD Brisas', 8), Holgura:1.0
+R3_g_('CD Quilicura Basket', 'Club Andino de Los Ángeles', 9), Holgura:1.0
+R3_g_('CD Arturo Prat de San Felipe', 'CD Achao', 9), Holgura:1.0
+R3_g_('CD AB Temuco', 'Club Atlético Puerto Varas', 9), Holgura:1.0
+R3_g_('Estadio Palestino', 'CD Alemán de Concepción', 9), Holgura:1.0
+R3_g_('Stadio Italiano', 'CD Manquehue', 9), Holgura:1.0
+R3_g_('CD Brisas', 'CD Boston College', 9), Holgura:1.0
+R3_g_('CD Ceppi', 'CD Liceo Curicó', 9), Holgura:1.0
+R3_g_('Club Atlético Puerto Varas', 'CD Arturo Prat de San Felipe', 10), Holgura:1.0
+R3_g_('Club Andino de Los Ángeles', 'CD Brisas', 10), Holgura:1.0
+R3_g_('CD Boston College', 'Estadio Palestino', 10), Holgura:1.0
+R3_g_('CD La Unión', 'CD Ceppi', 10), Holgura:1.0
+R3_g_('CD Achao', 'CD Quilicura Basket', 10), Holgura:1.0
+R3_g_('CD Alemán de Concepción', 'Stadio Italiano', 10), Holgura:1.0
+R3_g_('CD Quilicura Basket', 'CD Alemán de Concepción', 11), Holgura:1.0
+R3_g_('CD Arturo Prat de San Felipe', 'CD Manquehue', 11), Holgura:1.0
+R3_g_('CD AB Temuco', 'CD Achao', 11), Holgura:1.0
+R3_g_('CD Liceo Curicó', 'CD La Unión', 11), Holgura:1.0
+R3_g_('CD Brisas', 'Club Atlético Puerto Varas', 11), Holgura:1.0
+R3_g_('CD Ceppi', 'Club Andino de Los Ángeles', 11), Holgura:1.0
+R3_g_('Club Atlético Puerto Varas', 'CD Liceo Curicó', 12), Holgura:1.0
+R3_g_('Club Andino de Los Ángeles', 'Stadio Italiano', 12), Holgura:1.0
+R3_g_('Estadio Palestino', 'Estadio Español', 12), Holgura:1.0
+R3_g_('CD Boston College', 'CD Quilicura Basket', 12), Holgura:1.0
+R3_g_('CD La Unión', 'CD Arturo Prat de San Felipe', 12), Holgura:1.0
+R3_g_('CD Achao', 'CD Ceppi', 12), Holgura:1.0
+R3_g_('CD Alemán de Concepción', 'CD AB Temuco', 12), Holgura:1.0
+R3_g_('CD Quilicura Basket', 'Stadio Italiano', 13), Holgura:1.0
+R3_g_('CD Arturo Prat de San Felipe', 'Club Andino de Los Ángeles', 13), Holgura:1.0
+R3_g_('CD AB Temuco', 'CD Boston College', 13), Holgura:1.0
+R3_g_('CD Liceo Curicó', 'CD Achao', 13), Holgura:1.0
+R3_g_('CD Brisas', 'Estadio Palestino', 13), Holgura:1.0
+R3_g_('CD La Unión', 'Club Atlético Puerto Varas', 13), Holgura:1.0
+R3_g_('Club Atlético Puerto Varas', 'CD Ceppi', 14), Holgura:1.0
+R3_g_('Club Andino de Los Ángeles', 'CD Liceo Curicó', 14), Holgura:1.0
+R3_g_('Estadio Palestino', 'CD Quilicura Basket', 14), Holgura:1.0
+R3_g_('CD Manquehue', 'CD AB Temuco', 14), Holgura:1.0
+R3_g_('CD Boston College', 'CD Arturo Prat de San Felipe', 14), Holgura:1.0
+R3_g_('CD Achao', 'CD La Unión', 14), Holgura:1.0
+R3_g_('CD Quilicura Basket', 'Estadio Español', 15), Holgura:1.0
+R3_g_('Club Atlético Puerto Varas', 'CD Achao', 15), Holgura:1.0
+R3_g_('CD AB Temuco', 'Estadio Palestino', 15), Holgura:1.0
+R3_g_('CD Brisas', 'Stadio Italiano', 15), Holgura:1.0
+R3_g_('CD La Unión', 'Club Andino de Los Ángeles', 15), Holgura:1.0
+R3_g_('CD Ceppi', 'CD Boston College', 15), Holgura:1.0
+R3_g_('CD Boston College', 'CD Ceppi', 30), Holgura:1.0
+R3_g_('Club Andino de Los Ángeles', 'CD La Unión', 30), Holgura:1.0
+R3_g_('Stadio Italiano', 'CD Brisas', 30), Holgura:1.0
+R3_g_('Estadio Palestino', 'CD AB Temuco', 30), Holgura:1.0
+R3_g_('CD Achao', 'Club Atlético Puerto Varas', 30), Holgura:1.0
+R3_g_('Estadio Español', 'CD Quilicura Basket', 30), Holgura:1.0
+R3_g_('CD La Unión', 'CD Achao', 29), Holgura:1.0
+R3_g_('CD Arturo Prat de San Felipe', 'CD Boston College', 29), Holgura:1.0
+R3_g_('CD AB Temuco', 'CD Manquehue', 29), Holgura:1.0
+R3_g_('CD Quilicura Basket', 'Estadio Palestino', 29), Holgura:1.0
+R3_g_('CD Liceo Curicó', 'Club Andino de Los Ángeles', 29), Holgura:1.0
+R3_g_('CD Ceppi', 'Club Atlético Puerto Varas', 29), Holgura:1.0
+R3_g_('Club Atlético Puerto Varas', 'CD La Unión', 28), Holgura:1.0
+R3_g_('Estadio Palestino', 'CD Brisas', 28), Holgura:1.0
+R3_g_('CD Achao', 'CD Liceo Curicó', 28), Holgura:1.0
+R3_g_('CD Boston College', 'CD AB Temuco', 28), Holgura:1.0
+R3_g_('Club Andino de Los Ángeles', 'CD Arturo Prat de San Felipe', 28), Holgura:1.0
+R3_g_('Stadio Italiano', 'CD Quilicura Basket', 28), Holgura:1.0
+R3_g_('CD AB Temuco', 'CD Alemán de Concepción', 27), Holgura:1.0
+R3_g_('CD Ceppi', 'CD Achao', 27), Holgura:1.0
+R3_g_('CD Arturo Prat de San Felipe', 'CD La Unión', 27), Holgura:1.0
+R3_g_('CD Quilicura Basket', 'CD Boston College', 27), Holgura:1.0
+R3_g_('Estadio Español', 'Estadio Palestino', 27), Holgura:1.0
+R3_g_('Stadio Italiano', 'Club Andino de Los Ángeles', 27), Holgura:1.0
+R3_g_('CD Liceo Curicó', 'Club Atlético Puerto Varas', 27), Holgura:1.0
+R3_g_('Club Andino de Los Ángeles', 'CD Ceppi', 26), Holgura:1.0
+R3_g_('Club Atlético Puerto Varas', 'CD Brisas', 26), Holgura:1.0
+R3_g_('CD La Unión', 'CD Liceo Curicó', 26), Holgura:1.0
+R3_g_('CD Achao', 'CD AB Temuco', 26), Holgura:1.0
+R3_g_('CD Manquehue', 'CD Arturo Prat de San Felipe', 26), Holgura:1.0
+R3_g_('CD Alemán de Concepción', 'CD Quilicura Basket', 26), Holgura:1.0
+R3_g_('Stadio Italiano', 'CD Alemán de Concepción', 25), Holgura:1.0
+R3_g_('CD Quilicura Basket', 'CD Achao', 25), Holgura:1.0
+R3_g_('CD Ceppi', 'CD La Unión', 25), Holgura:1.0
+R3_g_('Estadio Palestino', 'CD Boston College', 25), Holgura:1.0
+R3_g_('CD Brisas', 'Club Andino de Los Ángeles', 25), Holgura:1.0
+R3_g_('CD Arturo Prat de San Felipe', 'Club Atlético Puerto Varas', 25), Holgura:1.0
+R3_g_('CD Liceo Curicó', 'CD Ceppi', 24), Holgura:1.0
+R3_g_('CD Boston College', 'CD Brisas', 24), Holgura:1.0
+R3_g_('CD Manquehue', 'Stadio Italiano', 24), Holgura:1.0
+R3_g_('CD Alemán de Concepción', 'Estadio Palestino', 24), Holgura:1.0
+R3_g_('Club Atlético Puerto Varas', 'CD AB Temuco', 24), Holgura:1.0
+R3_g_('CD Achao', 'CD Arturo Prat de San Felipe', 24), Holgura:1.0
+R3_g_('Club Andino de Los Ángeles', 'CD Quilicura Basket', 24), Holgura:1.0
+R3_g_('CD Brisas', 'CD Achao', 23), Holgura:1.0
+R3_g_('CD AB Temuco', 'CD Ceppi', 23), Holgura:1.0
+R3_g_('CD Quilicura Basket', 'CD La Unión', 23), Holgura:1.0
+R3_g_('Stadio Italiano', 'CD Boston College', 23), Holgura:1.0
+R3_g_('CD Arturo Prat de San Felipe', 'CD Liceo Curicó', 23), Holgura:1.0
+R3_g_('Estadio Español', 'Club Atlético Puerto Varas', 23), Holgura:1.0
+R3_g_('CD Liceo Curicó', 'CD Brisas', 22), Holgura:1.0
+R3_g_('CD Achao', 'Stadio Italiano', 22), Holgura:1.0
+R3_g_('Club Atlético Puerto Varas', 'Estadio Palestino', 22), Holgura:1.0
+R3_g_('CD La Unión', 'CD AB Temuco', 22), Holgura:1.0
+R3_g_('CD Ceppi', 'CD Arturo Prat de San Felipe', 22), Holgura:1.0
+R3_g_('CD Manquehue', 'CD Quilicura Basket', 22), Holgura:1.0
+R3_g_('Estadio Español', 'CD Achao', 21), Holgura:1.0
+R3_g_('CD Quilicura Basket', 'CD Ceppi', 21), Holgura:1.0
+R3_g_('CD Brisas', 'CD La Unión', 21), Holgura:1.0
+R3_g_('Estadio Palestino', 'CD Manquehue', 21), Holgura:1.0
+R3_g_('Stadio Italiano', 'Club Atlético Puerto Varas', 21), Holgura:1.0
+R3_g_('CD AB Temuco', 'CD Arturo Prat de San Felipe', 21), Holgura:1.0
+R3_g_('CD Achao', 'CD Alemán de Concepción', 20), Holgura:1.0
+R3_g_('CD Ceppi', 'CD Brisas', 20), Holgura:1.0
+R3_g_('CD Arturo Prat de San Felipe', 'Estadio Español', 20), Holgura:1.0
+R3_g_('CD La Unión', 'Stadio Italiano', 20), Holgura:1.0
+R3_g_('CD Liceo Curicó', 'Estadio Palestino', 20), Holgura:1.0
+R3_g_('Club Atlético Puerto Varas', 'CD Quilicura Basket', 20), Holgura:1.0
+R3_g_('CD Boston College', 'CD Achao', 19), Holgura:1.0
+R3_g_('Stadio Italiano', 'CD Ceppi', 19), Holgura:1.0
+R3_g_('Estadio Palestino', 'CD La Unión', 19), Holgura:1.0
+R3_g_('CD Quilicura Basket', 'CD AB Temuco', 19), Holgura:1.0
+R3_g_('CD Alemán de Concepción', 'Club Atlético Puerto Varas', 19), Holgura:1.0
+R3_g_('CD Brisas', 'CD Arturo Prat de San Felipe', 19), Holgura:1.0
+R3_g_('CD La Unión', 'CD Alemán de Concepción', 18), Holgura:1.0
+R3_g_('CD AB Temuco', 'CD Brisas', 18), Holgura:1.0
+R3_g_('Club Andino de Los Ángeles', 'CD Boston College', 18), Holgura:1.0
+R3_g_('CD Ceppi', 'Estadio Español', 18), Holgura:1.0
+R3_g_('CD Arturo Prat de San Felipe', 'Stadio Italiano', 18), Holgura:1.0
+R3_g_('CD Achao', 'Estadio Palestino', 18), Holgura:1.0
+R3_g_('CD Alemán de Concepción', 'CD Ceppi', 17), Holgura:1.0
+R3_g_('CD Manquehue', 'CD La Unión', 17), Holgura:1.0
+R3_g_('CD Quilicura Basket', 'CD Brisas', 17), Holgura:1.0
+R3_g_('Stadio Italiano', 'CD Liceo Curicó', 17), Holgura:1.0
+R3_g_('CD Boston College', 'Club Atlético Puerto Varas', 17), Holgura:1.0
+R3_g_('Estadio Palestino', 'CD Arturo Prat de San Felipe', 17), Holgura:1.0
+R3_g_('CD Liceo Curicó', 'CD Alemán de Concepción', 16), Holgura:1.0
+R3_g_('CD La Unión', 'CD Boston College', 16), Holgura:1.0
+R3_g_('CD Achao', 'CD Manquehue', 16), Holgura:1.0
+R3_g_('CD Ceppi', 'Estadio Palestino', 16), Holgura:1.0
+R3_g_('Club Atlético Puerto Varas', 'Club Andino de Los Ángeles', 16), Holgura:1.0
+R3_g_('CD Arturo Prat de San Felipe', 'CD Quilicura Basket', 16), Holgura:1.0
+R3_h_('Club Andino de Los Ángeles', 'Club Atlético Puerto Varas', 1), Holgura:1.0
+R3_h_('Stadio Italiano', 'CD AB Temuco', 1), Holgura:1.0
+R3_h_('Estadio Español', 'CD Brisas', 1), Holgura:1.0
+R3_h_('CD Manquehue', 'CD Achao', 1), Holgura:1.0
+R3_h_('CD Boston College', 'CD La Unión', 1), Holgura:1.0
+R3_h_('CD Alemán de Concepción', 'CD Liceo Curicó', 1), Holgura:1.0
+R3_h_('CD Arturo Prat de San Felipe', 'Estadio Palestino', 2), Holgura:1.0
+R3_h_('CD AB Temuco', 'Estadio Español', 2), Holgura:1.0
+R3_h_('CD Liceo Curicó', 'Stadio Italiano', 2), Holgura:1.0
+R3_h_('CD Brisas', 'CD Quilicura Basket', 2), Holgura:1.0
+R3_h_('CD La Unión', 'CD Manquehue', 2), Holgura:1.0
+R3_h_('CD Ceppi', 'CD Alemán de Concepción', 2), Holgura:1.0
+R3_h_('CD Achao', 'Club Andino de Los Ángeles', 2), Holgura:1.0
+R3_h_('CD Quilicura Basket', 'CD Liceo Curicó', 3), Holgura:1.0
+R3_h_('Estadio Palestino', 'CD Achao', 3), Holgura:1.0
+R3_h_('Stadio Italiano', 'CD Arturo Prat de San Felipe', 3), Holgura:1.0
+R3_h_('Estadio Español', 'CD Ceppi', 3), Holgura:1.0
+R3_h_('CD Manquehue', 'Club Atlético Puerto Varas', 3), Holgura:1.0
+R3_h_('CD Brisas', 'CD AB Temuco', 3), Holgura:1.0
+R3_h_('CD Alemán de Concepción', 'CD La Unión', 3), Holgura:1.0
+R3_h_('Club Atlético Puerto Varas', 'CD Alemán de Concepción', 4), Holgura:1.0
+R3_h_('CD AB Temuco', 'CD Quilicura Basket', 4), Holgura:1.0
+R3_h_('Club Andino de Los Ángeles', 'CD Manquehue', 4), Holgura:1.0
+R3_h_('CD Liceo Curicó', 'Estadio Español', 4), Holgura:1.0
+R3_h_('CD Ceppi', 'Stadio Italiano', 4), Holgura:1.0
+R3_h_('CD Achao', 'CD Boston College', 4), Holgura:1.0
+R3_h_('CD Quilicura Basket', 'Club Atlético Puerto Varas', 5), Holgura:1.0
+R3_h_('CD AB Temuco', 'Club Andino de Los Ángeles', 5), Holgura:1.0
+R3_h_('Estadio Palestino', 'CD Liceo Curicó', 5), Holgura:1.0
+R3_h_('Stadio Italiano', 'CD La Unión', 5), Holgura:1.0
+R3_h_('CD Boston College', 'CD Manquehue', 5), Holgura:1.0
+R3_h_('CD Brisas', 'CD Ceppi', 5), Holgura:1.0
+R3_h_('CD Alemán de Concepción', 'CD Achao', 5), Holgura:1.0
+R3_h_('CD Arturo Prat de San Felipe', 'CD AB Temuco', 6), Holgura:1.0
+R3_h_('Club Atlético Puerto Varas', 'Stadio Italiano', 6), Holgura:1.0
+R3_h_('CD Manquehue', 'Estadio Palestino', 6), Holgura:1.0
+R3_h_('CD La Unión', 'CD Brisas', 6), Holgura:1.0
+R3_h_('CD Ceppi', 'CD Quilicura Basket', 6), Holgura:1.0
+R3_h_('CD Achao', 'Estadio Español', 6), Holgura:1.0
+R3_h_('CD Quilicura Basket', 'CD Manquehue', 7), Holgura:1.0
+R3_h_('CD Arturo Prat de San Felipe', 'CD Ceppi', 7), Holgura:1.0
+R3_h_('CD AB Temuco', 'CD La Unión', 7), Holgura:1.0
+R3_h_('Estadio Palestino', 'Club Atlético Puerto Varas', 7), Holgura:1.0
+R3_h_('Estadio Español', 'Club Andino de Los Ángeles', 7), Holgura:1.0
+R3_h_('CD Brisas', 'CD Liceo Curicó', 7), Holgura:1.0
+R3_h_('CD Alemán de Concepción', 'CD Boston College', 7), Holgura:1.0
+R3_h_('Club Atlético Puerto Varas', 'Estadio Español', 8), Holgura:1.0
+R3_h_('Club Andino de Los Ángeles', 'Estadio Palestino', 8), Holgura:1.0
+R3_h_('CD Liceo Curicó', 'CD Arturo Prat de San Felipe', 8), Holgura:1.0
+R3_h_('CD Manquehue', 'CD Alemán de Concepción', 8), Holgura:1.0
+R3_h_('CD La Unión', 'CD Quilicura Basket', 8), Holgura:1.0
+R3_h_('CD Achao', 'CD Brisas', 8), Holgura:1.0
+R3_h_('CD Quilicura Basket', 'Club Andino de Los Ángeles', 9), Holgura:1.0
+R3_h_('CD Arturo Prat de San Felipe', 'CD Achao', 9), Holgura:1.0
+R3_h_('CD AB Temuco', 'Club Atlético Puerto Varas', 9), Holgura:1.0
+R3_h_('Estadio Palestino', 'CD Alemán de Concepción', 9), Holgura:1.0
+R3_h_('Stadio Italiano', 'CD Manquehue', 9), Holgura:1.0
+R3_h_('Estadio Español', 'CD La Unión', 9), Holgura:1.0
+R3_h_('CD Brisas', 'CD Boston College', 9), Holgura:1.0
+R3_h_('Club Atlético Puerto Varas', 'CD Arturo Prat de San Felipe', 10), Holgura:1.0
+R3_h_('Club Andino de Los Ángeles', 'CD Brisas', 10), Holgura:1.0
+R3_h_('CD Manquehue', 'Estadio Español', 10), Holgura:1.0
+R3_h_('CD Boston College', 'Estadio Palestino', 10), Holgura:1.0
+R3_h_('CD La Unión', 'CD Ceppi', 10), Holgura:1.0
+R3_h_('CD Achao', 'CD Quilicura Basket', 10), Holgura:1.0
+R3_h_('CD Quilicura Basket', 'CD Alemán de Concepción', 11), Holgura:1.0
+R3_h_('CD Arturo Prat de San Felipe', 'CD Manquehue', 11), Holgura:1.0
+R3_h_('CD AB Temuco', 'CD Achao', 11), Holgura:1.0
+R3_h_('CD Liceo Curicó', 'CD La Unión', 11), Holgura:1.0
+R3_h_('Estadio Español', 'CD Boston College', 11), Holgura:1.0
+R3_h_('CD Brisas', 'Club Atlético Puerto Varas', 11), Holgura:1.0
+R3_h_('Club Atlético Puerto Varas', 'CD Liceo Curicó', 12), Holgura:1.0
+R3_h_('Club Andino de Los Ángeles', 'Stadio Italiano', 12), Holgura:1.0
+R3_h_('Estadio Palestino', 'Estadio Español', 12), Holgura:1.0
+R3_h_('CD Boston College', 'CD Quilicura Basket', 12), Holgura:1.0
+R3_h_('CD La Unión', 'CD Arturo Prat de San Felipe', 12), Holgura:1.0
+R3_h_('CD Achao', 'CD Ceppi', 12), Holgura:1.0
+R3_h_('CD Alemán de Concepción', 'CD AB Temuco', 12), Holgura:1.0
+R3_h_('CD Quilicura Basket', 'Stadio Italiano', 13), Holgura:1.0
+R3_h_('CD Liceo Curicó', 'CD Achao', 13), Holgura:1.0
+R3_h_('Estadio Español', 'CD Alemán de Concepción', 13), Holgura:1.0
+R3_h_('CD Brisas', 'Estadio Palestino', 13), Holgura:1.0
+R3_h_('CD La Unión', 'Club Atlético Puerto Varas', 13), Holgura:1.0
+R3_h_('CD Ceppi', 'CD Manquehue', 13), Holgura:1.0
+R3_h_('Club Atlético Puerto Varas', 'CD Ceppi', 14), Holgura:1.0
+R3_h_('Estadio Palestino', 'CD Quilicura Basket', 14), Holgura:1.0
+R3_h_('Stadio Italiano', 'Estadio Español', 14), Holgura:1.0
+R3_h_('CD Manquehue', 'CD AB Temuco', 14), Holgura:1.0
+R3_h_('CD Achao', 'CD La Unión', 14), Holgura:1.0
+R3_h_('CD Alemán de Concepción', 'CD Brisas', 14), Holgura:1.0
+R3_h_('CD Quilicura Basket', 'Estadio Español', 15), Holgura:1.0
+R3_h_('CD Arturo Prat de San Felipe', 'CD Alemán de Concepción', 15), Holgura:1.0
+R3_h_('Club Atlético Puerto Varas', 'CD Achao', 15), Holgura:1.0
+R3_h_('CD AB Temuco', 'Estadio Palestino', 15), Holgura:1.0
+R3_h_('CD Liceo Curicó', 'CD Manquehue', 15), Holgura:1.0
+R3_h_('CD La Unión', 'Club Andino de Los Ángeles', 15), Holgura:1.0
+R3_h_('CD Ceppi', 'CD Boston College', 15), Holgura:1.0
+R3_h_('CD Boston College', 'CD Ceppi', 30), Holgura:1.0
+R3_h_('Club Andino de Los Ángeles', 'CD La Unión', 30), Holgura:1.0
+R3_h_('CD Manquehue', 'CD Liceo Curicó', 30), Holgura:1.0
+R3_h_('Estadio Palestino', 'CD AB Temuco', 30), Holgura:1.0
+R3_h_('CD Achao', 'Club Atlético Puerto Varas', 30), Holgura:1.0
+R3_h_('CD Alemán de Concepción', 'CD Arturo Prat de San Felipe', 30), Holgura:1.0
+R3_h_('Estadio Español', 'CD Quilicura Basket', 30), Holgura:1.0
+R3_h_('CD Brisas', 'CD Alemán de Concepción', 29), Holgura:1.0
+R3_h_('CD La Unión', 'CD Achao', 29), Holgura:1.0
+R3_h_('CD AB Temuco', 'CD Manquehue', 29), Holgura:1.0
+R3_h_('Estadio Español', 'Stadio Italiano', 29), Holgura:1.0
+R3_h_('CD Quilicura Basket', 'Estadio Palestino', 29), Holgura:1.0
+R3_h_('CD Ceppi', 'Club Atlético Puerto Varas', 29), Holgura:1.0
+R3_h_('CD Manquehue', 'CD Ceppi', 28), Holgura:1.0
+R3_h_('Club Atlético Puerto Varas', 'CD La Unión', 28), Holgura:1.0
+R3_h_('Estadio Palestino', 'CD Brisas', 28), Holgura:1.0
+R3_h_('CD Alemán de Concepción', 'Estadio Español', 28), Holgura:1.0
+R3_h_('CD Achao', 'CD Liceo Curicó', 28), Holgura:1.0
+R3_h_('Stadio Italiano', 'CD Quilicura Basket', 28), Holgura:1.0
+R3_h_('CD AB Temuco', 'CD Alemán de Concepción', 27), Holgura:1.0
+R3_h_('CD Ceppi', 'CD Achao', 27), Holgura:1.0
+R3_h_('CD Arturo Prat de San Felipe', 'CD La Unión', 27), Holgura:1.0
+R3_h_('CD Quilicura Basket', 'CD Boston College', 27), Holgura:1.0
+R3_h_('Estadio Español', 'Estadio Palestino', 27), Holgura:1.0
+R3_h_('Stadio Italiano', 'Club Andino de Los Ángeles', 27), Holgura:1.0
+R3_h_('CD Liceo Curicó', 'Club Atlético Puerto Varas', 27), Holgura:1.0
+R3_h_('Club Atlético Puerto Varas', 'CD Brisas', 26), Holgura:1.0
+R3_h_('CD Boston College', 'Estadio Español', 26), Holgura:1.0
+R3_h_('CD La Unión', 'CD Liceo Curicó', 26), Holgura:1.0
+R3_h_('CD Achao', 'CD AB Temuco', 26), Holgura:1.0
+R3_h_('CD Manquehue', 'CD Arturo Prat de San Felipe', 26), Holgura:1.0
+R3_h_('CD Alemán de Concepción', 'CD Quilicura Basket', 26), Holgura:1.0
+R3_h_('CD Quilicura Basket', 'CD Achao', 25), Holgura:1.0
+R3_h_('CD Ceppi', 'CD La Unión', 25), Holgura:1.0
+R3_h_('Estadio Palestino', 'CD Boston College', 25), Holgura:1.0
+R3_h_('Estadio Español', 'CD Manquehue', 25), Holgura:1.0
+R3_h_('CD Brisas', 'Club Andino de Los Ángeles', 25), Holgura:1.0
+R3_h_('CD Arturo Prat de San Felipe', 'Club Atlético Puerto Varas', 25), Holgura:1.0
+R3_h_('CD Boston College', 'CD Brisas', 24), Holgura:1.0
+R3_h_('CD La Unión', 'Estadio Español', 24), Holgura:1.0
+R3_h_('CD Manquehue', 'Stadio Italiano', 24), Holgura:1.0
+R3_h_('CD Alemán de Concepción', 'Estadio Palestino', 24), Holgura:1.0
+R3_h_('Club Atlético Puerto Varas', 'CD AB Temuco', 24), Holgura:1.0
+R3_h_('CD Achao', 'CD Arturo Prat de San Felipe', 24), Holgura:1.0
+R3_h_('Club Andino de Los Ángeles', 'CD Quilicura Basket', 24), Holgura:1.0
+R3_h_('CD Brisas', 'CD Achao', 23), Holgura:1.0
+R3_h_('CD Quilicura Basket', 'CD La Unión', 23), Holgura:1.0
+R3_h_('CD Alemán de Concepción', 'CD Manquehue', 23), Holgura:1.0
+R3_h_('CD Arturo Prat de San Felipe', 'CD Liceo Curicó', 23), Holgura:1.0
+R3_h_('Estadio Palestino', 'Club Andino de Los Ángeles', 23), Holgura:1.0
+R3_h_('Estadio Español', 'Club Atlético Puerto Varas', 23), Holgura:1.0
+R3_h_('CD Boston College', 'CD Alemán de Concepción', 22), Holgura:1.0
+R3_h_('CD Liceo Curicó', 'CD Brisas', 22), Holgura:1.0
+R3_h_('Club Andino de Los Ángeles', 'Estadio Español', 22), Holgura:1.0
+R3_h_('Club Atlético Puerto Varas', 'Estadio Palestino', 22), Holgura:1.0
+R3_h_('CD La Unión', 'CD AB Temuco', 22), Holgura:1.0
+R3_h_('CD Ceppi', 'CD Arturo Prat de San Felipe', 22), Holgura:1.0
+R3_h_('CD Manquehue', 'CD Quilicura Basket', 22), Holgura:1.0
+R3_h_('Estadio Español', 'CD Achao', 21), Holgura:1.0
+R3_h_('CD Quilicura Basket', 'CD Ceppi', 21), Holgura:1.0
+R3_h_('CD Brisas', 'CD La Unión', 21), Holgura:1.0
+R3_h_('Estadio Palestino', 'CD Manquehue', 21), Holgura:1.0
+R3_h_('Stadio Italiano', 'Club Atlético Puerto Varas', 21), Holgura:1.0
+R3_h_('CD AB Temuco', 'CD Arturo Prat de San Felipe', 21), Holgura:1.0
+R3_h_('CD Achao', 'CD Alemán de Concepción', 20), Holgura:1.0
+R3_h_('CD Ceppi', 'CD Brisas', 20), Holgura:1.0
+R3_h_('CD Manquehue', 'CD Boston College', 20), Holgura:1.0
+R3_h_('CD La Unión', 'Stadio Italiano', 20), Holgura:1.0
+R3_h_('CD Liceo Curicó', 'Estadio Palestino', 20), Holgura:1.0
+R3_h_('Club Andino de Los Ángeles', 'CD AB Temuco', 20), Holgura:1.0
+R3_h_('Club Atlético Puerto Varas', 'CD Quilicura Basket', 20), Holgura:1.0
+R3_h_('CD Boston College', 'CD Achao', 19), Holgura:1.0
+R3_h_('Stadio Italiano', 'CD Ceppi', 19), Holgura:1.0
+R3_h_('Estadio Español', 'CD Liceo Curicó', 19), Holgura:1.0
+R3_h_('CD Manquehue', 'Club Andino de Los Ángeles', 19), Holgura:1.0
+R3_h_('CD Quilicura Basket', 'CD AB Temuco', 19), Holgura:1.0
+R3_h_('CD Alemán de Concepción', 'Club Atlético Puerto Varas', 19), Holgura:1.0
+R3_h_('CD La Unión', 'CD Alemán de Concepción', 18), Holgura:1.0
+R3_h_('CD AB Temuco', 'CD Brisas', 18), Holgura:1.0
+R3_h_('Club Atlético Puerto Varas', 'CD Manquehue', 18), Holgura:1.0
+R3_h_('CD Ceppi', 'Estadio Español', 18), Holgura:1.0
+R3_h_('CD Arturo Prat de San Felipe', 'Stadio Italiano', 18), Holgura:1.0
+R3_h_('CD Achao', 'Estadio Palestino', 18), Holgura:1.0
+R3_h_('CD Liceo Curicó', 'CD Quilicura Basket', 18), Holgura:1.0
+R3_h_('Club Andino de Los Ángeles', 'CD Achao', 17), Holgura:1.0
+R3_h_('CD Alemán de Concepción', 'CD Ceppi', 17), Holgura:1.0
+R3_h_('CD Manquehue', 'CD La Unión', 17), Holgura:1.0
+R3_h_('CD Quilicura Basket', 'CD Brisas', 17), Holgura:1.0
+R3_h_('Stadio Italiano', 'CD Liceo Curicó', 17), Holgura:1.0
+R3_h_('Estadio Español', 'CD AB Temuco', 17), Holgura:1.0
+R3_h_('Estadio Palestino', 'CD Arturo Prat de San Felipe', 17), Holgura:1.0
+R3_h_('CD Liceo Curicó', 'CD Alemán de Concepción', 16), Holgura:1.0
+R3_h_('CD La Unión', 'CD Boston College', 16), Holgura:1.0
+R3_h_('CD Achao', 'CD Manquehue', 16), Holgura:1.0
+R3_h_('CD Brisas', 'Estadio Español', 16), Holgura:1.0
+R3_h_('CD AB Temuco', 'Stadio Italiano', 16), Holgura:1.0
+R3_h_('Club Atlético Puerto Varas', 'Club Andino de Los Ángeles', 16), Holgura:1.0
+R3_i_('CD Quilicura Basket', 'CD Arturo Prat de San Felipe', 1), Holgura:1.0
+R3_i_('Club Andino de Los Ángeles', 'Club Atlético Puerto Varas', 1), Holgura:1.0
+R3_i_('Estadio Palestino', 'CD Ceppi', 1), Holgura:1.0
+R3_i_('Stadio Italiano', 'CD AB Temuco', 1), Holgura:1.0
+R3_i_('Estadio Español', 'CD Brisas', 1), Holgura:1.0
+R3_i_('CD Boston College', 'CD La Unión', 1), Holgura:1.0
+R3_i_('CD Alemán de Concepción', 'CD Liceo Curicó', 1), Holgura:1.0
+R3_i_('CD Arturo Prat de San Felipe', 'Estadio Palestino', 2), Holgura:1.0
+R3_i_('Club Atlético Puerto Varas', 'CD Boston College', 2), Holgura:1.0
+R3_i_('CD AB Temuco', 'Estadio Español', 2), Holgura:1.0
+R3_i_('CD Liceo Curicó', 'Stadio Italiano', 2), Holgura:1.0
+R3_i_('CD La Unión', 'CD Manquehue', 2), Holgura:1.0
+R3_i_('CD Ceppi', 'CD Alemán de Concepción', 2), Holgura:1.0
+R3_i_('CD Achao', 'Club Andino de Los Ángeles', 2), Holgura:1.0
+R3_i_('CD Quilicura Basket', 'CD Liceo Curicó', 3), Holgura:1.0
+R3_i_('Stadio Italiano', 'CD Arturo Prat de San Felipe', 3), Holgura:1.0
+R3_i_('Estadio Español', 'CD Ceppi', 3), Holgura:1.0
+R3_i_('CD Manquehue', 'Club Atlético Puerto Varas', 3), Holgura:1.0
+R3_i_('CD Boston College', 'Club Andino de Los Ángeles', 3), Holgura:1.0
+R3_i_('CD Brisas', 'CD AB Temuco', 3), Holgura:1.0
+R3_i_('CD Alemán de Concepción', 'CD La Unión', 3), Holgura:1.0
+R3_i_('CD Arturo Prat de San Felipe', 'CD Brisas', 4), Holgura:1.0
+R3_i_('Club Atlético Puerto Varas', 'CD Alemán de Concepción', 4), Holgura:1.0
+R3_i_('Club Andino de Los Ángeles', 'CD Manquehue', 4), Holgura:1.0
+R3_i_('CD Liceo Curicó', 'Estadio Español', 4), Holgura:1.0
+R3_i_('CD La Unión', 'Estadio Palestino', 4), Holgura:1.0
+R3_i_('CD Ceppi', 'Stadio Italiano', 4), Holgura:1.0
+R3_i_('CD Quilicura Basket', 'Club Atlético Puerto Varas', 5), Holgura:1.0
+R3_i_('CD AB Temuco', 'Club Andino de Los Ángeles', 5), Holgura:1.0
+R3_i_('Stadio Italiano', 'CD La Unión', 5), Holgura:1.0
+R3_i_('Estadio Español', 'CD Arturo Prat de San Felipe', 5), Holgura:1.0
+R3_i_('CD Boston College', 'CD Manquehue', 5), Holgura:1.0
+R3_i_('CD Alemán de Concepción', 'CD Achao', 5), Holgura:1.0
+R3_i_('CD Arturo Prat de San Felipe', 'CD AB Temuco', 6), Holgura:1.0
+R3_i_('Club Andino de Los Ángeles', 'CD Alemán de Concepción', 6), Holgura:1.0
+R3_i_('CD Liceo Curicó', 'CD Boston College', 6), Holgura:1.0
+R3_i_('CD La Unión', 'CD Brisas', 6), Holgura:1.0
+R3_i_('CD Ceppi', 'CD Quilicura Basket', 6), Holgura:1.0
+R3_i_('CD Achao', 'Estadio Español', 6), Holgura:1.0
+R3_i_('CD Quilicura Basket', 'CD Manquehue', 7), Holgura:1.0
+R3_i_('CD Arturo Prat de San Felipe', 'CD Ceppi', 7), Holgura:1.0
+R3_i_('CD AB Temuco', 'CD La Unión', 7), Holgura:1.0
+R3_i_('Stadio Italiano', 'CD Achao', 7), Holgura:1.0
+R3_i_('Estadio Español', 'Club Andino de Los Ángeles', 7), Holgura:1.0
+R3_i_('CD Alemán de Concepción', 'CD Boston College', 7), Holgura:1.0
+R3_i_('Club Atlético Puerto Varas', 'Estadio Español', 8), Holgura:1.0
+R3_i_('Club Andino de Los Ángeles', 'Estadio Palestino', 8), Holgura:1.0
+R3_i_('CD Manquehue', 'CD Alemán de Concepción', 8), Holgura:1.0
+R3_i_('CD Boston College', 'Stadio Italiano', 8), Holgura:1.0
+R3_i_('CD La Unión', 'CD Quilicura Basket', 8), Holgura:1.0
+R3_i_('CD Ceppi', 'CD AB Temuco', 8), Holgura:1.0
+R3_i_('CD Achao', 'CD Brisas', 8), Holgura:1.0
+R3_i_('CD Quilicura Basket', 'Club Andino de Los Ángeles', 9), Holgura:1.0
+R3_i_('CD AB Temuco', 'Club Atlético Puerto Varas', 9), Holgura:1.0
+R3_i_('Estadio Palestino', 'CD Alemán de Concepción', 9), Holgura:1.0
+R3_i_('Stadio Italiano', 'CD Manquehue', 9), Holgura:1.0
+R3_i_('Estadio Español', 'CD La Unión', 9), Holgura:1.0
+R3_i_('CD Brisas', 'CD Boston College', 9), Holgura:1.0
+R3_i_('Club Atlético Puerto Varas', 'CD Arturo Prat de San Felipe', 10), Holgura:1.0
+R3_i_('CD Liceo Curicó', 'CD AB Temuco', 10), Holgura:1.0
+R3_i_('CD Manquehue', 'Estadio Español', 10), Holgura:1.0
+R3_i_('CD La Unión', 'CD Ceppi', 10), Holgura:1.0
+R3_i_('CD Achao', 'CD Quilicura Basket', 10), Holgura:1.0
+R3_i_('CD Alemán de Concepción', 'Stadio Italiano', 10), Holgura:1.0
+R3_i_('CD Quilicura Basket', 'CD Alemán de Concepción', 11), Holgura:1.0
+R3_i_('CD Arturo Prat de San Felipe', 'CD Manquehue', 11), Holgura:1.0
+R3_i_('CD AB Temuco', 'CD Achao', 11), Holgura:1.0
+R3_i_('Stadio Italiano', 'Estadio Palestino', 11), Holgura:1.0
+R3_i_('CD Liceo Curicó', 'CD La Unión', 11), Holgura:1.0
+R3_i_('Estadio Español', 'CD Boston College', 11), Holgura:1.0
+R3_i_('CD Ceppi', 'Club Andino de Los Ángeles', 11), Holgura:1.0
+R3_i_('Club Atlético Puerto Varas', 'CD Liceo Curicó', 12), Holgura:1.0
+R3_i_('Club Andino de Los Ángeles', 'Stadio Italiano', 12), Holgura:1.0
+R3_i_('CD Manquehue', 'CD Brisas', 12), Holgura:1.0
+R3_i_('CD Boston College', 'CD Quilicura Basket', 12), Holgura:1.0
+R3_i_('CD La Unión', 'CD Arturo Prat de San Felipe', 12), Holgura:1.0
+R3_i_('CD Alemán de Concepción', 'CD AB Temuco', 12), Holgura:1.0
+R3_i_('CD Quilicura Basket', 'Stadio Italiano', 13), Holgura:1.0
+R3_i_('CD Arturo Prat de San Felipe', 'Club Andino de Los Ángeles', 13), Holgura:1.0
+R3_i_('CD AB Temuco', 'CD Boston College', 13), Holgura:1.0
+R3_i_('CD Liceo Curicó', 'CD Achao', 13), Holgura:1.0
+R3_i_('Estadio Español', 'CD Alemán de Concepción', 13), Holgura:1.0
+R3_i_('CD Ceppi', 'CD Manquehue', 13), Holgura:1.0
+R3_i_('Club Atlético Puerto Varas', 'CD Ceppi', 14), Holgura:1.0
+R3_i_('Club Andino de Los Ángeles', 'CD Liceo Curicó', 14), Holgura:1.0
+R3_i_('Stadio Italiano', 'Estadio Español', 14), Holgura:1.0
+R3_i_('CD Manquehue', 'CD AB Temuco', 14), Holgura:1.0
+R3_i_('CD Boston College', 'CD Arturo Prat de San Felipe', 14), Holgura:1.0
+R3_i_('CD Achao', 'CD La Unión', 14), Holgura:1.0
+R3_i_('CD Quilicura Basket', 'Estadio Español', 15), Holgura:1.0
+R3_i_('CD Arturo Prat de San Felipe', 'CD Alemán de Concepción', 15), Holgura:1.0
+R3_i_('CD AB Temuco', 'Estadio Palestino', 15), Holgura:1.0
+R3_i_('CD Liceo Curicó', 'CD Manquehue', 15), Holgura:1.0
+R3_i_('CD Brisas', 'Stadio Italiano', 15), Holgura:1.0
+R3_i_('CD La Unión', 'Club Andino de Los Ángeles', 15), Holgura:1.0
+R3_i_('CD Ceppi', 'CD Boston College', 15), Holgura:1.0
+R3_i_('CD Boston College', 'CD Ceppi', 30), Holgura:1.0
+R3_i_('Club Andino de Los Ángeles', 'CD La Unión', 30), Holgura:1.0
+R3_i_('Stadio Italiano', 'CD Brisas', 30), Holgura:1.0
+R3_i_('CD Manquehue', 'CD Liceo Curicó', 30), Holgura:1.0
+R3_i_('Estadio Palestino', 'CD AB Temuco', 30), Holgura:1.0
+R3_i_('CD Alemán de Concepción', 'CD Arturo Prat de San Felipe', 30), Holgura:1.0
+R3_i_('Estadio Español', 'CD Quilicura Basket', 30), Holgura:1.0
+R3_i_('CD La Unión', 'CD Achao', 29), Holgura:1.0
+R3_i_('CD Arturo Prat de San Felipe', 'CD Boston College', 29), Holgura:1.0
+R3_i_('CD AB Temuco', 'CD Manquehue', 29), Holgura:1.0
+R3_i_('Estadio Español', 'Stadio Italiano', 29), Holgura:1.0
+R3_i_('CD Liceo Curicó', 'Club Andino de Los Ángeles', 29), Holgura:1.0
+R3_i_('CD Ceppi', 'Club Atlético Puerto Varas', 29), Holgura:1.0
+R3_i_('CD Manquehue', 'CD Ceppi', 28), Holgura:1.0
+R3_i_('CD Alemán de Concepción', 'Estadio Español', 28), Holgura:1.0
+R3_i_('CD Achao', 'CD Liceo Curicó', 28), Holgura:1.0
+R3_i_('CD Boston College', 'CD AB Temuco', 28), Holgura:1.0
+R3_i_('Club Andino de Los Ángeles', 'CD Arturo Prat de San Felipe', 28), Holgura:1.0
+R3_i_('Stadio Italiano', 'CD Quilicura Basket', 28), Holgura:1.0
+R3_i_('CD AB Temuco', 'CD Alemán de Concepción', 27), Holgura:1.0
+R3_i_('CD Arturo Prat de San Felipe', 'CD La Unión', 27), Holgura:1.0
+R3_i_('CD Quilicura Basket', 'CD Boston College', 27), Holgura:1.0
+R3_i_('CD Brisas', 'CD Manquehue', 27), Holgura:1.0
+R3_i_('Stadio Italiano', 'Club Andino de Los Ángeles', 27), Holgura:1.0
+R3_i_('CD Liceo Curicó', 'Club Atlético Puerto Varas', 27), Holgura:1.0
+R3_i_('Club Andino de Los Ángeles', 'CD Ceppi', 26), Holgura:1.0
+R3_i_('CD Boston College', 'Estadio Español', 26), Holgura:1.0
+R3_i_('CD La Unión', 'CD Liceo Curicó', 26), Holgura:1.0
+R3_i_('Estadio Palestino', 'Stadio Italiano', 26), Holgura:1.0
+R3_i_('CD Achao', 'CD AB Temuco', 26), Holgura:1.0
+R3_i_('CD Manquehue', 'CD Arturo Prat de San Felipe', 26), Holgura:1.0
+R3_i_('CD Alemán de Concepción', 'CD Quilicura Basket', 26), Holgura:1.0
+R3_i_('Stadio Italiano', 'CD Alemán de Concepción', 25), Holgura:1.0
+R3_i_('CD Quilicura Basket', 'CD Achao', 25), Holgura:1.0
+R3_i_('CD Ceppi', 'CD La Unión', 25), Holgura:1.0
+R3_i_('Estadio Español', 'CD Manquehue', 25), Holgura:1.0
+R3_i_('CD AB Temuco', 'CD Liceo Curicó', 25), Holgura:1.0
+R3_i_('CD Arturo Prat de San Felipe', 'Club Atlético Puerto Varas', 25), Holgura:1.0
+R3_i_('CD Boston College', 'CD Brisas', 24), Holgura:1.0
+R3_i_('CD La Unión', 'Estadio Español', 24), Holgura:1.0
+R3_i_('CD Manquehue', 'Stadio Italiano', 24), Holgura:1.0
+R3_i_('CD Alemán de Concepción', 'Estadio Palestino', 24), Holgura:1.0
+R3_i_('Club Atlético Puerto Varas', 'CD AB Temuco', 24), Holgura:1.0
+R3_i_('Club Andino de Los Ángeles', 'CD Quilicura Basket', 24), Holgura:1.0
+R3_i_('CD Brisas', 'CD Achao', 23), Holgura:1.0
+R3_i_('CD AB Temuco', 'CD Ceppi', 23), Holgura:1.0
+R3_i_('CD Quilicura Basket', 'CD La Unión', 23), Holgura:1.0
+R3_i_('Stadio Italiano', 'CD Boston College', 23), Holgura:1.0
+R3_i_('CD Alemán de Concepción', 'CD Manquehue', 23), Holgura:1.0
+R3_i_('Estadio Palestino', 'Club Andino de Los Ángeles', 23), Holgura:1.0
+R3_i_('Estadio Español', 'Club Atlético Puerto Varas', 23), Holgura:1.0
+R3_i_('CD Boston College', 'CD Alemán de Concepción', 22), Holgura:1.0
+R3_i_('Club Andino de Los Ángeles', 'Estadio Español', 22), Holgura:1.0
+R3_i_('CD Achao', 'Stadio Italiano', 22), Holgura:1.0
+R3_i_('CD La Unión', 'CD AB Temuco', 22), Holgura:1.0
+R3_i_('CD Ceppi', 'CD Arturo Prat de San Felipe', 22), Holgura:1.0
+R3_i_('CD Manquehue', 'CD Quilicura Basket', 22), Holgura:1.0
+R3_i_('Estadio Español', 'CD Achao', 21), Holgura:1.0
+R3_i_('CD Quilicura Basket', 'CD Ceppi', 21), Holgura:1.0
+R3_i_('CD Brisas', 'CD La Unión', 21), Holgura:1.0
+R3_i_('CD Boston College', 'CD Liceo Curicó', 21), Holgura:1.0
+R3_i_('CD Alemán de Concepción', 'Club Andino de Los Ángeles', 21), Holgura:1.0
+R3_i_('CD AB Temuco', 'CD Arturo Prat de San Felipe', 21), Holgura:1.0
+R3_i_('CD Achao', 'CD Alemán de Concepción', 20), Holgura:1.0
+R3_i_('CD Manquehue', 'CD Boston College', 20), Holgura:1.0
+R3_i_('CD Arturo Prat de San Felipe', 'Estadio Español', 20), Holgura:1.0
+R3_i_('CD La Unión', 'Stadio Italiano', 20), Holgura:1.0
+R3_i_('Club Andino de Los Ángeles', 'CD AB Temuco', 20), Holgura:1.0
+R3_i_('Club Atlético Puerto Varas', 'CD Quilicura Basket', 20), Holgura:1.0
+R3_i_('Stadio Italiano', 'CD Ceppi', 19), Holgura:1.0
+R3_i_('Estadio Palestino', 'CD La Unión', 19), Holgura:1.0
+R3_i_('Estadio Español', 'CD Liceo Curicó', 19), Holgura:1.0
+R3_i_('CD Manquehue', 'Club Andino de Los Ángeles', 19), Holgura:1.0
+R3_i_('CD Alemán de Concepción', 'Club Atlético Puerto Varas', 19), Holgura:1.0
+R3_i_('CD Brisas', 'CD Arturo Prat de San Felipe', 19), Holgura:1.0
+R3_i_('CD La Unión', 'CD Alemán de Concepción', 18), Holgura:1.0
+R3_i_('CD AB Temuco', 'CD Brisas', 18), Holgura:1.0
+R3_i_('Club Andino de Los Ángeles', 'CD Boston College', 18), Holgura:1.0
+R3_i_('Club Atlético Puerto Varas', 'CD Manquehue', 18), Holgura:1.0
+R3_i_('CD Ceppi', 'Estadio Español', 18), Holgura:1.0
+R3_i_('CD Arturo Prat de San Felipe', 'Stadio Italiano', 18), Holgura:1.0
+R3_i_('CD Liceo Curicó', 'CD Quilicura Basket', 18), Holgura:1.0
+R3_i_('Club Andino de Los Ángeles', 'CD Achao', 17), Holgura:1.0
+R3_i_('CD Alemán de Concepción', 'CD Ceppi', 17), Holgura:1.0
+R3_i_('CD Manquehue', 'CD La Unión', 17), Holgura:1.0
+R3_i_('Stadio Italiano', 'CD Liceo Curicó', 17), Holgura:1.0
+R3_i_('Estadio Español', 'CD AB Temuco', 17), Holgura:1.0
+R3_i_('CD Boston College', 'Club Atlético Puerto Varas', 17), Holgura:1.0
+R3_i_('Estadio Palestino', 'CD Arturo Prat de San Felipe', 17), Holgura:1.0
+R3_i_('CD Liceo Curicó', 'CD Alemán de Concepción', 16), Holgura:1.0
+R3_i_('CD La Unión', 'CD Boston College', 16), Holgura:1.0
+R3_i_('CD Brisas', 'Estadio Español', 16), Holgura:1.0
+R3_i_('CD AB Temuco', 'Stadio Italiano', 16), Holgura:1.0
+R3_i_('CD Ceppi', 'Estadio Palestino', 16), Holgura:1.0
+R3_i_('Club Atlético Puerto Varas', 'Club Andino de Los Ángeles', 16), Holgura:1.0
+R3_i_('CD Arturo Prat de San Felipe', 'CD Quilicura Basket', 16), Holgura:1.0
+R3_j_('CD Quilicura Basket', 'CD Arturo Prat de San Felipe', 1), Holgura:1.0
+R3_j_('Club Andino de Los Ángeles', 'Club Atlético Puerto Varas', 1), Holgura:1.0
+R3_j_('Estadio Palestino', 'CD Ceppi', 1), Holgura:1.0
+R3_j_('Estadio Español', 'CD Brisas', 1), Holgura:1.0
+R3_j_('CD Manquehue', 'CD Achao', 1), Holgura:1.0
+R3_j_('CD Boston College', 'CD La Unión', 1), Holgura:1.0
+R3_j_('CD Alemán de Concepción', 'CD Liceo Curicó', 1), Holgura:1.0
+R3_j_('Club Atlético Puerto Varas', 'CD Boston College', 2), Holgura:1.0
+R3_j_('CD AB Temuco', 'Estadio Español', 2), Holgura:1.0
+R3_j_('CD Liceo Curicó', 'Stadio Italiano', 2), Holgura:1.0
+R3_j_('CD Brisas', 'CD Quilicura Basket', 2), Holgura:1.0
+R3_j_('CD Ceppi', 'CD Alemán de Concepción', 2), Holgura:1.0
+R3_j_('CD Achao', 'Club Andino de Los Ángeles', 2), Holgura:1.0
+R3_j_('CD Quilicura Basket', 'CD Liceo Curicó', 3), Holgura:1.0
+R3_j_('Estadio Palestino', 'CD Achao', 3), Holgura:1.0
+R3_j_('Estadio Español', 'CD Ceppi', 3), Holgura:1.0
+R3_j_('CD Manquehue', 'Club Atlético Puerto Varas', 3), Holgura:1.0
+R3_j_('CD Boston College', 'Club Andino de Los Ángeles', 3), Holgura:1.0
+R3_j_('CD Brisas', 'CD AB Temuco', 3), Holgura:1.0
+R3_j_('Club Atlético Puerto Varas', 'CD Alemán de Concepción', 4), Holgura:1.0
+R3_j_('CD AB Temuco', 'CD Quilicura Basket', 4), Holgura:1.0
+R3_j_('CD Liceo Curicó', 'Estadio Español', 4), Holgura:1.0
+R3_j_('CD La Unión', 'Estadio Palestino', 4), Holgura:1.0
+R3_j_('CD Ceppi', 'Stadio Italiano', 4), Holgura:1.0
+R3_j_('CD Achao', 'CD Boston College', 4), Holgura:1.0
+R3_j_('CD Quilicura Basket', 'Club Atlético Puerto Varas', 5), Holgura:1.0
+R3_j_('Estadio Palestino', 'CD Liceo Curicó', 5), Holgura:1.0
+R3_j_('Stadio Italiano', 'CD La Unión', 5), Holgura:1.0
+R3_j_('CD Boston College', 'CD Manquehue', 5), Holgura:1.0
+R3_j_('CD Brisas', 'CD Ceppi', 5), Holgura:1.0
+R3_j_('CD Alemán de Concepción', 'CD Achao', 5), Holgura:1.0
+R3_j_('Club Atlético Puerto Varas', 'Stadio Italiano', 6), Holgura:1.0
+R3_j_('Club Andino de Los Ángeles', 'CD Alemán de Concepción', 6), Holgura:1.0
+R3_j_('CD Liceo Curicó', 'CD Boston College', 6), Holgura:1.0
+R3_j_('CD Manquehue', 'Estadio Palestino', 6), Holgura:1.0
+R3_j_('CD La Unión', 'CD Brisas', 6), Holgura:1.0
+R3_j_('CD Ceppi', 'CD Quilicura Basket', 6), Holgura:1.0
+R3_j_('CD Quilicura Basket', 'CD Manquehue', 7), Holgura:1.0
+R3_j_('CD AB Temuco', 'CD La Unión', 7), Holgura:1.0
+R3_j_('Estadio Palestino', 'Club Atlético Puerto Varas', 7), Holgura:1.0
+R3_j_('Stadio Italiano', 'CD Achao', 7), Holgura:1.0
+R3_j_('Estadio Español', 'Club Andino de Los Ángeles', 7), Holgura:1.0
+R3_j_('CD Alemán de Concepción', 'CD Boston College', 7), Holgura:1.0
+R3_j_('Club Atlético Puerto Varas', 'Estadio Español', 8), Holgura:1.0
+R3_j_('CD Liceo Curicó', 'CD Arturo Prat de San Felipe', 8), Holgura:1.0
+R3_j_('CD Manquehue', 'CD Alemán de Concepción', 8), Holgura:1.0
+R3_j_('CD La Unión', 'CD Quilicura Basket', 8), Holgura:1.0
+R3_j_('CD Ceppi', 'CD AB Temuco', 8), Holgura:1.0
+R3_j_('CD Achao', 'CD Brisas', 8), Holgura:1.0
+R3_j_('CD Arturo Prat de San Felipe', 'CD Achao', 9), Holgura:1.0
+R3_j_('CD AB Temuco', 'Club Atlético Puerto Varas', 9), Holgura:1.0
+R3_j_('Estadio Palestino', 'CD Alemán de Concepción', 9), Holgura:1.0
+R3_j_('Estadio Español', 'CD La Unión', 9), Holgura:1.0
+R3_j_('CD Brisas', 'CD Boston College', 9), Holgura:1.0
+R3_j_('CD Ceppi', 'CD Liceo Curicó', 9), Holgura:1.0
+R3_j_('Club Atlético Puerto Varas', 'CD Arturo Prat de San Felipe', 10), Holgura:1.0
+R3_j_('CD Liceo Curicó', 'CD AB Temuco', 10), Holgura:1.0
+R3_j_('CD Manquehue', 'Estadio Español', 10), Holgura:1.0
+R3_j_('CD Boston College', 'Estadio Palestino', 10), Holgura:1.0
+R3_j_('CD La Unión', 'CD Ceppi', 10), Holgura:1.0
+R3_j_('CD Achao', 'CD Quilicura Basket', 10), Holgura:1.0
+R3_j_('CD Alemán de Concepción', 'Stadio Italiano', 10), Holgura:1.0
+R3_j_('CD Quilicura Basket', 'CD Alemán de Concepción', 11), Holgura:1.0
+R3_j_('CD AB Temuco', 'CD Achao', 11), Holgura:1.0
+R3_j_('Stadio Italiano', 'Estadio Palestino', 11), Holgura:1.0
+R3_j_('CD Liceo Curicó', 'CD La Unión', 11), Holgura:1.0
+R3_j_('Estadio Español', 'CD Boston College', 11), Holgura:1.0
+R3_j_('CD Ceppi', 'Club Andino de Los Ángeles', 11), Holgura:1.0
+R3_j_('Club Atlético Puerto Varas', 'CD Liceo Curicó', 12), Holgura:1.0
+R3_j_('Estadio Palestino', 'Estadio Español', 12), Holgura:1.0
+R3_j_('CD Manquehue', 'CD Brisas', 12), Holgura:1.0
+R3_j_('CD Boston College', 'CD Quilicura Basket', 12), Holgura:1.0
+R3_j_('CD Achao', 'CD Ceppi', 12), Holgura:1.0
+R3_j_('CD Alemán de Concepción', 'CD AB Temuco', 12), Holgura:1.0
+R3_j_('CD AB Temuco', 'CD Boston College', 13), Holgura:1.0
+R3_j_('CD Liceo Curicó', 'CD Achao', 13), Holgura:1.0
+R3_j_('Estadio Español', 'CD Alemán de Concepción', 13), Holgura:1.0
+R3_j_('CD Brisas', 'Estadio Palestino', 13), Holgura:1.0
+R3_j_('CD La Unión', 'Club Atlético Puerto Varas', 13), Holgura:1.0
+R3_j_('CD Ceppi', 'CD Manquehue', 13), Holgura:1.0
+R3_j_('Club Atlético Puerto Varas', 'CD Ceppi', 14), Holgura:1.0
+R3_j_('Estadio Palestino', 'CD Quilicura Basket', 14), Holgura:1.0
+R3_j_('Stadio Italiano', 'Estadio Español', 14), Holgura:1.0
+R3_j_('CD Manquehue', 'CD AB Temuco', 14), Holgura:1.0
+R3_j_('CD Achao', 'CD La Unión', 14), Holgura:1.0
+R3_j_('CD Alemán de Concepción', 'CD Brisas', 14), Holgura:1.0
+R3_j_('CD Arturo Prat de San Felipe', 'CD Alemán de Concepción', 15), Holgura:1.0
+R3_j_('Club Atlético Puerto Varas', 'CD Achao', 15), Holgura:1.0
+R3_j_('CD AB Temuco', 'Estadio Palestino', 15), Holgura:1.0
+R3_j_('CD Brisas', 'Stadio Italiano', 15), Holgura:1.0
+R3_j_('CD La Unión', 'Club Andino de Los Ángeles', 15), Holgura:1.0
+R3_j_('CD Ceppi', 'CD Boston College', 15), Holgura:1.0
+R3_j_('CD Boston College', 'CD Ceppi', 30), Holgura:1.0
+R3_j_('Club Andino de Los Ángeles', 'CD La Unión', 30), Holgura:1.0
+R3_j_('Stadio Italiano', 'CD Brisas', 30), Holgura:1.0
+R3_j_('Estadio Palestino', 'CD AB Temuco', 30), Holgura:1.0
+R3_j_('CD Achao', 'Club Atlético Puerto Varas', 30), Holgura:1.0
+R3_j_('CD Alemán de Concepción', 'CD Arturo Prat de San Felipe', 30), Holgura:1.0
+R3_j_('CD Brisas', 'CD Alemán de Concepción', 29), Holgura:1.0
+R3_j_('CD La Unión', 'CD Achao', 29), Holgura:1.0
+R3_j_('CD AB Temuco', 'CD Manquehue', 29), Holgura:1.0
+R3_j_('Estadio Español', 'Stadio Italiano', 29), Holgura:1.0
+R3_j_('CD Quilicura Basket', 'Estadio Palestino', 29), Holgura:1.0
+R3_j_('CD Ceppi', 'Club Atlético Puerto Varas', 29), Holgura:1.0
+R3_j_('CD Manquehue', 'CD Ceppi', 28), Holgura:1.0
+R3_j_('Club Atlético Puerto Varas', 'CD La Unión', 28), Holgura:1.0
+R3_j_('Estadio Palestino', 'CD Brisas', 28), Holgura:1.0
+R3_j_('CD Alemán de Concepción', 'Estadio Español', 28), Holgura:1.0
+R3_j_('CD Achao', 'CD Liceo Curicó', 28), Holgura:1.0
+R3_j_('CD Boston College', 'CD AB Temuco', 28), Holgura:1.0
+R3_j_('CD AB Temuco', 'CD Alemán de Concepción', 27), Holgura:1.0
+R3_j_('CD Ceppi', 'CD Achao', 27), Holgura:1.0
+R3_j_('CD Quilicura Basket', 'CD Boston College', 27), Holgura:1.0
+R3_j_('CD Brisas', 'CD Manquehue', 27), Holgura:1.0
+R3_j_('Estadio Español', 'Estadio Palestino', 27), Holgura:1.0
+R3_j_('CD Liceo Curicó', 'Club Atlético Puerto Varas', 27), Holgura:1.0
+R3_j_('Club Andino de Los Ángeles', 'CD Ceppi', 26), Holgura:1.0
+R3_j_('CD Boston College', 'Estadio Español', 26), Holgura:1.0
+R3_j_('CD La Unión', 'CD Liceo Curicó', 26), Holgura:1.0
+R3_j_('Estadio Palestino', 'Stadio Italiano', 26), Holgura:1.0
+R3_j_('CD Achao', 'CD AB Temuco', 26), Holgura:1.0
+R3_j_('CD Alemán de Concepción', 'CD Quilicura Basket', 26), Holgura:1.0
+R3_j_('Stadio Italiano', 'CD Alemán de Concepción', 25), Holgura:1.0
+R3_j_('CD Quilicura Basket', 'CD Achao', 25), Holgura:1.0
+R3_j_('CD Ceppi', 'CD La Unión', 25), Holgura:1.0
+R3_j_('Estadio Palestino', 'CD Boston College', 25), Holgura:1.0
+R3_j_('Estadio Español', 'CD Manquehue', 25), Holgura:1.0
+R3_j_('CD AB Temuco', 'CD Liceo Curicó', 25), Holgura:1.0
+R3_j_('CD Arturo Prat de San Felipe', 'Club Atlético Puerto Varas', 25), Holgura:1.0
+R3_j_('CD Liceo Curicó', 'CD Ceppi', 24), Holgura:1.0
+R3_j_('CD Boston College', 'CD Brisas', 24), Holgura:1.0
+R3_j_('CD La Unión', 'Estadio Español', 24), Holgura:1.0
+R3_j_('CD Alemán de Concepción', 'Estadio Palestino', 24), Holgura:1.0
+R3_j_('Club Atlético Puerto Varas', 'CD AB Temuco', 24), Holgura:1.0
+R3_j_('CD Achao', 'CD Arturo Prat de San Felipe', 24), Holgura:1.0
+R3_j_('CD Brisas', 'CD Achao', 23), Holgura:1.0
+R3_j_('CD AB Temuco', 'CD Ceppi', 23), Holgura:1.0
+R3_j_('CD Quilicura Basket', 'CD La Unión', 23), Holgura:1.0
+R3_j_('CD Alemán de Concepción', 'CD Manquehue', 23), Holgura:1.0
+R3_j_('CD Arturo Prat de San Felipe', 'CD Liceo Curicó', 23), Holgura:1.0
+R3_j_('Estadio Español', 'Club Atlético Puerto Varas', 23), Holgura:1.0
+R3_j_('CD Boston College', 'CD Alemán de Concepción', 22), Holgura:1.0
+R3_j_('Club Andino de Los Ángeles', 'Estadio Español', 22), Holgura:1.0
+R3_j_('CD Achao', 'Stadio Italiano', 22), Holgura:1.0
+R3_j_('Club Atlético Puerto Varas', 'Estadio Palestino', 22), Holgura:1.0
+R3_j_('CD La Unión', 'CD AB Temuco', 22), Holgura:1.0
+R3_j_('CD Manquehue', 'CD Quilicura Basket', 22), Holgura:1.0
+R3_j_('CD Quilicura Basket', 'CD Ceppi', 21), Holgura:1.0
+R3_j_('CD Brisas', 'CD La Unión', 21), Holgura:1.0
+R3_j_('Estadio Palestino', 'CD Manquehue', 21), Holgura:1.0
+R3_j_('CD Boston College', 'CD Liceo Curicó', 21), Holgura:1.0
+R3_j_('CD Alemán de Concepción', 'Club Andino de Los Ángeles', 21), Holgura:1.0
+R3_j_('Stadio Italiano', 'Club Atlético Puerto Varas', 21), Holgura:1.0
+R3_j_('CD Achao', 'CD Alemán de Concepción', 20), Holgura:1.0
+R3_j_('CD Ceppi', 'CD Brisas', 20), Holgura:1.0
+R3_j_('CD Manquehue', 'CD Boston College', 20), Holgura:1.0
+R3_j_('CD La Unión', 'Stadio Italiano', 20), Holgura:1.0
+R3_j_('CD Liceo Curicó', 'Estadio Palestino', 20), Holgura:1.0
+R3_j_('Club Atlético Puerto Varas', 'CD Quilicura Basket', 20), Holgura:1.0
+R3_j_('CD Boston College', 'CD Achao', 19), Holgura:1.0
+R3_j_('Stadio Italiano', 'CD Ceppi', 19), Holgura:1.0
+R3_j_('Estadio Palestino', 'CD La Unión', 19), Holgura:1.0
+R3_j_('Estadio Español', 'CD Liceo Curicó', 19), Holgura:1.0
+R3_j_('CD Quilicura Basket', 'CD AB Temuco', 19), Holgura:1.0
+R3_j_('CD Alemán de Concepción', 'Club Atlético Puerto Varas', 19), Holgura:1.0
+R3_j_('CD AB Temuco', 'CD Brisas', 18), Holgura:1.0
+R3_j_('Club Andino de Los Ángeles', 'CD Boston College', 18), Holgura:1.0
+R3_j_('Club Atlético Puerto Varas', 'CD Manquehue', 18), Holgura:1.0
+R3_j_('CD Ceppi', 'Estadio Español', 18), Holgura:1.0
+R3_j_('CD Achao', 'Estadio Palestino', 18), Holgura:1.0
+R3_j_('CD Liceo Curicó', 'CD Quilicura Basket', 18), Holgura:1.0
+R3_j_('Club Andino de Los Ángeles', 'CD Achao', 17), Holgura:1.0
+R3_j_('CD Alemán de Concepción', 'CD Ceppi', 17), Holgura:1.0
+R3_j_('CD Quilicura Basket', 'CD Brisas', 17), Holgura:1.0
+R3_j_('Stadio Italiano', 'CD Liceo Curicó', 17), Holgura:1.0
+R3_j_('Estadio Español', 'CD AB Temuco', 17), Holgura:1.0
+R3_j_('CD Boston College', 'Club Atlético Puerto Varas', 17), Holgura:1.0
+R3_j_('CD Liceo Curicó', 'CD Alemán de Concepción', 16), Holgura:1.0
+R3_j_('CD La Unión', 'CD Boston College', 16), Holgura:1.0
+R3_j_('CD Achao', 'CD Manquehue', 16), Holgura:1.0
+R3_j_('CD Brisas', 'Estadio Español', 16), Holgura:1.0
+R3_j_('CD Ceppi', 'Estadio Palestino', 16), Holgura:1.0
+R3_j_('Club Atlético Puerto Varas', 'Club Andino de Los Ángeles', 16), Holgura:1.0
+R3_j_('CD Arturo Prat de San Felipe', 'CD Quilicura Basket', 16), Holgura:1.0

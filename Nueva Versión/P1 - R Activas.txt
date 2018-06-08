@@ -1,0 +1,618 @@
+R1_CD Quilicura Basket_1, Holgura:0.0
+R1_CD Quilicura Basket_2, Holgura:0.0
+R1_CD Quilicura Basket_3, Holgura:0.0
+R1_CD Quilicura Basket_4, Holgura:0.0
+R1_CD Quilicura Basket_5, Holgura:0.0
+R1_CD Quilicura Basket_6, Holgura:0.0
+R1_CD Quilicura Basket_7, Holgura:0.0
+R1_CD Quilicura Basket_8, Holgura:0.0
+R1_CD Quilicura Basket_9, Holgura:0.0
+R1_CD Quilicura Basket_10, Holgura:0.0
+R1_CD Quilicura Basket_11, Holgura:0.0
+R1_CD Quilicura Basket_12, Holgura:0.0
+R1_CD Quilicura Basket_13, Holgura:0.0
+R1_CD Quilicura Basket_14, Holgura:0.0
+R1_CD Quilicura Basket_15, Holgura:0.0
+R1_CD Arturo Prat de San Felipe_1, Holgura:0.0
+R1_CD Arturo Prat de San Felipe_2, Holgura:0.0
+R1_CD Arturo Prat de San Felipe_3, Holgura:0.0
+R1_CD Arturo Prat de San Felipe_4, Holgura:0.0
+R1_CD Arturo Prat de San Felipe_5, Holgura:0.0
+R1_CD Arturo Prat de San Felipe_6, Holgura:0.0
+R1_CD Arturo Prat de San Felipe_7, Holgura:0.0
+R1_CD Arturo Prat de San Felipe_8, Holgura:0.0
+R1_CD Arturo Prat de San Felipe_9, Holgura:0.0
+R1_CD Arturo Prat de San Felipe_10, Holgura:0.0
+R1_CD Arturo Prat de San Felipe_11, Holgura:0.0
+R1_CD Arturo Prat de San Felipe_12, Holgura:0.0
+R1_CD Arturo Prat de San Felipe_13, Holgura:0.0
+R1_CD Arturo Prat de San Felipe_14, Holgura:0.0
+R1_CD Arturo Prat de San Felipe_15, Holgura:0.0
+R1_Club Atlético Puerto Varas_1, Holgura:0.0
+R1_Club Atlético Puerto Varas_2, Holgura:0.0
+R1_Club Atlético Puerto Varas_3, Holgura:0.0
+R1_Club Atlético Puerto Varas_4, Holgura:0.0
+R1_Club Atlético Puerto Varas_5, Holgura:0.0
+R1_Club Atlético Puerto Varas_6, Holgura:0.0
+R1_Club Atlético Puerto Varas_7, Holgura:0.0
+R1_Club Atlético Puerto Varas_8, Holgura:0.0
+R1_Club Atlético Puerto Varas_9, Holgura:0.0
+R1_Club Atlético Puerto Varas_10, Holgura:0.0
+R1_Club Atlético Puerto Varas_11, Holgura:0.0
+R1_Club Atlético Puerto Varas_12, Holgura:0.0
+R1_Club Atlético Puerto Varas_13, Holgura:0.0
+R1_Club Atlético Puerto Varas_14, Holgura:0.0
+R1_Club Atlético Puerto Varas_15, Holgura:0.0
+R1_CD AB Temuco_1, Holgura:0.0
+R1_CD AB Temuco_2, Holgura:0.0
+R1_CD AB Temuco_3, Holgura:0.0
+R1_CD AB Temuco_4, Holgura:0.0
+R1_CD AB Temuco_5, Holgura:0.0
+R1_CD AB Temuco_6, Holgura:0.0
+R1_CD AB Temuco_7, Holgura:0.0
+R1_CD AB Temuco_8, Holgura:0.0
+R1_CD AB Temuco_9, Holgura:0.0
+R1_CD AB Temuco_10, Holgura:0.0
+R1_CD AB Temuco_11, Holgura:0.0
+R1_CD AB Temuco_12, Holgura:0.0
+R1_CD AB Temuco_13, Holgura:0.0
+R1_CD AB Temuco_14, Holgura:0.0
+R1_CD AB Temuco_15, Holgura:0.0
+R1_Club Andino de Los Ángeles_1, Holgura:0.0
+R1_Club Andino de Los Ángeles_2, Holgura:0.0
+R1_Club Andino de Los Ángeles_3, Holgura:0.0
+R1_Club Andino de Los Ángeles_4, Holgura:0.0
+R1_Club Andino de Los Ángeles_5, Holgura:0.0
+R1_Club Andino de Los Ángeles_6, Holgura:0.0
+R1_Club Andino de Los Ángeles_7, Holgura:0.0
+R1_Club Andino de Los Ángeles_8, Holgura:0.0
+R1_Club Andino de Los Ángeles_9, Holgura:0.0
+R1_Club Andino de Los Ángeles_10, Holgura:0.0
+R1_Club Andino de Los Ángeles_11, Holgura:0.0
+R1_Club Andino de Los Ángeles_12, Holgura:0.0
+R1_Club Andino de Los Ángeles_13, Holgura:0.0
+R1_Club Andino de Los Ángeles_14, Holgura:0.0
+R1_Club Andino de Los Ángeles_15, Holgura:0.0
+R1_Estadio Palestino_1, Holgura:0.0
+R1_Estadio Palestino_2, Holgura:0.0
+R1_Estadio Palestino_3, Holgura:0.0
+R1_Estadio Palestino_4, Holgura:0.0
+R1_Estadio Palestino_5, Holgura:0.0
+R1_Estadio Palestino_6, Holgura:0.0
+R1_Estadio Palestino_7, Holgura:0.0
+R1_Estadio Palestino_8, Holgura:0.0
+R1_Estadio Palestino_9, Holgura:0.0
+R1_Estadio Palestino_10, Holgura:0.0
+R1_Estadio Palestino_11, Holgura:0.0
+R1_Estadio Palestino_12, Holgura:0.0
+R1_Estadio Palestino_13, Holgura:0.0
+R1_Estadio Palestino_14, Holgura:0.0
+R1_Estadio Palestino_15, Holgura:0.0
+R1_Stadio Italiano_1, Holgura:0.0
+R1_Stadio Italiano_2, Holgura:0.0
+R1_Stadio Italiano_3, Holgura:0.0
+R1_Stadio Italiano_4, Holgura:0.0
+R1_Stadio Italiano_5, Holgura:0.0
+R1_Stadio Italiano_6, Holgura:0.0
+R1_Stadio Italiano_7, Holgura:0.0
+R1_Stadio Italiano_8, Holgura:0.0
+R1_Stadio Italiano_9, Holgura:0.0
+R1_Stadio Italiano_10, Holgura:0.0
+R1_Stadio Italiano_11, Holgura:0.0
+R1_Stadio Italiano_12, Holgura:0.0
+R1_Stadio Italiano_13, Holgura:0.0
+R1_Stadio Italiano_14, Holgura:0.0
+R1_Stadio Italiano_15, Holgura:0.0
+R1_CD Liceo Curicó_1, Holgura:0.0
+R1_CD Liceo Curicó_2, Holgura:0.0
+R1_CD Liceo Curicó_3, Holgura:0.0
+R1_CD Liceo Curicó_4, Holgura:0.0
+R1_CD Liceo Curicó_5, Holgura:0.0
+R1_CD Liceo Curicó_6, Holgura:0.0
+R1_CD Liceo Curicó_7, Holgura:0.0
+R1_CD Liceo Curicó_8, Holgura:0.0
+R1_CD Liceo Curicó_9, Holgura:0.0
+R1_CD Liceo Curicó_10, Holgura:0.0
+R1_CD Liceo Curicó_11, Holgura:0.0
+R1_CD Liceo Curicó_12, Holgura:0.0
+R1_CD Liceo Curicó_13, Holgura:0.0
+R1_CD Liceo Curicó_14, Holgura:0.0
+R1_CD Liceo Curicó_15, Holgura:0.0
+R1_Estadio Español_1, Holgura:0.0
+R1_Estadio Español_2, Holgura:0.0
+R1_Estadio Español_3, Holgura:0.0
+R1_Estadio Español_4, Holgura:0.0
+R1_Estadio Español_5, Holgura:0.0
+R1_Estadio Español_6, Holgura:0.0
+R1_Estadio Español_7, Holgura:0.0
+R1_Estadio Español_8, Holgura:0.0
+R1_Estadio Español_9, Holgura:0.0
+R1_Estadio Español_10, Holgura:0.0
+R1_Estadio Español_11, Holgura:0.0
+R1_Estadio Español_12, Holgura:0.0
+R1_Estadio Español_13, Holgura:0.0
+R1_Estadio Español_14, Holgura:0.0
+R1_Estadio Español_15, Holgura:0.0
+R1_CD Manquehue_1, Holgura:0.0
+R1_CD Manquehue_2, Holgura:0.0
+R1_CD Manquehue_3, Holgura:0.0
+R1_CD Manquehue_4, Holgura:0.0
+R1_CD Manquehue_5, Holgura:0.0
+R1_CD Manquehue_6, Holgura:0.0
+R1_CD Manquehue_7, Holgura:0.0
+R1_CD Manquehue_8, Holgura:0.0
+R1_CD Manquehue_9, Holgura:0.0
+R1_CD Manquehue_10, Holgura:0.0
+R1_CD Manquehue_11, Holgura:0.0
+R1_CD Manquehue_12, Holgura:0.0
+R1_CD Manquehue_13, Holgura:0.0
+R1_CD Manquehue_14, Holgura:0.0
+R1_CD Manquehue_15, Holgura:0.0
+R1_CD Boston College_1, Holgura:0.0
+R1_CD Boston College_2, Holgura:0.0
+R1_CD Boston College_3, Holgura:0.0
+R1_CD Boston College_4, Holgura:0.0
+R1_CD Boston College_5, Holgura:0.0
+R1_CD Boston College_6, Holgura:0.0
+R1_CD Boston College_7, Holgura:0.0
+R1_CD Boston College_8, Holgura:0.0
+R1_CD Boston College_9, Holgura:0.0
+R1_CD Boston College_10, Holgura:0.0
+R1_CD Boston College_11, Holgura:0.0
+R1_CD Boston College_12, Holgura:0.0
+R1_CD Boston College_13, Holgura:0.0
+R1_CD Boston College_14, Holgura:0.0
+R1_CD Boston College_15, Holgura:0.0
+R1_CD Brisas_1, Holgura:0.0
+R1_CD Brisas_2, Holgura:0.0
+R1_CD Brisas_3, Holgura:0.0
+R1_CD Brisas_4, Holgura:0.0
+R1_CD Brisas_5, Holgura:0.0
+R1_CD Brisas_6, Holgura:0.0
+R1_CD Brisas_7, Holgura:0.0
+R1_CD Brisas_8, Holgura:0.0
+R1_CD Brisas_9, Holgura:0.0
+R1_CD Brisas_10, Holgura:0.0
+R1_CD Brisas_11, Holgura:0.0
+R1_CD Brisas_12, Holgura:0.0
+R1_CD Brisas_13, Holgura:0.0
+R1_CD Brisas_14, Holgura:0.0
+R1_CD Brisas_15, Holgura:0.0
+R1_CD La Unión_1, Holgura:0.0
+R1_CD La Unión_2, Holgura:0.0
+R1_CD La Unión_3, Holgura:0.0
+R1_CD La Unión_4, Holgura:0.0
+R1_CD La Unión_5, Holgura:0.0
+R1_CD La Unión_6, Holgura:0.0
+R1_CD La Unión_7, Holgura:0.0
+R1_CD La Unión_8, Holgura:0.0
+R1_CD La Unión_9, Holgura:0.0
+R1_CD La Unión_10, Holgura:0.0
+R1_CD La Unión_11, Holgura:0.0
+R1_CD La Unión_12, Holgura:0.0
+R1_CD La Unión_13, Holgura:0.0
+R1_CD La Unión_14, Holgura:0.0
+R1_CD La Unión_15, Holgura:0.0
+R1_CD Ceppi_1, Holgura:0.0
+R1_CD Ceppi_2, Holgura:0.0
+R1_CD Ceppi_3, Holgura:0.0
+R1_CD Ceppi_4, Holgura:0.0
+R1_CD Ceppi_5, Holgura:0.0
+R1_CD Ceppi_6, Holgura:0.0
+R1_CD Ceppi_7, Holgura:0.0
+R1_CD Ceppi_8, Holgura:0.0
+R1_CD Ceppi_9, Holgura:0.0
+R1_CD Ceppi_10, Holgura:0.0
+R1_CD Ceppi_11, Holgura:0.0
+R1_CD Ceppi_12, Holgura:0.0
+R1_CD Ceppi_13, Holgura:0.0
+R1_CD Ceppi_14, Holgura:0.0
+R1_CD Ceppi_15, Holgura:0.0
+R1_CD Achao_1, Holgura:0.0
+R1_CD Achao_2, Holgura:0.0
+R1_CD Achao_3, Holgura:0.0
+R1_CD Achao_4, Holgura:0.0
+R1_CD Achao_5, Holgura:0.0
+R1_CD Achao_6, Holgura:0.0
+R1_CD Achao_7, Holgura:0.0
+R1_CD Achao_8, Holgura:0.0
+R1_CD Achao_9, Holgura:0.0
+R1_CD Achao_10, Holgura:0.0
+R1_CD Achao_11, Holgura:0.0
+R1_CD Achao_12, Holgura:0.0
+R1_CD Achao_13, Holgura:0.0
+R1_CD Achao_14, Holgura:0.0
+R1_CD Achao_15, Holgura:0.0
+R2, Holgura:0.0
+R3_CD Quilicura Basket_CD Arturo Prat de San Felipe, Holgura:0.0
+R3_CD Quilicura Basket_Club Atlético Puerto Varas, Holgura:0.0
+R3_CD Quilicura Basket_CD AB Temuco, Holgura:0.0
+R3_CD Quilicura Basket_Club Andino de Los Ángeles, Holgura:0.0
+R3_CD Quilicura Basket_Estadio Palestino, Holgura:0.0
+R3_CD Quilicura Basket_Stadio Italiano, Holgura:0.0
+R3_CD Quilicura Basket_CD Liceo Curicó, Holgura:0.0
+R3_CD Quilicura Basket_Estadio Español, Holgura:0.0
+R3_CD Quilicura Basket_CD Manquehue, Holgura:0.0
+R3_CD Quilicura Basket_CD Boston College, Holgura:0.0
+R3_CD Quilicura Basket_CD Brisas, Holgura:0.0
+R3_CD Quilicura Basket_CD La Unión, Holgura:0.0
+R3_CD Quilicura Basket_CD Ceppi, Holgura:0.0
+R3_CD Quilicura Basket_CD Achao, Holgura:0.0
+R3_CD Quilicura Basket_CD Alemán de Concepción, Holgura:0.0
+R3_CD Arturo Prat de San Felipe_Club Atlético Puerto Varas, Holgura:0.0
+R3_CD Arturo Prat de San Felipe_CD AB Temuco, Holgura:0.0
+R3_CD Arturo Prat de San Felipe_Club Andino de Los Ángeles, Holgura:0.0
+R3_CD Arturo Prat de San Felipe_Estadio Palestino, Holgura:0.0
+R3_CD Arturo Prat de San Felipe_Stadio Italiano, Holgura:0.0
+R3_CD Arturo Prat de San Felipe_CD Liceo Curicó, Holgura:0.0
+R3_CD Arturo Prat de San Felipe_Estadio Español, Holgura:0.0
+R3_CD Arturo Prat de San Felipe_CD Manquehue, Holgura:0.0
+R3_CD Arturo Prat de San Felipe_CD Boston College, Holgura:0.0
+R3_CD Arturo Prat de San Felipe_CD Brisas, Holgura:0.0
+R3_CD Arturo Prat de San Felipe_CD La Unión, Holgura:0.0
+R3_CD Arturo Prat de San Felipe_CD Ceppi, Holgura:0.0
+R3_CD Arturo Prat de San Felipe_CD Achao, Holgura:0.0
+R3_CD Arturo Prat de San Felipe_CD Alemán de Concepción, Holgura:0.0
+R3_Club Atlético Puerto Varas_CD AB Temuco, Holgura:0.0
+R3_Club Atlético Puerto Varas_Club Andino de Los Ángeles, Holgura:0.0
+R3_Club Atlético Puerto Varas_Estadio Palestino, Holgura:0.0
+R3_Club Atlético Puerto Varas_Stadio Italiano, Holgura:0.0
+R3_Club Atlético Puerto Varas_CD Liceo Curicó, Holgura:0.0
+R3_Club Atlético Puerto Varas_Estadio Español, Holgura:0.0
+R3_Club Atlético Puerto Varas_CD Manquehue, Holgura:0.0
+R3_Club Atlético Puerto Varas_CD Boston College, Holgura:0.0
+R3_Club Atlético Puerto Varas_CD Brisas, Holgura:0.0
+R3_Club Atlético Puerto Varas_CD La Unión, Holgura:0.0
+R3_Club Atlético Puerto Varas_CD Ceppi, Holgura:0.0
+R3_Club Atlético Puerto Varas_CD Achao, Holgura:0.0
+R3_Club Atlético Puerto Varas_CD Alemán de Concepción, Holgura:0.0
+R3_CD AB Temuco_Club Andino de Los Ángeles, Holgura:0.0
+R3_CD AB Temuco_Estadio Palestino, Holgura:0.0
+R3_CD AB Temuco_Stadio Italiano, Holgura:0.0
+R3_CD AB Temuco_CD Liceo Curicó, Holgura:0.0
+R3_CD AB Temuco_Estadio Español, Holgura:0.0
+R3_CD AB Temuco_CD Manquehue, Holgura:0.0
+R3_CD AB Temuco_CD Boston College, Holgura:0.0
+R3_CD AB Temuco_CD Brisas, Holgura:0.0
+R3_CD AB Temuco_CD La Unión, Holgura:0.0
+R3_CD AB Temuco_CD Ceppi, Holgura:0.0
+R3_CD AB Temuco_CD Achao, Holgura:0.0
+R3_CD AB Temuco_CD Alemán de Concepción, Holgura:0.0
+R3_Club Andino de Los Ángeles_Estadio Palestino, Holgura:0.0
+R3_Club Andino de Los Ángeles_Stadio Italiano, Holgura:0.0
+R3_Club Andino de Los Ángeles_CD Liceo Curicó, Holgura:0.0
+R3_Club Andino de Los Ángeles_Estadio Español, Holgura:0.0
+R3_Club Andino de Los Ángeles_CD Manquehue, Holgura:0.0
+R3_Club Andino de Los Ángeles_CD Boston College, Holgura:0.0
+R3_Club Andino de Los Ángeles_CD Brisas, Holgura:0.0
+R3_Club Andino de Los Ángeles_CD La Unión, Holgura:0.0
+R3_Club Andino de Los Ángeles_CD Ceppi, Holgura:0.0
+R3_Club Andino de Los Ángeles_CD Achao, Holgura:0.0
+R3_Club Andino de Los Ángeles_CD Alemán de Concepción, Holgura:0.0
+R3_Estadio Palestino_Stadio Italiano, Holgura:0.0
+R3_Estadio Palestino_CD Liceo Curicó, Holgura:0.0
+R3_Estadio Palestino_Estadio Español, Holgura:0.0
+R3_Estadio Palestino_CD Manquehue, Holgura:0.0
+R3_Estadio Palestino_CD Boston College, Holgura:0.0
+R3_Estadio Palestino_CD Brisas, Holgura:0.0
+R3_Estadio Palestino_CD La Unión, Holgura:0.0
+R3_Estadio Palestino_CD Ceppi, Holgura:0.0
+R3_Estadio Palestino_CD Achao, Holgura:0.0
+R3_Estadio Palestino_CD Alemán de Concepción, Holgura:0.0
+R3_Stadio Italiano_CD Liceo Curicó, Holgura:0.0
+R3_Stadio Italiano_Estadio Español, Holgura:0.0
+R3_Stadio Italiano_CD Manquehue, Holgura:0.0
+R3_Stadio Italiano_CD Boston College, Holgura:0.0
+R3_Stadio Italiano_CD Brisas, Holgura:0.0
+R3_Stadio Italiano_CD La Unión, Holgura:0.0
+R3_Stadio Italiano_CD Ceppi, Holgura:0.0
+R3_Stadio Italiano_CD Achao, Holgura:0.0
+R3_Stadio Italiano_CD Alemán de Concepción, Holgura:0.0
+R3_CD Liceo Curicó_Estadio Español, Holgura:0.0
+R3_CD Liceo Curicó_CD Manquehue, Holgura:0.0
+R3_CD Liceo Curicó_CD Boston College, Holgura:0.0
+R3_CD Liceo Curicó_CD Brisas, Holgura:0.0
+R3_CD Liceo Curicó_CD La Unión, Holgura:0.0
+R3_CD Liceo Curicó_CD Ceppi, Holgura:0.0
+R3_CD Liceo Curicó_CD Achao, Holgura:0.0
+R3_CD Liceo Curicó_CD Alemán de Concepción, Holgura:0.0
+R3_Estadio Español_CD Manquehue, Holgura:0.0
+R3_Estadio Español_CD Boston College, Holgura:0.0
+R3_Estadio Español_CD Brisas, Holgura:0.0
+R3_Estadio Español_CD La Unión, Holgura:0.0
+R3_Estadio Español_CD Ceppi, Holgura:0.0
+R3_Estadio Español_CD Achao, Holgura:0.0
+R3_Estadio Español_CD Alemán de Concepción, Holgura:0.0
+R3_CD Manquehue_CD Boston College, Holgura:0.0
+R3_CD Manquehue_CD Brisas, Holgura:0.0
+R3_CD Manquehue_CD La Unión, Holgura:0.0
+R3_CD Manquehue_CD Ceppi, Holgura:0.0
+R3_CD Manquehue_CD Achao, Holgura:0.0
+R3_CD Manquehue_CD Alemán de Concepción, Holgura:0.0
+R3_CD Boston College_CD Brisas, Holgura:0.0
+R3_CD Boston College_CD La Unión, Holgura:0.0
+R3_CD Boston College_CD Ceppi, Holgura:0.0
+R3_CD Boston College_CD Achao, Holgura:0.0
+R3_CD Boston College_CD Alemán de Concepción, Holgura:0.0
+R3_CD Brisas_CD La Unión, Holgura:0.0
+R3_CD Brisas_CD Ceppi, Holgura:0.0
+R3_CD Brisas_CD Achao, Holgura:0.0
+R3_CD Brisas_CD Alemán de Concepción, Holgura:0.0
+R3_CD La Unión_CD Ceppi, Holgura:0.0
+R3_CD La Unión_CD Achao, Holgura:0.0
+R3_CD La Unión_CD Alemán de Concepción, Holgura:0.0
+R3_CD Ceppi_CD Achao, Holgura:0.0
+R3_CD Ceppi_CD Alemán de Concepción, Holgura:0.0
+R3_CD Achao_CD Alemán de Concepción, Holgura:0.0
+RH, Holgura:0.0
+RH, Holgura:0.0
+RH, Holgura:0.0
+RH, Holgura:0.0
+RH, Holgura:-0.0
+RH, Holgura:0.0
+RH, Holgura:0.0
+RH, Holgura:0.0
+RH, Holgura:-0.0
+RH, Holgura:0.0
+RH, Holgura:0.0
+RH, Holgura:0.0
+RH, Holgura:-0.0
+RH, Holgura:0.0
+RH, Holgura:0.0
+RH, Holgura:0.0
+RH, Holgura:-0.0
+RH, Holgura:0.0
+RH, Holgura:0.0
+RH, Holgura:0.0
+RH, Holgura:-0.0
+RH, Holgura:0.0
+RH, Holgura:0.0
+RH, Holgura:0.0
+RH, Holgura:-0.0
+RH, Holgura:0.0
+RH, Holgura:0.0
+RH, Holgura:0.0
+RH, Holgura:-0.0
+RH, Holgura:0.0
+RH, Holgura:0.0
+R4_CD Quilicura Basket_2, Holgura:0.0
+R4_CD Quilicura Basket_3, Holgura:0.0
+R4_CD Quilicura Basket_4, Holgura:0.0
+R4_CD Quilicura Basket_5, Holgura:0.0
+R4_CD Quilicura Basket_6, Holgura:0.0
+R4_CD Quilicura Basket_7, Holgura:0.0
+R4_CD Quilicura Basket_8, Holgura:0.0
+R4_CD Quilicura Basket_9, Holgura:0.0
+R4_CD Quilicura Basket_10, Holgura:0.0
+R4_CD Quilicura Basket_11, Holgura:0.0
+R4_CD Quilicura Basket_12, Holgura:0.0
+R4_CD Quilicura Basket_13, Holgura:0.0
+R4_CD Quilicura Basket_14, Holgura:0.0
+R4_CD Quilicura Basket_15, Holgura:0.0
+R4_CD Arturo Prat de San Felipe_2, Holgura:0.0
+R4_CD Arturo Prat de San Felipe_3, Holgura:0.0
+R4_CD Arturo Prat de San Felipe_4, Holgura:0.0
+R4_CD Arturo Prat de San Felipe_5, Holgura:0.0
+R4_CD Arturo Prat de San Felipe_6, Holgura:0.0
+R4_CD Arturo Prat de San Felipe_7, Holgura:0.0
+R4_CD Arturo Prat de San Felipe_8, Holgura:0.0
+R4_CD Arturo Prat de San Felipe_9, Holgura:0.0
+R4_CD Arturo Prat de San Felipe_10, Holgura:0.0
+R4_CD Arturo Prat de San Felipe_11, Holgura:0.0
+R4_CD Arturo Prat de San Felipe_12, Holgura:0.0
+R4_CD Arturo Prat de San Felipe_13, Holgura:0.0
+R4_CD Arturo Prat de San Felipe_14, Holgura:0.0
+R4_CD Arturo Prat de San Felipe_15, Holgura:0.0
+R4_Club Atlético Puerto Varas_2, Holgura:0.0
+R4_Club Atlético Puerto Varas_3, Holgura:0.0
+R4_Club Atlético Puerto Varas_4, Holgura:0.0
+R4_Club Atlético Puerto Varas_5, Holgura:0.0
+R4_Club Atlético Puerto Varas_6, Holgura:0.0
+R4_Club Atlético Puerto Varas_7, Holgura:0.0
+R4_Club Atlético Puerto Varas_8, Holgura:0.0
+R4_Club Atlético Puerto Varas_9, Holgura:0.0
+R4_Club Atlético Puerto Varas_10, Holgura:0.0
+R4_Club Atlético Puerto Varas_11, Holgura:0.0
+R4_Club Atlético Puerto Varas_12, Holgura:0.0
+R4_Club Atlético Puerto Varas_13, Holgura:0.0
+R4_Club Atlético Puerto Varas_14, Holgura:0.0
+R4_Club Atlético Puerto Varas_15, Holgura:0.0
+R4_CD AB Temuco_2, Holgura:0.0
+R4_CD AB Temuco_3, Holgura:0.0
+R4_CD AB Temuco_4, Holgura:0.0
+R4_CD AB Temuco_5, Holgura:0.0
+R4_CD AB Temuco_6, Holgura:0.0
+R4_CD AB Temuco_7, Holgura:0.0
+R4_CD AB Temuco_8, Holgura:0.0
+R4_CD AB Temuco_9, Holgura:0.0
+R4_CD AB Temuco_10, Holgura:0.0
+R4_CD AB Temuco_11, Holgura:0.0
+R4_CD AB Temuco_12, Holgura:0.0
+R4_CD AB Temuco_13, Holgura:0.0
+R4_CD AB Temuco_14, Holgura:0.0
+R4_CD AB Temuco_15, Holgura:0.0
+R4_Club Andino de Los Ángeles_2, Holgura:0.0
+R4_Club Andino de Los Ángeles_3, Holgura:0.0
+R4_Club Andino de Los Ángeles_4, Holgura:0.0
+R4_Club Andino de Los Ángeles_5, Holgura:0.0
+R4_Club Andino de Los Ángeles_6, Holgura:0.0
+R4_Club Andino de Los Ángeles_7, Holgura:0.0
+R4_Club Andino de Los Ángeles_8, Holgura:0.0
+R4_Club Andino de Los Ángeles_9, Holgura:0.0
+R4_Club Andino de Los Ángeles_10, Holgura:0.0
+R4_Club Andino de Los Ángeles_11, Holgura:0.0
+R4_Club Andino de Los Ángeles_12, Holgura:0.0
+R4_Club Andino de Los Ángeles_13, Holgura:0.0
+R4_Club Andino de Los Ángeles_14, Holgura:0.0
+R4_Club Andino de Los Ángeles_15, Holgura:0.0
+R4_Estadio Palestino_2, Holgura:0.0
+R4_Estadio Palestino_3, Holgura:0.0
+R4_Estadio Palestino_4, Holgura:0.0
+R4_Estadio Palestino_5, Holgura:0.0
+R4_Estadio Palestino_6, Holgura:0.0
+R4_Estadio Palestino_7, Holgura:0.0
+R4_Estadio Palestino_8, Holgura:0.0
+R4_Estadio Palestino_9, Holgura:0.0
+R4_Estadio Palestino_10, Holgura:0.0
+R4_Estadio Palestino_11, Holgura:0.0
+R4_Estadio Palestino_12, Holgura:0.0
+R4_Estadio Palestino_13, Holgura:0.0
+R4_Estadio Palestino_14, Holgura:0.0
+R4_Estadio Palestino_15, Holgura:0.0
+R4_Stadio Italiano_2, Holgura:0.0
+R4_Stadio Italiano_3, Holgura:0.0
+R4_Stadio Italiano_4, Holgura:0.0
+R4_Stadio Italiano_5, Holgura:0.0
+R4_Stadio Italiano_6, Holgura:0.0
+R4_Stadio Italiano_7, Holgura:0.0
+R4_Stadio Italiano_8, Holgura:0.0
+R4_Stadio Italiano_9, Holgura:0.0
+R4_Stadio Italiano_10, Holgura:0.0
+R4_Stadio Italiano_11, Holgura:0.0
+R4_Stadio Italiano_12, Holgura:0.0
+R4_Stadio Italiano_13, Holgura:0.0
+R4_Stadio Italiano_14, Holgura:0.0
+R4_Stadio Italiano_15, Holgura:0.0
+R4_CD Liceo Curicó_2, Holgura:0.0
+R4_CD Liceo Curicó_3, Holgura:0.0
+R4_CD Liceo Curicó_4, Holgura:0.0
+R4_CD Liceo Curicó_5, Holgura:0.0
+R4_CD Liceo Curicó_6, Holgura:0.0
+R4_CD Liceo Curicó_7, Holgura:0.0
+R4_CD Liceo Curicó_8, Holgura:0.0
+R4_CD Liceo Curicó_9, Holgura:0.0
+R4_CD Liceo Curicó_10, Holgura:0.0
+R4_CD Liceo Curicó_11, Holgura:0.0
+R4_CD Liceo Curicó_12, Holgura:0.0
+R4_CD Liceo Curicó_13, Holgura:0.0
+R4_CD Liceo Curicó_14, Holgura:0.0
+R4_CD Liceo Curicó_15, Holgura:0.0
+R4_Estadio Español_2, Holgura:0.0
+R4_Estadio Español_3, Holgura:0.0
+R4_Estadio Español_4, Holgura:0.0
+R4_Estadio Español_5, Holgura:0.0
+R4_Estadio Español_6, Holgura:0.0
+R4_Estadio Español_7, Holgura:0.0
+R4_Estadio Español_8, Holgura:0.0
+R4_Estadio Español_9, Holgura:0.0
+R4_Estadio Español_10, Holgura:0.0
+R4_Estadio Español_11, Holgura:0.0
+R4_Estadio Español_12, Holgura:0.0
+R4_Estadio Español_13, Holgura:0.0
+R4_Estadio Español_14, Holgura:0.0
+R4_Estadio Español_15, Holgura:0.0
+R4_CD Manquehue_2, Holgura:0.0
+R4_CD Manquehue_3, Holgura:0.0
+R4_CD Manquehue_4, Holgura:0.0
+R4_CD Manquehue_5, Holgura:0.0
+R4_CD Manquehue_6, Holgura:0.0
+R4_CD Manquehue_7, Holgura:0.0
+R4_CD Manquehue_8, Holgura:0.0
+R4_CD Manquehue_9, Holgura:0.0
+R4_CD Manquehue_10, Holgura:0.0
+R4_CD Manquehue_11, Holgura:0.0
+R4_CD Manquehue_12, Holgura:0.0
+R4_CD Manquehue_13, Holgura:0.0
+R4_CD Manquehue_14, Holgura:0.0
+R4_CD Manquehue_15, Holgura:0.0
+R4_CD Boston College_2, Holgura:0.0
+R4_CD Boston College_3, Holgura:0.0
+R4_CD Boston College_4, Holgura:0.0
+R4_CD Boston College_5, Holgura:0.0
+R4_CD Boston College_6, Holgura:0.0
+R4_CD Boston College_7, Holgura:0.0
+R4_CD Boston College_8, Holgura:0.0
+R4_CD Boston College_9, Holgura:0.0
+R4_CD Boston College_10, Holgura:0.0
+R4_CD Boston College_11, Holgura:0.0
+R4_CD Boston College_12, Holgura:0.0
+R4_CD Boston College_13, Holgura:0.0
+R4_CD Boston College_14, Holgura:0.0
+R4_CD Boston College_15, Holgura:0.0
+R4_CD Brisas_2, Holgura:0.0
+R4_CD Brisas_3, Holgura:0.0
+R4_CD Brisas_4, Holgura:0.0
+R4_CD Brisas_5, Holgura:0.0
+R4_CD Brisas_6, Holgura:0.0
+R4_CD Brisas_7, Holgura:0.0
+R4_CD Brisas_8, Holgura:0.0
+R4_CD Brisas_9, Holgura:0.0
+R4_CD Brisas_10, Holgura:0.0
+R4_CD Brisas_11, Holgura:0.0
+R4_CD Brisas_12, Holgura:0.0
+R4_CD Brisas_13, Holgura:0.0
+R4_CD Brisas_14, Holgura:0.0
+R4_CD Brisas_15, Holgura:0.0
+R4_CD La Unión_2, Holgura:0.0
+R4_CD La Unión_3, Holgura:0.0
+R4_CD La Unión_4, Holgura:0.0
+R4_CD La Unión_5, Holgura:0.0
+R4_CD La Unión_6, Holgura:0.0
+R4_CD La Unión_7, Holgura:0.0
+R4_CD La Unión_8, Holgura:0.0
+R4_CD La Unión_9, Holgura:0.0
+R4_CD La Unión_10, Holgura:0.0
+R4_CD La Unión_11, Holgura:0.0
+R4_CD La Unión_12, Holgura:0.0
+R4_CD La Unión_13, Holgura:0.0
+R4_CD La Unión_14, Holgura:0.0
+R4_CD La Unión_15, Holgura:0.0
+R4_CD Ceppi_2, Holgura:0.0
+R4_CD Ceppi_3, Holgura:0.0
+R4_CD Ceppi_4, Holgura:0.0
+R4_CD Ceppi_5, Holgura:0.0
+R4_CD Ceppi_6, Holgura:0.0
+R4_CD Ceppi_7, Holgura:0.0
+R4_CD Ceppi_8, Holgura:0.0
+R4_CD Ceppi_9, Holgura:0.0
+R4_CD Ceppi_10, Holgura:0.0
+R4_CD Ceppi_11, Holgura:0.0
+R4_CD Ceppi_12, Holgura:0.0
+R4_CD Ceppi_13, Holgura:0.0
+R4_CD Ceppi_14, Holgura:0.0
+R4_CD Ceppi_15, Holgura:0.0
+R4_CD Achao_2, Holgura:0.0
+R4_CD Achao_3, Holgura:0.0
+R4_CD Achao_4, Holgura:0.0
+R4_CD Achao_5, Holgura:0.0
+R4_CD Achao_6, Holgura:0.0
+R4_CD Achao_7, Holgura:0.0
+R4_CD Achao_8, Holgura:0.0
+R4_CD Achao_9, Holgura:0.0
+R4_CD Achao_10, Holgura:0.0
+R4_CD Achao_11, Holgura:0.0
+R4_CD Achao_12, Holgura:0.0
+R4_CD Achao_13, Holgura:0.0
+R4_CD Achao_14, Holgura:0.0
+R4_CD Achao_15, Holgura:0.0
+R4_CD Alemán de Concepción_2, Holgura:0.0
+R4_CD Alemán de Concepción_3, Holgura:0.0
+R4_CD Alemán de Concepción_4, Holgura:0.0
+R4_CD Alemán de Concepción_5, Holgura:0.0
+R4_CD Alemán de Concepción_6, Holgura:0.0
+R4_CD Alemán de Concepción_7, Holgura:0.0
+R4_CD Alemán de Concepción_8, Holgura:0.0
+R4_CD Alemán de Concepción_9, Holgura:0.0
+R4_CD Alemán de Concepción_10, Holgura:0.0
+R4_CD Alemán de Concepción_11, Holgura:0.0
+R4_CD Alemán de Concepción_12, Holgura:0.0
+R4_CD Alemán de Concepción_13, Holgura:0.0
+R4_CD Alemán de Concepción_14, Holgura:0.0
+R4_CD Alemán de Concepción_15, Holgura:0.0
+RH, Holgura:0.0
+RH, Holgura:0.0
+RH, Holgura:0.0
+RH, Holgura:0.0
+RH, Holgura:0.0
+RH, Holgura:0.0
+RH, Holgura:0.0
+RH, Holgura:0.0
+RH, Holgura:0.0
+RH, Holgura:0.0
+RH, Holgura:0.0
+RH, Holgura:0.0
+RH, Holgura:0.0
+RH, Holgura:0.0
+RH, Holgura:0.0
+RH, Holgura:0.0
+RH, Holgura:0.0

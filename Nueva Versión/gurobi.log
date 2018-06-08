@@ -1,5 +1,5 @@
 
-Gurobi 8.0.0 (win64, Python) logging started 06/06/18 20:40:37
+Gurobi 8.0.0 (win64, Python) logging started 06/08/18 17:19:15
 
 Academic license - for non-commercial use only
 Changed value of parameter MIPFocus to 3
@@ -12,61 +12,61 @@ Coefficient statistics:
   Bounds range     [1e+00, 1e+00]
   RHS range        [1e+00, 2e+01]
 Presolve removed 136 rows and 1362 columns
-Presolve time: 0.23s
+Presolve time: 0.49s
 Presolved: 707 rows, 2958 columns, 18086 nonzeros
 Variable types: 0 continuous, 2958 integer (2958 binary)
 Presolve removed 15 rows and 0 columns
 Presolved: 692 rows, 2958 columns, 17877 nonzeros
 
 
-Root relaxation: objective 1.400000e+01, 1585 iterations, 0.22 seconds
+Root relaxation: objective 1.400000e+01, 1585 iterations, 0.40 seconds
 
     Nodes    |    Current Node    |     Objective Bounds      |     Work
  Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
 
-     0     0   14.00000    0  475          -   14.00000      -     -    2s
-     0     0   14.00000    0  415          -   14.00000      -     -    5s
-     0     0   14.00000    0  442          -   14.00000      -     -    6s
-     0     0   14.00000    0  476          -   14.00000      -     -    8s
-     0     0   14.00000    0  424          -   14.00000      -     -   10s
-     0     2   14.00000    0  392          -   14.00000      -     -   13s
-    26    27   14.00000   14  494          -   14.00000      -   602   15s
-   214   217   14.00000  100  459          -   14.00000      -   292   20s
-   528   519   14.00000  244  363          -   14.00000      -   263   25s
-   780   755   14.00000   22  474          -   14.00000      -   266   33s
-   781   756   14.00000   26  442          -   14.00000      -   266   36s
-   783   757   14.00000   54  368          -   14.00000      -   265   40s
-   785   759   14.00000   99  383          -   14.00000      -   265   46s
-   787   760   14.00000  107  366          -   14.00000      -   264   56s
-   788   761   14.00000  118  366          -   14.00000      -   264   60s
-   790   763 infeasible   11               -   14.00000      -  76.5   74s
-   792   764   14.00000   12  492          -   14.00000      -  77.7   86s
-   794   768   14.00000   13  507          -   14.00000      -  78.9   92s
-   798   770   14.00000   14  495          -   14.00000      -  81.3   95s
-   816   781   14.00000   16  481          -   14.00000      -  92.3  101s
-   842   792   14.00000   19  468          -   14.00000      -   108  110s
-   874   807   14.00000   23  457          -   14.00000      -   116  118s
-  1118   939 infeasible   53               -   14.00000      -   182  124s
-  1266   982   14.00000   49  200          -   14.00000      -   247  129s
-  1379   952 infeasible   55               -   14.00000      -   301  134s
-  1539   942 infeasible   59               -   14.00000      -   320  141s
-  1596   938 infeasible   71               -   14.00000      -   350  146s
-  1614   923 infeasible   72               -   14.00000      -   360  151s
-  1718   885   14.00000   55  227          -   14.00000      -   387  156s
-  1783   858 infeasible   69               -   14.00000      -   407  162s
-  1826   851   14.00000   56  328          -   14.00000      -   421  168s
-  1883   848   14.00000   63  272          -   14.00000      -   450  174s
-  2007   838 infeasible   60               -   14.00000      -   457  181s
-  2115   766 infeasible   71               -   14.00000      -   471  188s
-  2178   730   14.00000   46   73          -   14.00000      -   499  196s
-  2249   731 infeasible   53               -   14.00000      -   511  205s
-  2327   730   14.00000   50  127          -   14.00000      -   517  212s
-  2394   749 infeasible   53               -   14.00000      -   529  221s
-  2481   743   14.00000   49  123          -   14.00000      -   545  231s
-  2505   725   14.00000   51   38          -   14.00000      -   556  241s
-  2602   699   14.00000   55   44          -   14.00000      -   567  250s
-  2660   694   14.00000   31  451          -   14.00000      -   573  261s
-* 2692   103              50      14.0000000   14.00000  0.00%   576  261s
+     0     0   14.00000    0  475          -   14.00000      -     -    4s
+     0     0   14.00000    0  415          -   14.00000      -     -    7s
+     0     0   14.00000    0  442          -   14.00000      -     -    7s
+     0     0   14.00000    0  476          -   14.00000      -     -   10s
+     0     0   14.00000    0  424          -   14.00000      -     -   12s
+     0     2   14.00000    0  392          -   14.00000      -     -   15s
+   118   119   14.00000   56  487          -   14.00000      -   325   20s
+   406   401   14.00000  185  414          -   14.00000      -   263   25s
+   636   623   14.00000  278  346          -   14.00000      -   271   30s
+   780   755   14.00000   22  474          -   14.00000      -   266   36s
+   781   756   14.00000   26  442          -   14.00000      -   266   40s
+   783   757   14.00000   54  368          -   14.00000      -   265   45s
+   785   759   14.00000   99  383          -   14.00000      -   265   51s
+   787   760   14.00000  107  366          -   14.00000      -   264   63s
+   788   761   14.00000  118  366          -   14.00000      -   264   67s
+   790   763 infeasible   11               -   14.00000      -  76.5   82s
+   792   764   14.00000   12  492          -   14.00000      -  77.7   95s
+   794   768   14.00000   13  507          -   14.00000      -  78.9  101s
+   802   773   14.00000   14  492          -   14.00000      -  84.4  107s
+   816   781   14.00000   16  481          -   14.00000      -  92.3  110s
+   842   792   14.00000   19  468          -   14.00000      -   108  119s
+   874   807   14.00000   23  457          -   14.00000      -   116  127s
+  1118   939 infeasible   53               -   14.00000      -   182  133s
+  1266   982   14.00000   49  200          -   14.00000      -   247  138s
+  1379   952 infeasible   55               -   14.00000      -   301  143s
+  1539   942 infeasible   59               -   14.00000      -   320  150s
+  1596   938 infeasible   71               -   14.00000      -   350  155s
+  1614   923 infeasible   72               -   14.00000      -   360  160s
+  1718   885   14.00000   55  227          -   14.00000      -   387  166s
+  1783   858 infeasible   69               -   14.00000      -   407  172s
+  1826   851   14.00000   56  328          -   14.00000      -   421  178s
+  1883   848   14.00000   63  272          -   14.00000      -   450  184s
+  2007   838 infeasible   60               -   14.00000      -   457  191s
+  2115   766 infeasible   71               -   14.00000      -   471  198s
+  2178   730   14.00000   46   73          -   14.00000      -   499  207s
+  2249   731 infeasible   53               -   14.00000      -   511  215s
+  2327   730   14.00000   50  127          -   14.00000      -   517  223s
+  2394   749 infeasible   53               -   14.00000      -   529  231s
+  2481   743   14.00000   49  123          -   14.00000      -   545  242s
+  2505   725   14.00000   51   38          -   14.00000      -   556  251s
+  2602   699   14.00000   55   44          -   14.00000      -   567  261s
+  2660   694   14.00000   31  451          -   14.00000      -   573  272s
+* 2692   103              50      14.0000000   14.00000  0.00%   576  272s
 
 Cutting planes:
   Cover: 24
@@ -78,7 +78,7 @@ Cutting planes:
   Inf proof: 3
   Zero half: 585
 
-Explored 2741 nodes (1852970 simplex iterations) in 262.73 seconds
+Explored 2741 nodes (1852970 simplex iterations) in 273.55 seconds
 Thread count was 4 (of 4 available processors)
 
 Solution count 1: 14 
@@ -88,511 +88,1136 @@ Best objective 1.400000000000e+01, best bound 1.400000000000e+01, gap 0.0000%
 
     Variable            X 
 -------------------------
-x_CD Boston College_CD Ceppi_1            1 
-x_CD Liceo Curicó_CD AB Temuco_1            1 
-x_CD Brisas_Stadio Italiano_1            1 
-x_CD Quilicura Basket_CD Achao_1            1 
-x_CD Arturo Prat de San Felipe_CD Alemán de Concepción_1            1 
-x_Estadio Palestino_Club Andino de Los Ángeles_1            1 
-x_Club Atlético Puerto Varas_CD Manquehue_1            1 
-x_CD La Unión_Estadio Español_1            1 
-x_CD Ceppi_CD Brisas_2            1 
-x_CD AB Temuco_Club Atlético Puerto Varas_2            1 
-x_CD Achao_CD Arturo Prat de San Felipe_2            1 
-x_Estadio Español_CD Quilicura Basket_2            1 
-x_CD Alemán de Concepción_CD Boston College_2            1 
-x_CD Manquehue_Estadio Palestino_2            1 
-x_Stadio Italiano_CD La Unión_2            1 
-x_Club Andino de Los Ángeles_CD Liceo Curicó_2            1 
-x_CD Boston College_Estadio Español_3            1 
-x_CD Brisas_Club Andino de Los Ángeles_3            1 
-x_CD Quilicura Basket_CD Ceppi_3            1 
-x_CD Arturo Prat de San Felipe_Stadio Italiano_3            1 
-x_Estadio Palestino_CD AB Temuco_3            1 
-x_Club Atlético Puerto Varas_CD Liceo Curicó_3            1 
-x_CD Alemán de Concepción_CD Achao_3            1 
-x_CD La Unión_CD Manquehue_3            1 
-x_CD Ceppi_CD Alemán de Concepción_4            1 
-x_CD AB Temuco_CD La Unión_4            1 
-x_CD Achao_CD Boston College_4            1 
-x_CD Liceo Curicó_Estadio Palestino_4            1 
-x_Estadio Español_CD Arturo Prat de San Felipe_4            1 
-x_CD Manquehue_CD Brisas_4            1 
-x_Stadio Italiano_CD Quilicura Basket_4            1 
-x_Club Andino de Los Ángeles_Club Atlético Puerto Varas_4            1 
-x_CD Boston College_CD AB Temuco_5            1 
-x_CD Achao_CD Liceo Curicó_5            1 
-x_CD Brisas_Estadio Español_5            1 
-x_CD Quilicura Basket_CD Manquehue_5            1 
-x_CD Arturo Prat de San Felipe_CD Ceppi_5            1 
-x_Club Atlético Puerto Varas_Estadio Palestino_5            1 
-x_CD Alemán de Concepción_Stadio Italiano_5            1 
-x_CD La Unión_Club Andino de Los Ángeles_5            1 
-x_CD Ceppi_CD Achao_6            1 
-x_CD AB Temuco_CD Quilicura Basket_6            1 
-x_CD Liceo Curicó_CD La Unión_6            1 
-x_Estadio Español_Club Atlético Puerto Varas_6            1 
-x_Estadio Palestino_CD Brisas_6            1 
-x_CD Manquehue_CD Alemán de Concepción_6            1 
-x_Stadio Italiano_CD Boston College_6            1 
-x_Club Andino de Los Ángeles_CD Arturo Prat de San Felipe_6            1 
-x_CD Boston College_Estadio Palestino_7            1 
-x_CD Ceppi_Stadio Italiano_7            1 
-x_CD Achao_CD Manquehue_7            1 
-x_CD Brisas_CD AB Temuco_7            1 
-x_CD Quilicura Basket_Club Andino de Los Ángeles_7            1 
-x_CD Arturo Prat de San Felipe_CD Liceo Curicó_7            1 
-x_CD Alemán de Concepción_Estadio Español_7            1 
-x_CD La Unión_Club Atlético Puerto Varas_7            1 
-x_CD AB Temuco_CD Arturo Prat de San Felipe_8            1 
-x_CD Liceo Curicó_CD Brisas_8            1 
-x_Estadio Español_CD Ceppi_8            1 
+x_CD Manquehue_CD AB Temuco_1            1 
+x_Stadio Italiano_Estadio Palestino_1            1 
+x_Club Andino de Los Ángeles_CD Quilicura Basket_1            1 
+x_CD Alemán de Concepción_CD Arturo Prat de San Felipe_1            1 
+x_CD La Unión_CD Liceo Curicó_1            1 
+x_Estadio Español_CD Ceppi_1            1 
+x_Club Atlético Puerto Varas_CD Brisas_1            1 
+x_CD Achao_CD Boston College_1            1 
+x_CD AB Temuco_Club Andino de Los Ángeles_2            1 
+x_Estadio Palestino_Club Atlético Puerto Varas_2            1 
+x_CD Arturo Prat de San Felipe_CD La Unión_2            1 
+x_CD Boston College_CD Alemán de Concepción_2            1 
+x_CD Liceo Curicó_CD Manquehue_2            1 
+x_CD Brisas_Estadio Español_2            1 
+x_CD Quilicura Basket_CD Achao_2            1 
+x_CD Ceppi_Stadio Italiano_2            1 
+x_CD Manquehue_CD Boston College_3            1 
+x_Club Andino de Los Ángeles_CD Ceppi_3            1 
+x_CD Alemán de Concepción_CD AB Temuco_3            1 
+x_CD La Unión_CD Quilicura Basket_3            1 
+x_Estadio Español_Estadio Palestino_3            1 
+x_Club Atlético Puerto Varas_Stadio Italiano_3            1 
+x_CD Liceo Curicó_CD Arturo Prat de San Felipe_3            1 
+x_CD Achao_CD Brisas_3            1 
+x_CD AB Temuco_CD Liceo Curicó_4            1 
+x_Estadio Palestino_CD Achao_4            1 
+x_CD Arturo Prat de San Felipe_CD Manquehue_4            1 
+x_Stadio Italiano_Estadio Español_4            1 
+x_CD Boston College_CD La Unión_4            1 
+x_CD Brisas_Club Andino de Los Ángeles_4            1 
+x_CD Quilicura Basket_CD Alemán de Concepción_4            1 
+x_CD Ceppi_Club Atlético Puerto Varas_4            1 
+x_CD Manquehue_Estadio Palestino_5            1 
+x_CD Arturo Prat de San Felipe_Stadio Italiano_5            1 
+x_Club Andino de Los Ángeles_CD Boston College_5            1 
+x_CD Alemán de Concepción_CD Brisas_5            1 
+x_CD La Unión_CD AB Temuco_5            1 
+x_Club Atlético Puerto Varas_Estadio Español_5            1 
+x_CD Liceo Curicó_CD Quilicura Basket_5            1 
+x_CD Achao_CD Ceppi_5            1 
+x_CD AB Temuco_CD Arturo Prat de San Felipe_6            1 
+x_Estadio Palestino_CD Alemán de Concepción_6            1 
+x_Stadio Italiano_CD Achao_6            1 
+x_CD Boston College_Club Atlético Puerto Varas_6            1 
+x_Estadio Español_Club Andino de Los Ángeles_6            1 
+x_CD Brisas_CD Liceo Curicó_6            1 
+x_CD Quilicura Basket_CD Manquehue_6            1 
+x_CD Ceppi_CD La Unión_6            1 
+x_CD Manquehue_Estadio Español_7            1 
+x_CD AB Temuco_CD Quilicura Basket_7            1 
+x_CD Arturo Prat de San Felipe_CD Brisas_7            1 
+x_Club Andino de Los Ángeles_Estadio Palestino_7            1 
+x_CD Alemán de Concepción_CD Ceppi_7            1 
+x_CD La Unión_Stadio Italiano_7            1 
+x_CD Liceo Curicó_CD Boston College_7            1 
+x_CD Achao_Club Atlético Puerto Varas_7            1 
 x_Estadio Palestino_CD La Unión_8            1 
-x_Club Atlético Puerto Varas_CD Quilicura Basket_8            1 
-x_CD Manquehue_CD Boston College_8            1 
-x_Stadio Italiano_CD Achao_8            1 
-x_Club Andino de Los Ángeles_CD Alemán de Concepción_8            1 
-x_CD Boston College_CD Liceo Curicó_9            1 
-x_CD Ceppi_Club Andino de Los Ángeles_9            1 
-x_CD Achao_CD AB Temuco_9            1 
-x_CD Brisas_CD La Unión_9            1 
-x_CD Quilicura Basket_Estadio Palestino_9            1 
-x_CD Arturo Prat de San Felipe_CD Manquehue_9            1 
-x_CD Alemán de Concepción_Club Atlético Puerto Varas_9            1 
-x_Stadio Italiano_Estadio Español_9            1 
-x_CD AB Temuco_CD Ceppi_10            1 
-x_CD Liceo Curicó_CD Alemán de Concepción_10            1 
-x_Estadio Español_CD Achao_10            1 
-x_Estadio Palestino_CD Arturo Prat de San Felipe_10            1 
-x_Club Atlético Puerto Varas_CD Brisas_10            1 
-x_CD Manquehue_Stadio Italiano_10            1 
-x_Club Andino de Los Ángeles_CD Boston College_10            1 
-x_CD La Unión_CD Quilicura Basket_10            1 
-x_CD Boston College_CD La Unión_11            1 
-x_CD Ceppi_Estadio Palestino_11            1 
-x_CD Achao_Club Andino de Los Ángeles_11            1 
-x_CD Quilicura Basket_CD Brisas_11            1 
-x_Estadio Español_CD Manquehue_11            1 
-x_CD Arturo Prat de San Felipe_Club Atlético Puerto Varas_11            1 
-x_CD Alemán de Concepción_CD AB Temuco_11            1 
-x_Stadio Italiano_CD Liceo Curicó_11            1 
-x_CD AB Temuco_Estadio Español_12            1 
-x_CD Liceo Curicó_CD Quilicura Basket_12            1 
-x_CD Brisas_CD Arturo Prat de San Felipe_12            1 
-x_Estadio Palestino_CD Alemán de Concepción_12            1 
-x_Club Atlético Puerto Varas_CD Boston College_12            1 
-x_CD Manquehue_CD Ceppi_12            1 
-x_Club Andino de Los Ángeles_Stadio Italiano_12            1 
-x_CD La Unión_CD Achao_12            1 
-x_CD Boston College_CD Quilicura Basket_13            1 
-x_CD Ceppi_CD Liceo Curicó_13            1 
-x_CD Achao_Club Atlético Puerto Varas_13            1 
-x_Estadio Español_Club Andino de Los Ángeles_13            1 
-x_CD Arturo Prat de San Felipe_CD La Unión_13            1 
-x_CD Alemán de Concepción_CD Brisas_13            1 
-x_CD Manquehue_CD AB Temuco_13            1 
-x_Stadio Italiano_Estadio Palestino_13            1 
-x_CD AB Temuco_Stadio Italiano_14            1 
-x_CD Liceo Curicó_Estadio Español_14            1 
-x_CD Brisas_CD Boston College_14            1 
-x_CD Quilicura Basket_CD Arturo Prat de San Felipe_14            1 
-x_Estadio Palestino_CD Achao_14            1 
-x_Club Atlético Puerto Varas_CD Ceppi_14            1 
+x_Stadio Italiano_Club Andino de Los Ángeles_8            1 
+x_CD Boston College_CD AB Temuco_8            1 
+x_Estadio Español_CD Achao_8            1 
+x_Club Atlético Puerto Varas_CD Alemán de Concepción_8            1 
+x_CD Brisas_CD Manquehue_8            1 
+x_CD Quilicura Basket_CD Arturo Prat de San Felipe_8            1 
+x_CD Ceppi_CD Liceo Curicó_8            1 
+x_CD Manquehue_Stadio Italiano_9            1 
+x_CD AB Temuco_CD Ceppi_9            1 
+x_CD Arturo Prat de San Felipe_Estadio Palestino_9            1 
+x_Club Andino de Los Ángeles_CD Achao_9            1 
+x_CD Alemán de Concepción_Estadio Español_9            1 
+x_CD La Unión_CD Brisas_9            1 
+x_CD Liceo Curicó_Club Atlético Puerto Varas_9            1 
+x_CD Quilicura Basket_CD Boston College_9            1 
+x_Estadio Palestino_CD AB Temuco_10            1 
+x_Stadio Italiano_CD Liceo Curicó_10            1 
+x_CD Boston College_CD Arturo Prat de San Felipe_10            1 
+x_Estadio Español_CD La Unión_10            1 
+x_Club Atlético Puerto Varas_Club Andino de Los Ángeles_10            1 
+x_CD Brisas_CD Quilicura Basket_10            1 
+x_CD Ceppi_CD Manquehue_10            1 
+x_CD Achao_CD Alemán de Concepción_10            1 
+x_CD Manquehue_CD Achao_11            1 
+x_CD AB Temuco_Estadio Español_11            1 
+x_CD Arturo Prat de San Felipe_CD Ceppi_11            1 
+x_CD Alemán de Concepción_Club Andino de Los Ángeles_11            1 
+x_CD Boston College_CD Brisas_11            1 
+x_CD La Unión_Club Atlético Puerto Varas_11            1 
+x_CD Liceo Curicó_Estadio Palestino_11            1 
+x_CD Quilicura Basket_Stadio Italiano_11            1 
+x_Estadio Palestino_CD Boston College_12            1 
+x_Stadio Italiano_CD Alemán de Concepción_12            1 
+x_Club Andino de Los Ángeles_CD La Unión_12            1 
+x_Estadio Español_CD Liceo Curicó_12            1 
+x_Club Atlético Puerto Varas_CD Manquehue_12            1 
+x_CD Brisas_CD AB Temuco_12            1 
+x_CD Ceppi_CD Quilicura Basket_12            1 
+x_CD Achao_CD Arturo Prat de San Felipe_12            1 
+x_CD Manquehue_CD Alemán de Concepción_13            1 
+x_CD AB Temuco_Stadio Italiano_13            1 
+x_CD Arturo Prat de San Felipe_Club Atlético Puerto Varas_13            1 
+x_CD Boston College_CD Ceppi_13            1 
+x_CD La Unión_CD Achao_13            1 
+x_CD Liceo Curicó_Club Andino de Los Ángeles_13            1 
+x_CD Brisas_Estadio Palestino_13            1 
+x_CD Quilicura Basket_Estadio Español_13            1 
+x_Estadio Palestino_CD Quilicura Basket_14            1 
+x_Stadio Italiano_CD Boston College_14            1 
 x_Club Andino de Los Ángeles_CD Manquehue_14            1 
-x_CD La Unión_CD Alemán de Concepción_14            1 
-x_CD Boston College_CD Arturo Prat de San Felipe_15            1 
-x_CD Ceppi_CD La Unión_15            1 
-x_CD AB Temuco_Club Andino de Los Ángeles_15            1 
-x_CD Achao_CD Brisas_15            1 
-x_Estadio Español_Estadio Palestino_15            1 
-x_CD Alemán de Concepción_CD Quilicura Basket_15            1 
-x_CD Manquehue_CD Liceo Curicó_15            1 
-x_Stadio Italiano_Club Atlético Puerto Varas_15            1 
-z_CD Ceppi_7_2            1 
-z_CD AB Temuco_15_2            1 
-z_CD Achao_5_2            1 
-z_CD Liceo Curicó_3_2            1 
-z_CD Brisas_11_2            1 
-z_CD Quilicura Basket_13_2            1 
-z_Estadio Español_11_2            1 
-z_CD Arturo Prat de San Felipe_15_2            1 
-z_Estadio Palestino_5_2            1 
+x_CD Alemán de Concepción_CD La Unión_14            1 
+x_Estadio Español_CD Arturo Prat de San Felipe_14            1 
+x_Club Atlético Puerto Varas_CD AB Temuco_14            1 
+x_CD Ceppi_CD Brisas_14            1 
+x_CD Achao_CD Liceo Curicó_14            1 
+x_CD Manquehue_CD La Unión_15            1 
+x_CD AB Temuco_CD Achao_15            1 
+x_Estadio Palestino_CD Ceppi_15            1 
+x_CD Arturo Prat de San Felipe_Club Andino de Los Ángeles_15            1 
+x_CD Boston College_Estadio Español_15            1 
+x_CD Liceo Curicó_CD Alemán de Concepción_15            1 
+x_CD Brisas_Stadio Italiano_15            1 
+x_CD Quilicura Basket_Club Atlético Puerto Varas_15            1 
+z_CD AB Temuco_7_2            1 
+z_Estadio Palestino_15_2            1 
+z_CD Arturo Prat de San Felipe_5_2            1 
+z_Stadio Italiano_3_2            1 
+z_Club Andino de Los Ángeles_11_2            1 
+z_CD Alemán de Concepción_13_2            1 
+z_CD Boston College_11_2            1 
+z_CD La Unión_15_2            1 
+z_Estadio Español_5_2            1 
 z_Club Atlético Puerto Varas_7_2            1 
-z_CD Alemán de Concepción_3_2            1 
-z_CD Manquehue_13_2            1 
-z_Stadio Italiano_9_2            1 
-z_CD La Unión_9_2            1 
+z_CD Liceo Curicó_3_2            1 
+z_CD Brisas_13_2            1 
+z_CD Quilicura Basket_9_2            1 
+z_CD Achao_9_2            1 
 Freed default Gurobi environment
 
-Gurobi 8.0.0 (win64, Python) logging started 06/06/18 20:50:27
+Gurobi 8.0.0 (win64, Python) logging started 06/08/18 17:31:36
 
 Academic license - for non-commercial use only
 Changed value of parameter MIPFocus to 3
    Prev: 0  Min: 0  Max: 3  Default: 0
-Optimize a model with 12828 rows, 138816 columns and 557568 nonzeros
-Variable types: 0 continuous, 138816 integer (138240 binary)
+Optimize a model with 843 rows, 4320 columns and 26590 nonzeros
+Variable types: 0 continuous, 4320 integer (4320 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 2e+01]
+  Objective range  [1e+00, 1e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+01]
+Presolve removed 136 rows and 1362 columns
+Presolve time: 0.25s
+Presolved: 707 rows, 2958 columns, 18086 nonzeros
+Variable types: 0 continuous, 2958 integer (2958 binary)
+Presolve removed 15 rows and 0 columns
+Presolved: 692 rows, 2958 columns, 17877 nonzeros
+
+
+Root relaxation: objective 1.400000e+01, 1585 iterations, 0.24 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0   14.00000    0  475          -   14.00000      -     -    3s
+     0     0   14.00000    0  415          -   14.00000      -     -    6s
+     0     0   14.00000    0  442          -   14.00000      -     -    6s
+     0     0   14.00000    0  476          -   14.00000      -     -    9s
+     0     0   14.00000    0  424          -   14.00000      -     -   11s
+     0     2   14.00000    0  392          -   14.00000      -     -   15s
+   118   119   14.00000   56  487          -   14.00000      -   325   20s
+   406   401   14.00000  185  414          -   14.00000      -   263   26s
+   590   580   14.00000  266  359          -   14.00000      -   264   30s
+   780   755   14.00000   22  474          -   14.00000      -   266   37s
+   781   756   14.00000   26  442          -   14.00000      -   266   41s
+   783   757   14.00000   54  368          -   14.00000      -   265   46s
+   785   759   14.00000   99  383          -   14.00000      -   265   53s
+   786   759   14.00000  146  444          -   14.00000      -   264   56s
+   787   760   14.00000  107  366          -   14.00000      -   264   66s
+   788   761   14.00000  118  366          -   14.00000      -   264   71s
+   790   763 infeasible   11               -   14.00000      -  76.5   88s
+   792   764   14.00000   12  492          -   14.00000      -  77.7  100s
+   794   768   14.00000   13  507          -   14.00000      -  78.9  107s
+   798   770   14.00000   14  495          -   14.00000      -  81.3  110s
+   810   778   14.00000   15  484          -   14.00000      -  90.0  115s
+   828   786   14.00000   17  497          -   14.00000      -   101  120s
+   842   792   14.00000   19  468          -   14.00000      -   108  126s
+   874   807   14.00000   23  457          -   14.00000      -   116  136s
+  1118   939 infeasible   53               -   14.00000      -   182  142s
+  1266   982   14.00000   49  200          -   14.00000      -   247  147s
+  1379   952 infeasible   55               -   14.00000      -   301  152s
+  1539   942 infeasible   59               -   14.00000      -   320  160s
+  1596   938 infeasible   71               -   14.00000      -   350  165s
+  1614   923 infeasible   72               -   14.00000      -   360  171s
+  1718   885   14.00000   55  227          -   14.00000      -   387  177s
+  1783   858 infeasible   69               -   14.00000      -   407  185s
+  1826   851   14.00000   56  328          -   14.00000      -   421  194s
+  1883   848   14.00000   63  272          -   14.00000      -   450  202s
+  2007   838 infeasible   60               -   14.00000      -   457  210s
+  2115   766 infeasible   71               -   14.00000      -   471  217s
+  2178   730   14.00000   46   73          -   14.00000      -   499  229s
+  2214   728   14.00000   21  482          -   14.00000      -   506  230s
+  2249   731 infeasible   53               -   14.00000      -   511  238s
+  2327   730   14.00000   50  127          -   14.00000      -   517  247s
+  2394   749 infeasible   53               -   14.00000      -   529  256s
+  2481   743   14.00000   49  123          -   14.00000      -   545  267s
+  2505   725   14.00000   51   38          -   14.00000      -   556  277s
+  2602   699   14.00000   55   44          -   14.00000      -   567  287s
+  2660   694   14.00000   31  451          -   14.00000      -   573  298s
+* 2692   103              50      14.0000000   14.00000  0.00%   576  298s
+
+Cutting planes:
+  Cover: 24
+  Implied bound: 1
+  Clique: 289
+  MIR: 9
+  StrongCG: 5
+  Flow cover: 179
+  Inf proof: 3
+  Zero half: 585
+
+Explored 2741 nodes (1852970 simplex iterations) in 299.69 seconds
+Thread count was 4 (of 4 available processors)
+
+Solution count 1: 14 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 1.400000000000e+01, best bound 1.400000000000e+01, gap 0.0000%
+
+    Variable            X 
+-------------------------
+x_CD Quilicura Basket_CD Arturo Prat de San Felipe_1            1 
+x_Club Andino de Los Ángeles_Club Atlético Puerto Varas_1            1 
+x_Estadio Palestino_CD Ceppi_1            1 
+x_Stadio Italiano_CD AB Temuco_1            1 
+x_Estadio Español_CD Brisas_1            1 
+x_CD Manquehue_CD Achao_1            1 
+x_CD Boston College_CD La Unión_1            1 
+x_CD Alemán de Concepción_CD Liceo Curicó_1            1 
+x_CD Arturo Prat de San Felipe_Estadio Palestino_2            1 
+x_Club Atlético Puerto Varas_CD Boston College_2            1 
+x_CD AB Temuco_Estadio Español_2            1 
+x_CD Liceo Curicó_Stadio Italiano_2            1 
+x_CD Brisas_CD Quilicura Basket_2            1 
+x_CD La Unión_CD Manquehue_2            1 
+x_CD Ceppi_CD Alemán de Concepción_2            1 
+x_CD Achao_Club Andino de Los Ángeles_2            1 
+x_CD Quilicura Basket_CD Liceo Curicó_3            1 
+x_Estadio Palestino_CD Achao_3            1 
+x_Stadio Italiano_CD Arturo Prat de San Felipe_3            1 
+x_Estadio Español_CD Ceppi_3            1 
+x_CD Manquehue_Club Atlético Puerto Varas_3            1 
+x_CD Boston College_Club Andino de Los Ángeles_3            1 
+x_CD Brisas_CD AB Temuco_3            1 
+x_CD Alemán de Concepción_CD La Unión_3            1 
+x_CD Arturo Prat de San Felipe_CD Brisas_4            1 
+x_Club Atlético Puerto Varas_CD Alemán de Concepción_4            1 
+x_CD AB Temuco_CD Quilicura Basket_4            1 
+x_Club Andino de Los Ángeles_CD Manquehue_4            1 
+x_CD Liceo Curicó_Estadio Español_4            1 
+x_CD La Unión_Estadio Palestino_4            1 
+x_CD Ceppi_Stadio Italiano_4            1 
+x_CD Achao_CD Boston College_4            1 
+x_CD Quilicura Basket_Club Atlético Puerto Varas_5            1 
+x_CD AB Temuco_Club Andino de Los Ángeles_5            1 
+x_Estadio Palestino_CD Liceo Curicó_5            1 
+x_Stadio Italiano_CD La Unión_5            1 
+x_Estadio Español_CD Arturo Prat de San Felipe_5            1 
+x_CD Boston College_CD Manquehue_5            1 
+x_CD Brisas_CD Ceppi_5            1 
+x_CD Alemán de Concepción_CD Achao_5            1 
+x_CD Arturo Prat de San Felipe_CD AB Temuco_6            1 
+x_Club Atlético Puerto Varas_Stadio Italiano_6            1 
+x_Club Andino de Los Ángeles_CD Alemán de Concepción_6            1 
+x_CD Liceo Curicó_CD Boston College_6            1 
+x_CD Manquehue_Estadio Palestino_6            1 
+x_CD La Unión_CD Brisas_6            1 
+x_CD Ceppi_CD Quilicura Basket_6            1 
+x_CD Achao_Estadio Español_6            1 
+x_CD Quilicura Basket_CD Manquehue_7            1 
+x_CD Arturo Prat de San Felipe_CD Ceppi_7            1 
+x_CD AB Temuco_CD La Unión_7            1 
+x_Estadio Palestino_Club Atlético Puerto Varas_7            1 
+x_Stadio Italiano_CD Achao_7            1 
+x_Estadio Español_Club Andino de Los Ángeles_7            1 
+x_CD Brisas_CD Liceo Curicó_7            1 
+x_CD Alemán de Concepción_CD Boston College_7            1 
+x_Club Atlético Puerto Varas_Estadio Español_8            1 
+x_Club Andino de Los Ángeles_Estadio Palestino_8            1 
+x_CD Liceo Curicó_CD Arturo Prat de San Felipe_8            1 
+x_CD Manquehue_CD Alemán de Concepción_8            1 
+x_CD Boston College_Stadio Italiano_8            1 
+x_CD La Unión_CD Quilicura Basket_8            1 
+x_CD Ceppi_CD AB Temuco_8            1 
+x_CD Achao_CD Brisas_8            1 
+x_CD Quilicura Basket_Club Andino de Los Ángeles_9            1 
+x_CD Arturo Prat de San Felipe_CD Achao_9            1 
+x_CD AB Temuco_Club Atlético Puerto Varas_9            1 
+x_Estadio Palestino_CD Alemán de Concepción_9            1 
+x_Stadio Italiano_CD Manquehue_9            1 
+x_Estadio Español_CD La Unión_9            1 
+x_CD Brisas_CD Boston College_9            1 
+x_CD Ceppi_CD Liceo Curicó_9            1 
+x_Club Atlético Puerto Varas_CD Arturo Prat de San Felipe_10            1 
+x_Club Andino de Los Ángeles_CD Brisas_10            1 
+x_CD Liceo Curicó_CD AB Temuco_10            1 
+x_CD Manquehue_Estadio Español_10            1 
+x_CD Boston College_Estadio Palestino_10            1 
+x_CD La Unión_CD Ceppi_10            1 
+x_CD Achao_CD Quilicura Basket_10            1 
+x_CD Alemán de Concepción_Stadio Italiano_10            1 
+x_CD Quilicura Basket_CD Alemán de Concepción_11            1 
+x_CD Arturo Prat de San Felipe_CD Manquehue_11            1 
+x_CD AB Temuco_CD Achao_11            1 
+x_Stadio Italiano_Estadio Palestino_11            1 
+x_CD Liceo Curicó_CD La Unión_11            1 
+x_Estadio Español_CD Boston College_11            1 
+x_CD Brisas_Club Atlético Puerto Varas_11            1 
+x_CD Ceppi_Club Andino de Los Ángeles_11            1 
+x_Club Atlético Puerto Varas_CD Liceo Curicó_12            1 
+x_Club Andino de Los Ángeles_Stadio Italiano_12            1 
+x_Estadio Palestino_Estadio Español_12            1 
+x_CD Manquehue_CD Brisas_12            1 
+x_CD Boston College_CD Quilicura Basket_12            1 
+x_CD La Unión_CD Arturo Prat de San Felipe_12            1 
+x_CD Achao_CD Ceppi_12            1 
+x_CD Alemán de Concepción_CD AB Temuco_12            1 
+x_CD Quilicura Basket_Stadio Italiano_13            1 
+x_CD Arturo Prat de San Felipe_Club Andino de Los Ángeles_13            1 
+x_CD AB Temuco_CD Boston College_13            1 
+x_CD Liceo Curicó_CD Achao_13            1 
+x_Estadio Español_CD Alemán de Concepción_13            1 
+x_CD Brisas_Estadio Palestino_13            1 
+x_CD La Unión_Club Atlético Puerto Varas_13            1 
+x_CD Ceppi_CD Manquehue_13            1 
+x_Club Atlético Puerto Varas_CD Ceppi_14            1 
+x_Club Andino de Los Ángeles_CD Liceo Curicó_14            1 
+x_Estadio Palestino_CD Quilicura Basket_14            1 
+x_Stadio Italiano_Estadio Español_14            1 
+x_CD Manquehue_CD AB Temuco_14            1 
+x_CD Boston College_CD Arturo Prat de San Felipe_14            1 
+x_CD Achao_CD La Unión_14            1 
+x_CD Alemán de Concepción_CD Brisas_14            1 
+x_CD Quilicura Basket_Estadio Español_15            1 
+x_CD Arturo Prat de San Felipe_CD Alemán de Concepción_15            1 
+x_Club Atlético Puerto Varas_CD Achao_15            1 
+x_CD AB Temuco_Estadio Palestino_15            1 
+x_CD Liceo Curicó_CD Manquehue_15            1 
+x_CD Brisas_Stadio Italiano_15            1 
+x_CD La Unión_Club Andino de Los Ángeles_15            1 
+x_CD Ceppi_CD Boston College_15            1 
+z_CD Arturo Prat de San Felipe_7_2            1 
+z_Club Atlético Puerto Varas_15_2            1 
+z_CD AB Temuco_5_2            1 
+z_Club Andino de Los Ángeles_3_2            1 
+z_Estadio Palestino_11_2            1 
+z_Stadio Italiano_13_2            1 
+z_CD Liceo Curicó_11_2            1 
+z_Estadio Español_15_2            1 
+z_CD Manquehue_5_2            1 
+z_CD Boston College_7_2            1 
+z_CD Brisas_3_2            1 
+z_CD La Unión_13_2            1 
+z_CD Ceppi_9_2            1 
+z_CD Alemán de Concepción_9_2            1 
+Freed default Gurobi environment
+
+Gurobi 8.0.0 (win64, Python) logging started 06/08/18 17:46:55
+
+Academic license - for non-commercial use only
+Changed value of parameter MIPFocus to 3
+   Prev: 0  Min: 0  Max: 3  Default: 0
+Optimize a model with 12828 rows, 138816 columns and 682848 nonzeros
+Variable types: 0 continuous, 138816 integer (138528 binary)
 Coefficient statistics:
   Matrix range     [1e+00, 2e+00]
   Objective range  [1e+00, 1e+00]
   Bounds range     [1e+00, 1e+00]
   RHS range        [1e+00, 1e+00]
-Found heuristic solution: objective 242.0000000
-Presolve removed 11760 rows and 134208 columns
-Presolve time: 0.31s
-Presolved: 1068 rows, 4608 columns, 17568 nonzeros
-Variable types: 0 continuous, 4608 integer (4320 binary)
-Presolved: 1068 rows, 4608 columns, 17568 nonzeros
+Found heuristic solution: objective 250.0000000
+Presolve removed 7440 rows and 133920 columns
+Presolve time: 0.60s
+Presolved: 5388 rows, 4896 columns, 30528 nonzeros
+Variable types: 0 continuous, 4896 integer (4608 binary)
+Presolved: 5388 rows, 4896 columns, 30528 nonzeros
 
 
-Root relaxation: objective 1.920000e+02, 2587 iterations, 0.30 seconds
+Root relaxation: objective 1.920000e+02, 3395 iterations, 0.65 seconds
 
     Nodes    |    Current Node    |     Objective Bounds      |     Work
  Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
 
-H    0     0                     192.0000000    0.00000   100%     -    1s
-     0     0          -    0       192.00000  192.00000  0.00%     -    1s
+H    0     0                     192.0000000    0.00000   100%     -    2s
+     0     0          -    0       192.00000  192.00000  0.00%     -    2s
 
-Explored 0 nodes (3301 simplex iterations) in 1.40 seconds
+Explored 0 nodes (4162 simplex iterations) in 2.53 seconds
 Thread count was 4 (of 4 available processors)
 
-Solution count 2: 192 242 
+Solution count 2: 192 250 
 
 Optimal solution found (tolerance 1.00e-04)
 Best objective 1.920000000000e+02, best bound 1.920000000000e+02, gap 0.0000%
 
     Variable            X 
 -------------------------
-w_aijt_a_Club Atlético Puerto Varas_CD AB Temuco_17            1 
-w_aijt_a_Club Atlético Puerto Varas_CD Brisas_10            1 
-w_aijt_a_Club Atlético Puerto Varas_CD Manquehue_1            1 
-w_aijt_a_CD AB Temuco_CD La Unión_4            1 
-w_aijt_a_CD AB Temuco_CD Alemán de Concepción_26            1 
-w_aijt_a_CD AB Temuco_Estadio Español_12            1 
-w_aijt_a_CD AB Temuco_CD Manquehue_28            1 
-w_aijt_a_CD Boston College_Club Andino de Los Ángeles_25            1 
-w_aijt_a_CD Quilicura Basket_Club Andino de Los Ángeles_7            1 
-w_aijt_a_Estadio Palestino_CD Brisas_6            1 
-w_aijt_a_Estadio Español_CD Brisas_20            1 
-w_aijt_a_Estadio Español_Club Andino de Los Ángeles_13            1 
-w_aijt_a_CD Brisas_Estadio Español_5            1 
-w_aijt_a_CD Brisas_Club Andino de Los Ángeles_3            1 
-w_aijt_a_Club Andino de Los Ángeles_CD Ceppi_24            1 
-w_aijt_a_Club Andino de Los Ángeles_CD Manquehue_14            1 
-w_aijt_a_CD Ceppi_Estadio Español_23            1 
-w_aijt_a_CD Ceppi_CD Brisas_2            1 
-w_aijt_a_CD Ceppi_CD Manquehue_27            1 
-w_aijt_a_CD Arturo Prat de San Felipe_CD Manquehue_9            1 
-w_aijt_a_Stadio Italiano_CD Achao_8            1 
-w_aijt_a_Stadio Italiano_CD Liceo Curicó_11            1 
-w_aijt_a_CD Manquehue_Club Atlético Puerto Varas_16            1 
-w_aijt_b_Club Atlético Puerto Varas_CD Achao_28            1 
-w_aijt_b_CD Achao_CD Liceo Curicó_5            1 
-w_aijt_b_CD Boston College_Estadio Español_3            1 
-w_aijt_b_CD Boston College_Stadio Italiano_21            1 
-w_aijt_b_CD Quilicura Basket_CD Alemán de Concepción_30            1 
-w_aijt_b_Estadio Palestino_CD La Unión_8            1 
-w_aijt_b_Estadio Español_CD Achao_10            1 
-w_aijt_b_Estadio Español_CD Boston College_18            1 
-w_aijt_b_CD Brisas_CD Boston College_14            1 
-w_aijt_b_Club Andino de Los Ángeles_CD Arturo Prat de San Felipe_6            1 
-w_aijt_b_CD Ceppi_CD AB Temuco_25            1 
-w_aijt_b_CD Manquehue_Estadio Palestino_2            1 
-w_aijt_c_Club Atlético Puerto Varas_CD Alemán de Concepción_24            1 
-w_aijt_c_CD La Unión_CD Quilicura Basket_10            1 
-w_aijt_c_CD Alemán de Concepción_CD Brisas_13            1 
-w_aijt_c_Estadio Palestino_Estadio Español_30            1 
-w_aijt_c_Estadio Español_CD Arturo Prat de San Felipe_4            1 
-w_aijt_c_Club Andino de Los Ángeles_CD Liceo Curicó_2            1 
-w_aijt_c_CD Ceppi_CD Achao_6            1 
-w_aijt_c_Stadio Italiano_CD AB Temuco_29            1 
-w_aijt_c_CD Manquehue_CD Boston College_8            1 
-w_aijt_d_CD AB Temuco_CD Liceo Curicó_16            1 
-w_aijt_d_CD AB Temuco_CD Brisas_22            1 
-w_aijt_d_CD La Unión_Club Atlético Puerto Varas_7            1 
-w_aijt_d_CD Achao_Stadio Italiano_23            1 
-w_aijt_d_CD Boston College_CD Ceppi_1            1 
-w_aijt_d_CD Alemán de Concepción_Estadio Palestino_27            1 
-w_aijt_d_Estadio Español_CD Liceo Curicó_29            1 
-w_aijt_d_CD Arturo Prat de San Felipe_Club Andino de Los Ángeles_21            1 
-w_aijt_d_CD Manquehue_CD Quilicura Basket_20            1 
-w_aijt_d_CD Manquehue_Estadio Español_26            1 
-w_aijt_e_CD AB Temuco_CD Quilicura Basket_6            1 
-w_aijt_e_CD Achao_CD Quilicura Basket_16            1 
-w_aijt_e_CD Boston College_Club Atlético Puerto Varas_27            1 
-w_aijt_e_CD Liceo Curicó_Estadio Palestino_4            1 
-w_aijt_e_CD Liceo Curicó_Estadio Español_14            1 
-w_aijt_e_CD Alemán de Concepción_CD Ceppi_19            1 
-w_aijt_e_Club Andino de Los Ángeles_CD La Unión_20            1 
-w_aijt_e_Club Andino de Los Ángeles_CD Brisas_18            1 
-w_aijt_e_Club Andino de Los Ángeles_Stadio Italiano_12            1 
-w_aijt_e_CD Arturo Prat de San Felipe_CD AB Temuco_23            1 
-w_aijt_e_CD Manquehue_Club Andino de Los Ángeles_29            1 
-w_aijt_f_Club Atlético Puerto Varas_CD Ceppi_14            1 
-w_aijt_f_CD AB Temuco_Club Atlético Puerto Varas_2            1 
-w_aijt_f_CD Achao_CD Ceppi_21            1 
-w_aijt_f_CD Boston College_CD Quilicura Basket_13            1 
-w_aijt_f_CD Liceo Curicó_CD Ceppi_28            1 
-w_aijt_f_CD Alemán de Concepción_Club Atlético Puerto Varas_9            1 
-w_aijt_f_Estadio Palestino_CD Liceo Curicó_19            1 
-w_aijt_f_Estadio Español_CD Ceppi_8            1 
-w_aijt_f_CD Brisas_CD Liceo Curicó_23            1 
-w_aijt_f_CD Brisas_CD Ceppi_17            1 
-w_aijt_f_Club Andino de Los Ángeles_Club Atlético Puerto Varas_4            1 
+w_aijt_a_Club Atlético Puerto Varas_CD Quilicura Basket_20            1 
+w_aijt_a_CD AB Temuco_CD Achao_11            1 
+w_aijt_a_CD La Unión_CD Boston College_16            1 
+w_aijt_a_CD La Unión_Estadio Palestino_4            1 
+w_aijt_a_CD La Unión_CD Brisas_6            1 
+w_aijt_a_CD La Unión_Club Andino de Los Ángeles_15            1 
+w_aijt_a_CD La Unión_CD Ceppi_10            1 
+w_aijt_a_CD Achao_CD La Unión_14            1 
+w_aijt_a_CD Achao_CD Arturo Prat de San Felipe_24            1 
+w_aijt_a_CD Alemán de Concepción_CD Ceppi_17            1 
+w_aijt_a_CD Quilicura Basket_Club Andino de Los Ángeles_9            1 
+w_aijt_a_CD Quilicura Basket_CD Arturo Prat de San Felipe_1            1 
+w_aijt_a_CD Quilicura Basket_CD Manquehue_7            1 
+w_aijt_a_Estadio Palestino_CD Liceo Curicó_5            1 
+w_aijt_a_Estadio Español_CD Achao_21            1 
+w_aijt_a_Club Andino de Los Ángeles_CD Ceppi_26            1 
+w_aijt_a_CD Ceppi_CD Achao_27            1 
+w_aijt_a_CD Ceppi_CD Arturo Prat de San Felipe_22            1 
+w_aijt_a_CD Arturo Prat de San Felipe_Club Andino de Los Ángeles_13            1 
+w_aijt_a_Stadio Italiano_CD Alemán de Concepción_25            1 
+w_aijt_b_Club Atlético Puerto Varas_CD AB Temuco_24            1 
+w_aijt_b_CD AB Temuco_CD Quilicura Basket_4            1 
+w_aijt_b_CD AB Temuco_CD Brisas_18            1 
+w_aijt_b_CD AB Temuco_Club Andino de Los Ángeles_5            1 
+w_aijt_b_CD Achao_Club Atlético Puerto Varas_30            1 
+w_aijt_b_CD Liceo Curicó_CD Boston College_6            1 
+w_aijt_b_CD Quilicura Basket_CD Brisas_17            1 
+w_aijt_b_Estadio Palestino_Club Atlético Puerto Varas_7            1 
+w_aijt_b_CD Brisas_CD La Unión_21            1 
+w_aijt_b_CD Brisas_CD Alemán de Concepción_29            1 
+w_aijt_b_CD Brisas_Estadio Español_16            1 
+w_aijt_b_CD Ceppi_CD AB Temuco_8            1 
+w_aijt_b_CD Ceppi_Club Andino de Los Ángeles_11            1 
+w_aijt_b_CD Ceppi_CD Manquehue_13            1 
+w_aijt_b_Stadio Italiano_CD Arturo Prat de San Felipe_3            1 
+w_aijt_c_Club Atlético Puerto Varas_CD Achao_15            1 
+w_aijt_c_Club Atlético Puerto Varas_CD Boston College_2            1 
+w_aijt_c_CD AB Temuco_Stadio Italiano_16            1 
+w_aijt_c_CD La Unión_Stadio Italiano_20            1 
+w_aijt_c_CD Liceo Curicó_Club Andino de Los Ángeles_29            1 
+w_aijt_c_CD Alemán de Concepción_CD Arturo Prat de San Felipe_30            1 
+w_aijt_c_Estadio Palestino_Estadio Español_12            1 
+w_aijt_c_CD Brisas_CD Liceo Curicó_7            1 
+w_aijt_c_CD Brisas_CD Manquehue_27            1 
+w_aijt_c_CD Ceppi_CD Liceo Curicó_9            1 
+w_aijt_c_Stadio Italiano_CD Quilicura Basket_28            1 
+w_aijt_c_Stadio Italiano_CD Ceppi_19            1 
+w_aijt_c_CD Manquehue_Stadio Italiano_24            1 
+w_aijt_d_Club Atlético Puerto Varas_CD La Unión_28            1 
+w_aijt_d_Club Atlético Puerto Varas_Stadio Italiano_6            1 
+w_aijt_d_CD AB Temuco_CD Boston College_13            1 
+w_aijt_d_CD Alemán de Concepción_CD Liceo Curicó_1            1 
+w_aijt_d_Estadio Palestino_CD Manquehue_21            1 
+w_aijt_d_Estadio Español_CD Ceppi_3            1 
+w_aijt_d_CD Brisas_Club Andino de Los Ángeles_25            1 
+w_aijt_d_CD Ceppi_Club Atlético Puerto Varas_29            1 
+w_aijt_d_CD Arturo Prat de San Felipe_CD Achao_9            1 
+w_aijt_d_CD Arturo Prat de San Felipe_CD Quilicura Basket_16            1 
+w_aijt_d_CD Manquehue_CD Boston College_20            1 
+w_aijt_d_CD Manquehue_CD Liceo Curicó_30            1 
+w_aijt_d_CD Manquehue_CD Quilicura Basket_22            1 
+w_aijt_e_CD La Unión_CD Achao_29            1 
+w_aijt_e_CD Achao_CD Liceo Curicó_28            1 
+w_aijt_e_CD Achao_CD Quilicura Basket_10            1 
+w_aijt_e_CD Achao_CD Brisas_8            1 
+w_aijt_e_CD Boston College_CD Alemán de Concepción_22            1 
+w_aijt_e_CD Boston College_Club Andino de Los Ángeles_3            1 
+w_aijt_e_CD Liceo Curicó_Club Atlético Puerto Varas_27            1 
+w_aijt_e_CD Liceo Curicó_CD Manquehue_15            1 
+w_aijt_e_CD Alemán de Concepción_Estadio Palestino_24            1 
+w_aijt_e_Estadio Palestino_CD AB Temuco_30            1 
+w_aijt_e_CD Brisas_CD Ceppi_5            1 
+w_aijt_e_CD Arturo Prat de San Felipe_Estadio Español_20            1 
+w_aijt_e_Stadio Italiano_CD AB Temuco_1            1 
+w_aijt_f_CD AB Temuco_Estadio Español_2            1 
+w_aijt_f_CD Boston College_Estadio Palestino_10            1 
+w_aijt_f_CD Boston College_CD Ceppi_30            1 
+w_aijt_f_CD Liceo Curicó_CD Arturo Prat de San Felipe_8            1 
+w_aijt_f_CD Quilicura Basket_CD Achao_25            1 
+w_aijt_f_CD Quilicura Basket_CD Alemán de Concepción_11            1 
+w_aijt_f_Club Andino de Los Ángeles_Club Atlético Puerto Varas_1            1 
+w_aijt_f_Club Andino de Los Ángeles_CD Quilicura Basket_24            1 
+w_aijt_f_CD Ceppi_CD Brisas_20            1 
+w_aijt_f_CD Arturo Prat de San Felipe_CD La Unión_27            1 
+w_aijt_f_Stadio Italiano_CD Achao_7            1 
+w_aijt_f_CD Manquehue_CD La Unión_17            1 
+w_aijt_g_Club Atlético Puerto Varas_Estadio Español_8            1 
+w_aijt_g_CD Achao_Club Andino de Los Ángeles_2            1 
+w_aijt_g_CD Boston College_CD Quilicura Basket_12            1 
+w_aijt_g_CD Boston College_CD Arturo Prat de San Felipe_14            1 
+w_aijt_g_CD Alemán de Concepción_Estadio Español_28            1 
+w_aijt_g_CD Alemán de Concepción_CD Manquehue_23            1 
+w_aijt_g_Estadio Palestino_Stadio Italiano_26            1 
+w_aijt_g_Estadio Español_CD Liceo Curicó_19            1 
+w_aijt_g_Estadio Español_Stadio Italiano_29            1 
+w_aijt_g_CD Brisas_CD AB Temuco_3            1 
+w_aijt_g_Club Andino de Los Ángeles_Estadio Español_22            1 
+w_aijt_g_CD Ceppi_Stadio Italiano_4            1 
+w_aijt_g_Stadio Italiano_CD La Unión_5            1 
+w_aijt_g_Stadio Italiano_CD Brisas_30            1 
+w_aijt_g_Stadio Italiano_Club Andino de Los Ángeles_27            1 
+w_aijt_h_Club Atlético Puerto Varas_CD Brisas_26            1 
+w_aijt_h_CD AB Temuco_CD Ceppi_23            1 
+w_aijt_h_CD La Unión_CD AB Temuco_22            1 
+w_aijt_h_CD La Unión_CD Manquehue_2            1 
+w_aijt_h_CD Boston College_CD Liceo Curicó_21            1 
+w_aijt_h_CD Boston College_CD Brisas_24            1 
+w_aijt_h_CD Alemán de Concepción_CD Achao_5            1 
+w_aijt_h_Estadio Palestino_CD Quilicura Basket_14            1 
+w_aijt_h_Estadio Palestino_CD Brisas_28            1 
+w_aijt_h_Estadio Español_CD Brisas_1            1 
+w_aijt_h_Club Andino de Los Ángeles_CD La Unión_30            1 
+w_aijt_h_CD Arturo Prat de San Felipe_Stadio Italiano_18            1 
+w_aijt_i_Club Atlético Puerto Varas_CD Alemán de Concepción_4            1 
+w_aijt_i_CD AB Temuco_CD Arturo Prat de San Felipe_21            1 
+w_aijt_i_CD Achao_Estadio Palestino_18            1 
+w_aijt_i_CD Achao_CD Manquehue_16            1 
+w_aijt_i_CD Boston College_CD Manquehue_5            1 
+w_aijt_i_CD Liceo Curicó_CD La Unión_11            1 
+w_aijt_i_CD Quilicura Basket_Estadio Español_15            1 
+w_aijt_i_CD Brisas_CD Quilicura Basket_2            1 
+w_aijt_i_Club Andino de Los Ángeles_CD Liceo Curicó_14            1 
+w_aijt_i_CD Ceppi_CD Quilicura Basket_6            1 
+w_aijt_i_Stadio Italiano_CD Liceo Curicó_17            1 
+w_aijt_i_CD Manquehue_Club Andino de Los Ángeles_19            1 
+w_aijt_j_CD La Unión_CD Liceo Curicó_26            1 
+w_aijt_j_CD Achao_CD Boston College_4            1 
+w_aijt_j_CD Achao_CD Alemán de Concepción_20            1 
+w_aijt_j_CD Liceo Curicó_CD AB Temuco_10            1 
+w_aijt_j_CD Liceo Curicó_CD Brisas_22            1 
+w_aijt_j_CD Liceo Curicó_CD Ceppi_24            1 
+w_aijt_j_CD Quilicura Basket_Club Atlético Puerto Varas_5            1 
+w_aijt_j_Estadio Palestino_CD Achao_3            1 
+w_aijt_j_Club Andino de Los Ángeles_Stadio Italiano_12            1 
+w_aijt_j_CD Arturo Prat de San Felipe_CD Manquehue_11            1 
+w_aijt_j_Stadio Italiano_Estadio Español_14            1 
+w_aijt_k_Club Atlético Puerto Varas_CD Liceo Curicó_12            1 
+w_aijt_k_Club Atlético Puerto Varas_Club Andino de Los Ángeles_16            1 
+w_aijt_k_CD La Unión_CD Quilicura Basket_8            1 
+w_aijt_k_CD Achao_Stadio Italiano_22            1 
+w_aijt_k_CD Alemán de Concepción_CD Quilicura Basket_26            1 
+w_aijt_k_Estadio Palestino_CD Boston College_25            1 
+w_aijt_k_Estadio Palestino_CD Ceppi_1            1 
+w_aijt_k_Estadio Español_Club Atlético Puerto Varas_23            1 
+w_aijt_k_CD Brisas_Estadio Palestino_13            1 
+w_aijt_k_Club Andino de Los Ángeles_CD Arturo Prat de San Felipe_28            1 
+w_aijt_k_CD Arturo Prat de San Felipe_CD AB Temuco_6            1 
+w_aijt_k_CD Arturo Prat de San Felipe_Estadio Palestino_2            1 
+w_aijt_k_CD Manquehue_CD AB Temuco_14            1 
+w_aijt_l_CD Boston College_Club Atlético Puerto Varas_17            1 
+w_aijt_l_CD Boston College_CD La Unión_1            1 
+w_aijt_l_CD Boston College_CD Achao_19            1 
+w_aijt_l_CD Liceo Curicó_Estadio Español_4            1 
+w_aijt_l_CD Alemán de Concepción_CD AB Temuco_12            1 
+w_aijt_l_CD Quilicura Basket_CD La Unión_23            1 
+w_aijt_l_Estadio Español_Estadio Palestino_27            1 
+w_aijt_l_Estadio Español_CD Arturo Prat de San Felipe_5            1 
+w_aijt_l_Estadio Español_CD Manquehue_25            1 
+w_aijt_l_CD Brisas_CD Boston College_9            1 
+w_aijt_l_CD Brisas_Stadio Italiano_15            1 
+w_aijt_l_Club Andino de Los Ángeles_CD Alemán de Concepción_6            1 
+w_aijt_l_CD Arturo Prat de San Felipe_CD Boston College_29            1 
+w_aijt_l_CD Arturo Prat de San Felipe_CD Ceppi_7            1 
+w_aijt_m_CD AB Temuco_CD Liceo Curicó_25            1 
+w_aijt_m_CD La Unión_CD Arturo Prat de San Felipe_12            1 
+w_aijt_m_CD Liceo Curicó_Stadio Italiano_2            1 
+w_aijt_m_CD Alemán de Concepción_CD Boston College_7            1 
+w_aijt_m_CD Quilicura Basket_CD Ceppi_21            1 
+w_aijt_m_Estadio Palestino_CD Alemán de Concepción_9            1 
+w_aijt_m_Estadio Español_CD Alemán de Concepción_13            1 
+w_aijt_m_CD Brisas_Club Atlético Puerto Varas_11            1 
+w_aijt_m_Club Andino de Los Ángeles_CD Achao_17            1 
+w_aijt_m_Club Andino de Los Ángeles_CD Brisas_10            1 
+w_aijt_m_CD Manquehue_CD Alemán de Concepción_8            1 
+w_aijt_n_Club Atlético Puerto Varas_CD Ceppi_14            1 
+w_aijt_n_CD La Unión_Estadio Español_24            1 
+w_aijt_n_CD Achao_Estadio Español_6            1 
+w_aijt_n_CD Boston College_CD AB Temuco_28            1 
+w_aijt_n_CD Liceo Curicó_CD Quilicura Basket_18            1 
+w_aijt_n_CD Alemán de Concepción_Club Andino de Los Ángeles_21            1 
+w_aijt_n_CD Alemán de Concepción_Stadio Italiano_10            1 
+w_aijt_n_Estadio Palestino_Club Andino de Los Ángeles_23            1 
+w_aijt_n_Estadio Español_CD Boston College_11            1 
+w_aijt_n_CD Brisas_CD Arturo Prat de San Felipe_19            1 
+w_aijt_n_Club Andino de Los Ángeles_CD Manquehue_4            1 
+w_aijt_n_CD Manquehue_CD Arturo Prat de San Felipe_26            1 
+w_aijt_o_CD AB Temuco_Estadio Palestino_15            1 
+w_aijt_o_CD AB Temuco_CD Manquehue_29            1 
+w_aijt_o_CD Achao_CD Ceppi_12            1 
+w_aijt_o_CD Liceo Curicó_Estadio Palestino_20            1 
+w_aijt_o_CD Alemán de Concepción_CD Brisas_14            1 
+w_aijt_o_CD Quilicura Basket_CD AB Temuco_19            1 
+w_aijt_o_Estadio Español_CD AB Temuco_17            1 
+w_aijt_o_Estadio Español_CD La Unión_9            1 
+w_aijt_o_Club Andino de Los Ángeles_CD Boston College_18            1 
+w_aijt_o_CD Ceppi_Estadio Palestino_16            1 
+w_aijt_o_CD Arturo Prat de San Felipe_CD Liceo Curicó_23            1 
+w_aijt_o_Stadio Italiano_Club Atlético Puerto Varas_21            1 
+w_aijt_o_Stadio Italiano_Estadio Palestino_11            1 
+w_aijt_p_Club Atlético Puerto Varas_Estadio Palestino_22            1 
+w_aijt_p_Club Atlético Puerto Varas_CD Arturo Prat de San Felipe_10            1 
+w_aijt_p_CD AB Temuco_CD Alemán de Concepción_27            1 
+w_aijt_p_CD Achao_CD AB Temuco_26            1 
+w_aijt_p_CD Boston College_Stadio Italiano_8            1 
+w_aijt_p_CD Liceo Curicó_CD Achao_13            1 
+w_aijt_p_CD Alemán de Concepción_CD La Unión_3            1 
+w_aijt_p_Estadio Español_CD Quilicura Basket_30            1 
+w_aijt_p_Estadio Español_Club Andino de Los Ángeles_7            1 
+w_aijt_p_CD Ceppi_Estadio Español_18            1 
+w_aijt_p_CD Manquehue_CD Brisas_12            1 
+w_aijt_q_Club Atlético Puerto Varas_CD Manquehue_18            1 
+w_aijt_q_CD La Unión_Club Atlético Puerto Varas_13            1 
+w_aijt_q_CD Alemán de Concepción_Club Atlético Puerto Varas_19            1 
+w_aijt_q_CD Quilicura Basket_CD Liceo Curicó_3            1 
+w_aijt_q_Club Andino de Los Ángeles_CD AB Temuco_20            1 
+w_aijt_q_CD Ceppi_CD Alemán de Concepción_2            1 
+w_aijt_q_CD Arturo Prat de San Felipe_Club Atlético Puerto Varas_25            1 
+w_aijt_q_CD Arturo Prat de San Felipe_CD Alemán de Concepción_15            1 
+w_aijt_q_CD Arturo Prat de San Felipe_CD Brisas_4            1 
+w_aijt_q_Stadio Italiano_CD Boston College_23            1 
+w_aijt_q_Stadio Italiano_CD Manquehue_9            1 
+w_aijt_q_CD Manquehue_CD Achao_1            1 
+w_aijt_q_CD Manquehue_Estadio Palestino_6            1 
+w_aijt_q_CD Manquehue_Estadio Español_10            1 
+w_aijt_q_CD Manquehue_CD Ceppi_28            1 
+w_aijt_r_CD AB Temuco_Club Atlético Puerto Varas_9            1 
+w_aijt_r_CD AB Temuco_CD La Unión_7            1 
+w_aijt_r_CD La Unión_CD Alemán de Concepción_18            1 
+w_aijt_r_CD Boston College_Estadio Español_26            1 
+w_aijt_r_CD Liceo Curicó_CD Alemán de Concepción_16            1 
+w_aijt_r_CD Quilicura Basket_CD Boston College_27            1 
+w_aijt_r_CD Quilicura Basket_Estadio Palestino_29            1 
+w_aijt_r_CD Quilicura Basket_Stadio Italiano_13            1 
+w_aijt_r_Estadio Palestino_CD La Unión_19            1 
+w_aijt_r_Estadio Palestino_CD Arturo Prat de San Felipe_17            1 
+w_aijt_r_CD Brisas_CD Achao_23            1 
+w_aijt_r_Club Andino de Los Ángeles_Estadio Palestino_8            1 
+w_aijt_r_CD Ceppi_CD La Unión_25            1 
+w_aijt_r_CD Ceppi_CD Boston College_15            1 
+w_aijt_r_CD Manquehue_Club Atlético Puerto Varas_3            1 
+z_ain_a_CD La Unión_4            5 
+z_ain_a_CD Achao_4            4 
+z_ain_a_CD Alemán de Concepción_4            1 
+z_ain_a_CD Quilicura Basket_4            3 
+z_ain_a_Estadio Palestino_4            1 
+z_ain_a_Club Andino de Los Ángeles_4            3 
+z_ain_a_CD Ceppi_4            4 
+z_ain_a_CD Arturo Prat de San Felipe_4            3 
+z_ain_b_Club Atlético Puerto Varas_4            2 
+z_ain_b_CD AB Temuco_4            4 
+z_ain_b_CD Quilicura Basket_4            1 
+z_ain_b_CD Brisas_4            4 
+z_ain_b_Club Andino de Los Ángeles_4            1 
+z_ain_b_CD Ceppi_4            2 
+z_ain_c_Club Atlético Puerto Varas_4            1 
+z_ain_c_CD Liceo Curicó_4            2 
+z_ain_c_CD Brisas_4            1 
+z_ain_c_CD Ceppi_4            1 
+z_ain_c_Stadio Italiano_4            4 
+z_ain_c_CD Manquehue_4            1 
+z_ain_d_Club Atlético Puerto Varas_4            2 
+z_ain_d_CD Boston College_4            1 
+z_ain_d_CD Liceo Curicó_4            1 
+z_ain_d_CD Quilicura Basket_4            1 
+z_ain_d_CD Ceppi_4            1 
+z_ain_d_CD Arturo Prat de San Felipe_4            1 
+z_ain_d_CD Manquehue_4            3 
+z_ain_e_CD AB Temuco_4            1 
+z_ain_e_CD Achao_4            3 
+z_ain_e_CD Boston College_4            1 
+z_ain_e_CD Liceo Curicó_4            2 
+z_ain_e_CD Alemán de Concepción_4            1 
+z_ain_e_Estadio Palestino_4            1 
+z_ain_e_CD Brisas_4            1 
+z_ain_f_CD La Unión_4            1 
+z_ain_f_CD Achao_4            1 
+z_ain_f_CD Boston College_4            1 
+z_ain_f_CD Quilicura Basket_4            2 
+z_ain_f_Club Andino de Los Ángeles_4            1 
+z_ain_f_CD Ceppi_4            1 
+z_ain_f_CD Arturo Prat de San Felipe_4            1 
+z_ain_g_CD Boston College_4            1 
+z_ain_g_CD Alemán de Concepción_4            1 
+z_ain_g_Estadio Español_4            4 
+z_ain_g_CD Brisas_4            1 
+z_ain_g_Club Andino de Los Ángeles_4            2 
+z_ain_g_Stadio Italiano_4            5 
+z_ain_h_CD AB Temuco_4            1 
+z_ain_h_CD La Unión_4            2 
+z_ain_h_CD Boston College_4            1 
+z_ain_h_Estadio Palestino_4            1 
+z_ain_h_CD Brisas_4            3 
+z_ain_i_CD Achao_4            1 
+z_ain_i_CD Liceo Curicó_4            2 
+z_ain_i_CD Quilicura Basket_4            2 
+z_ain_i_Club Andino de Los Ángeles_4            1 
+z_ain_i_CD Manquehue_4            2 
+z_ain_j_CD Achao_4            2 
+z_ain_j_CD Liceo Curicó_4            3 
+z_ain_j_Stadio Italiano_4            1 
+z_ain_k_Club Atlético Puerto Varas_4            2 
+z_ain_k_CD AB Temuco_4            1 
+z_ain_k_CD Quilicura Basket_4            1 
+z_ain_k_Estadio Palestino_4            3 
+z_ain_k_Club Andino de Los Ángeles_4            1 
+z_ain_k_CD Arturo Prat de San Felipe_4            2 
+z_ain_l_CD La Unión_4            1 
+z_ain_l_CD Boston College_4            4 
+z_ain_l_CD Alemán de Concepción_4            1 
+z_ain_l_Estadio Español_4            3 
+z_ain_l_CD Brisas_4            1 
+z_ain_l_CD Arturo Prat de San Felipe_4            2 
+z_ain_m_CD Liceo Curicó_4            1 
+z_ain_m_CD Alemán de Concepción_4            3 
+z_ain_m_CD Brisas_4            1 
+z_ain_m_Club Andino de Los Ángeles_4            1 
+z_ain_n_CD Boston College_4            1 
+z_ain_n_CD Alemán de Concepción_4            1 
+z_ain_n_Estadio Español_4            2 
+z_ain_n_Club Andino de Los Ángeles_4            2 
+z_ain_n_CD Arturo Prat de San Felipe_4            1 
+z_ain_n_CD Manquehue_4            1 
+z_ain_o_CD AB Temuco_4            3 
+z_ain_o_CD Liceo Curicó_4            1 
+z_ain_o_Estadio Palestino_4            3 
+z_ain_o_Estadio Español_4            1 
+z_ain_o_CD Ceppi_4            1 
+z_ain_o_Stadio Italiano_4            1 
+z_ain_p_Club Atlético Puerto Varas_4            1 
+z_ain_p_CD AB Temuco_4            1 
+z_ain_p_CD Achao_4            1 
+z_ain_p_CD Alemán de Concepción_4            1 
+z_ain_p_Estadio Español_4            2 
+z_ain_q_Club Atlético Puerto Varas_4            3 
+z_ain_q_CD Alemán de Concepción_4            2 
+z_ain_q_CD Ceppi_4            1 
+z_ain_q_CD Arturo Prat de San Felipe_4            2 
+z_ain_q_Stadio Italiano_4            1 
+z_ain_q_CD Manquehue_4            5 
+z_ain_r_Club Atlético Puerto Varas_4            1 
+z_ain_r_CD AB Temuco_4            1 
+z_ain_r_CD La Unión_4            3 
+z_ain_r_CD Boston College_4            2 
+z_ain_r_CD Alemán de Concepción_4            1 
+z_ain_r_CD Quilicura Basket_4            2 
+z_ain_r_Estadio Palestino_4            3 
+z_ain_r_CD Ceppi_4            1 
+Freed default Gurobi environment
+
+Gurobi 8.0.0 (win64, Python) logging started 06/08/18 17:58:28
+
+Academic license - for non-commercial use only
+Changed value of parameter MIPFocus to 3
+   Prev: 0  Min: 0  Max: 3  Default: 0
+Optimize a model with 10540 rows, 77120 columns and 379360 nonzeros
+Variable types: 0 continuous, 77120 integer (76960 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 2e+00]
+  Objective range  [1e+00, 1e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 1e+00]
+Found heuristic solution: objective 352.0000000
+Presolve removed 7440 rows and 74400 columns
+Presolve time: 0.20s
+Presolved: 3100 rows, 2720 columns, 16960 nonzeros
+Variable types: 0 continuous, 2720 integer (2560 binary)
+Presolved: 3100 rows, 2720 columns, 16960 nonzeros
+
+
+Root relaxation: objective 3.200000e+02, 1961 iterations, 0.13 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+H    0     0                     320.0000000    0.00000   100%     -    0s
+     0     0          -    0       320.00000  320.00000  0.00%     -    0s
+
+Explored 0 nodes (2253 simplex iterations) in 0.55 seconds
+Thread count was 4 (of 4 available processors)
+
+Solution count 2: 320 352 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 3.200000000000e+02, best bound 3.200000000000e+02, gap 0.0000%
+
+    Variable            X 
+-------------------------
+w_aijt_a_Club Atlético Puerto Varas_CD Arturo Prat de San Felipe_10            1 
+w_aijt_a_CD AB Temuco_CD La Unión_7            1 
+w_aijt_a_CD La Unión_Estadio Español_24            1 
+w_aijt_a_CD Achao_CD Boston College_4            1 
+w_aijt_a_CD Achao_CD Liceo Curicó_28            1 
+w_aijt_a_CD Achao_CD Alemán de Concepción_20            1 
+w_aijt_a_CD Achao_Estadio Palestino_18            1 
+w_aijt_a_CD Achao_Estadio Español_6            1 
+w_aijt_a_CD Achao_CD Brisas_8            1 
+w_aijt_a_CD Achao_Club Andino de Los Ángeles_2            1 
+w_aijt_a_CD Achao_CD Ceppi_12            1 
+w_aijt_a_CD Achao_Stadio Italiano_22            1 
+w_aijt_a_CD Achao_CD Manquehue_16            1 
+w_aijt_a_CD Boston College_Club Atlético Puerto Varas_17            1 
+w_aijt_a_CD Boston College_CD La Unión_1            1 
+w_aijt_a_CD Boston College_Club Andino de Los Ángeles_3            1 
+w_aijt_a_CD Alemán de Concepción_Club Atlético Puerto Varas_19            1 
+w_aijt_a_CD Quilicura Basket_CD Achao_25            1 
+w_aijt_a_Estadio Español_Club Atlético Puerto Varas_23            1 
+w_aijt_a_Estadio Español_CD Boston College_11            1 
+w_aijt_a_Estadio Español_CD Alemán de Concepción_13            1 
+w_aijt_a_Estadio Español_Estadio Palestino_27            1 
+w_aijt_a_Estadio Español_Stadio Italiano_29            1 
+w_aijt_a_CD Brisas_CD La Unión_21            1 
+w_aijt_a_CD Brisas_CD Boston College_9            1 
+w_aijt_a_CD Brisas_CD Ceppi_5            1 
+w_aijt_a_Club Andino de Los Ángeles_CD La Unión_30            1 
+w_aijt_a_Club Andino de Los Ángeles_CD Ceppi_26            1 
+w_aijt_a_CD Ceppi_CD Boston College_15            1 
+w_aijt_a_CD Manquehue_CD AB Temuco_14            1 
+w_aijt_b_Club Atlético Puerto Varas_Stadio Italiano_6            1 
+w_aijt_b_Club Atlético Puerto Varas_CD Manquehue_18            1 
+w_aijt_b_CD AB Temuco_CD Arturo Prat de San Felipe_21            1 
+w_aijt_b_CD La Unión_CD Achao_29            1 
+w_aijt_b_CD Boston College_Estadio Palestino_10            1 
+w_aijt_b_CD Liceo Curicó_Estadio Palestino_20            1 
+w_aijt_b_CD Liceo Curicó_CD Arturo Prat de San Felipe_8            1 
+w_aijt_b_CD Liceo Curicó_Stadio Italiano_2            1 
+w_aijt_b_CD Alemán de Concepción_Estadio Palestino_24            1 
+w_aijt_b_CD Quilicura Basket_CD Boston College_27            1 
+w_aijt_b_CD Quilicura Basket_CD Manquehue_7            1 
+w_aijt_b_Estadio Palestino_CD Ceppi_1            1 
+w_aijt_b_Estadio Palestino_CD Arturo Prat de San Felipe_17            1 
+w_aijt_b_Estadio Español_CD Quilicura Basket_30            1 
+w_aijt_b_CD Brisas_Estadio Palestino_13            1 
+w_aijt_b_Club Andino de Los Ángeles_Estadio Español_22            1 
+w_aijt_b_CD Ceppi_Stadio Italiano_4            1 
+w_aijt_b_CD Arturo Prat de San Felipe_CD Achao_9            1 
+w_aijt_b_CD Arturo Prat de San Felipe_CD Quilicura Basket_16            1 
+w_aijt_b_Stadio Italiano_CD Arturo Prat de San Felipe_3            1 
+w_aijt_b_CD Manquehue_CD Arturo Prat de San Felipe_26            1 
+w_aijt_c_Club Atlético Puerto Varas_CD Ceppi_14            1 
+w_aijt_c_CD AB Temuco_CD Achao_11            1 
+w_aijt_c_CD La Unión_CD Alemán de Concepción_18            1 
+w_aijt_c_CD Boston College_CD Quilicura Basket_12            1 
+w_aijt_c_CD Boston College_CD Brisas_24            1 
+w_aijt_c_CD Liceo Curicó_Club Atlético Puerto Varas_27            1 
+w_aijt_c_CD Liceo Curicó_CD Alemán de Concepción_16            1 
+w_aijt_c_CD Alemán de Concepción_CD Boston College_7            1 
+w_aijt_c_CD Alemán de Concepción_CD Quilicura Basket_26            1 
+w_aijt_c_CD Alemán de Concepción_CD Ceppi_17            1 
+w_aijt_c_CD Alemán de Concepción_Stadio Italiano_10            1 
+w_aijt_c_CD Alemán de Concepción_CD Manquehue_23            1 
+w_aijt_c_CD Quilicura Basket_Club Atlético Puerto Varas_5            1 
+w_aijt_c_CD Quilicura Basket_CD AB Temuco_19            1 
+w_aijt_c_Estadio Palestino_CD AB Temuco_30            1 
+w_aijt_c_Estadio Palestino_CD Alemán de Concepción_9            1 
+w_aijt_c_Estadio Palestino_CD Manquehue_21            1 
+w_aijt_c_Estadio Español_CD Ceppi_3            1 
+w_aijt_c_Club Andino de Los Ángeles_Club Atlético Puerto Varas_1            1 
+w_aijt_c_CD Ceppi_CD AB Temuco_8            1 
+w_aijt_c_CD Ceppi_CD Quilicura Basket_6            1 
+w_aijt_c_CD Arturo Prat de San Felipe_CD Alemán de Concepción_15            1 
+w_aijt_c_CD Manquehue_CD Boston College_20            1 
+w_aijt_c_CD Manquehue_CD Quilicura Basket_22            1 
+w_aijt_c_CD Manquehue_CD Ceppi_28            1 
+w_aijt_d_Club Atlético Puerto Varas_CD La Unión_28            1 
+w_aijt_d_Club Atlético Puerto Varas_CD Quilicura Basket_20            1 
+w_aijt_d_CD AB Temuco_CD Alemán de Concepción_27            1 
+w_aijt_d_CD La Unión_CD Boston College_16            1 
+w_aijt_d_CD La Unión_CD Quilicura Basket_8            1 
+w_aijt_d_CD La Unión_Club Andino de Los Ángeles_15            1 
+w_aijt_d_CD La Unión_CD Arturo Prat de San Felipe_12            1 
+w_aijt_d_CD La Unión_CD Manquehue_2            1 
+w_aijt_d_CD Achao_CD AB Temuco_26            1 
+w_aijt_d_CD Liceo Curicó_CD Achao_13            1 
+w_aijt_d_Estadio Palestino_CD Quilicura Basket_14            1 
+w_aijt_d_Estadio Español_CD AB Temuco_17            1 
+w_aijt_d_CD Brisas_CD AB Temuco_3            1 
+w_aijt_d_CD Brisas_CD Achao_23            1 
+w_aijt_d_CD Ceppi_CD La Unión_25            1 
+w_aijt_d_Stadio Italiano_CD La Unión_5            1 
+w_aijt_d_Stadio Italiano_CD Ceppi_19            1 
+w_aijt_d_CD Manquehue_Stadio Italiano_24            1 
+w_aijt_e_Club Atlético Puerto Varas_CD Alemán de Concepción_4            1 
+w_aijt_e_Club Atlético Puerto Varas_Estadio Español_8            1 
+w_aijt_e_Club Atlético Puerto Varas_Club Andino de Los Ángeles_16            1 
+w_aijt_e_CD AB Temuco_Club Atlético Puerto Varas_9            1 
+w_aijt_e_CD AB Temuco_Estadio Palestino_15            1 
+w_aijt_e_CD AB Temuco_CD Brisas_18            1 
+w_aijt_e_CD AB Temuco_CD Manquehue_29            1 
+w_aijt_e_CD La Unión_CD AB Temuco_22            1 
+w_aijt_e_CD La Unión_CD Brisas_6            1 
+w_aijt_e_CD Achao_CD La Unión_14            1 
+w_aijt_e_CD Achao_CD Quilicura Basket_10            1 
+w_aijt_e_CD Boston College_CD Ceppi_30            1 
+w_aijt_e_CD Liceo Curicó_CD La Unión_11            1 
+w_aijt_e_CD Alemán de Concepción_CD AB Temuco_12            1 
+w_aijt_e_CD Alemán de Concepción_CD Achao_5            1 
+w_aijt_e_Estadio Palestino_CD La Unión_19            1 
+w_aijt_e_CD Ceppi_CD Alemán de Concepción_2            1 
+w_aijt_e_CD Arturo Prat de San Felipe_Club Atlético Puerto Varas_25            1 
+w_aijt_e_Stadio Italiano_Club Andino de Los Ángeles_27            1 
+w_aijt_f_Club Atlético Puerto Varas_CD AB Temuco_24            1 
+w_aijt_f_Club Atlético Puerto Varas_CD Liceo Curicó_12            1 
+w_aijt_f_Club Atlético Puerto Varas_Estadio Palestino_22            1 
+w_aijt_f_CD La Unión_CD Liceo Curicó_26            1 
+w_aijt_f_CD La Unión_CD Ceppi_10            1 
+w_aijt_f_CD La Unión_Stadio Italiano_20            1 
+w_aijt_f_CD Achao_Club Atlético Puerto Varas_30            1 
+w_aijt_f_CD Boston College_CD AB Temuco_28            1 
+w_aijt_f_CD Liceo Curicó_Estadio Español_4            1 
+w_aijt_f_CD Alemán de Concepción_CD Liceo Curicó_1            1 
+w_aijt_f_CD Quilicura Basket_CD La Unión_23            1 
+w_aijt_f_CD Quilicura Basket_CD Liceo Curicó_3            1 
+w_aijt_f_CD Quilicura Basket_CD Alemán de Concepción_11            1 
+w_aijt_f_CD Quilicura Basket_Club Andino de Los Ángeles_9            1 
+w_aijt_f_CD Quilicura Basket_CD Ceppi_21            1 
+w_aijt_f_CD Quilicura Basket_Stadio Italiano_13            1 
+w_aijt_f_Estadio Español_CD Manquehue_25            1 
+w_aijt_f_CD Brisas_CD Quilicura Basket_2            1 
+w_aijt_f_CD Brisas_Estadio Español_16            1 
+w_aijt_f_CD Brisas_Stadio Italiano_15            1 
 w_aijt_f_CD Ceppi_Club Atlético Puerto Varas_29            1 
-w_aijt_f_CD Arturo Prat de San Felipe_CD Liceo Curicó_7            1 
-w_aijt_f_CD Arturo Prat de San Felipe_CD Ceppi_5            1 
-w_aijt_f_Stadio Italiano_Club Atlético Puerto Varas_15            1 
-w_aijt_f_CD Manquehue_CD La Unión_18            1 
-w_aijt_g_CD Achao_Club Atlético Puerto Varas_13            1 
-w_aijt_g_CD Boston College_CD AB Temuco_5            1 
-w_aijt_g_CD Liceo Curicó_CD Manquehue_30            1 
-w_aijt_g_CD Alemán de Concepción_Club Andino de Los Ángeles_23            1 
-w_aijt_g_CD Quilicura Basket_CD Boston College_28            1 
-w_aijt_g_Estadio Español_CD La Unión_16            1 
-w_aijt_g_CD Brisas_CD La Unión_9            1 
-w_aijt_g_CD Brisas_Estadio Palestino_21            1 
-w_aijt_g_CD Brisas_CD Arturo Prat de San Felipe_12            1 
-w_aijt_g_CD Ceppi_Stadio Italiano_7            1 
-w_aijt_h_Club Atlético Puerto Varas_Estadio Español_21            1 
-w_aijt_h_CD La Unión_CD Arturo Prat de San Felipe_28            1 
-w_aijt_h_CD Achao_CD AB Temuco_9            1 
-w_aijt_h_CD Achao_CD La Unión_27            1 
-w_aijt_h_CD Liceo Curicó_CD Alemán de Concepción_10            1 
-w_aijt_h_CD Alemán de Concepción_CD AB Temuco_11            1 
-w_aijt_h_CD Alemán de Concepción_CD Boston College_2            1 
-w_aijt_h_CD Quilicura Basket_CD Achao_1            1 
-w_aijt_h_CD Quilicura Basket_CD Ceppi_3            1 
-w_aijt_h_Estadio Palestino_CD Boston College_22            1 
-w_aijt_h_CD Brisas_CD Achao_30            1 
-w_aijt_h_Club Andino de Los Ángeles_CD Achao_26            1 
-w_aijt_h_Stadio Italiano_CD Manquehue_25            1 
-w_aijt_i_CD AB Temuco_Club Andino de Los Ángeles_15            1 
-w_aijt_i_CD La Unión_CD Alemán de Concepción_14            1 
-w_aijt_i_CD Achao_CD Alemán de Concepción_18            1 
-w_aijt_i_CD Boston College_CD Liceo Curicó_9            1 
-w_aijt_i_CD Alemán de Concepción_Estadio Español_7            1 
-w_aijt_i_CD Quilicura Basket_CD Brisas_11            1 
-w_aijt_i_Estadio Palestino_CD Alemán de Concepción_12            1 
-w_aijt_i_Estadio Español_Club Atlético Puerto Varas_6            1 
-w_aijt_i_CD Brisas_CD Manquehue_19            1 
-w_aijt_i_CD Ceppi_CD Alemán de Concepción_4            1 
-w_aijt_i_CD Ceppi_CD Arturo Prat de San Felipe_20            1 
-w_aijt_i_Stadio Italiano_CD Ceppi_22            1 
-w_aijt_i_CD Manquehue_Stadio Italiano_10            1 
-w_aijt_j_Club Atlético Puerto Varas_Club Andino de Los Ángeles_19            1 
-w_aijt_j_CD AB Temuco_CD Achao_24            1 
-w_aijt_j_CD La Unión_CD Manquehue_3            1 
-w_aijt_j_CD Achao_CD Manquehue_7            1 
-w_aijt_j_CD Boston College_CD Arturo Prat de San Felipe_15            1 
-w_aijt_j_CD Liceo Curicó_CD Brisas_8            1 
-w_aijt_j_CD Quilicura Basket_Estadio Español_17            1 
-w_aijt_j_CD Ceppi_Estadio Palestino_11            1 
-w_aijt_j_CD Arturo Prat de San Felipe_CD Alemán de Concepción_1            1 
-w_aijt_j_Stadio Italiano_CD Quilicura Basket_4            1 
-w_aijt_j_CD Manquehue_CD Achao_22            1 
-w_aijt_j_CD Manquehue_CD Ceppi_12            1 
-w_aijt_k_Club Atlético Puerto Varas_CD Liceo Curicó_3            1 
-w_aijt_k_CD AB Temuco_CD Boston College_20            1 
-w_aijt_k_CD Achao_CD Brisas_15            1 
-w_aijt_k_CD Boston College_CD Alemán de Concepción_17            1 
-w_aijt_k_CD Boston College_CD Brisas_29            1 
-w_aijt_k_CD Alemán de Concepción_Stadio Italiano_5            1 
-w_aijt_k_CD Quilicura Basket_CD La Unión_25            1 
-w_aijt_k_Estadio Palestino_Club Andino de Los Ángeles_1            1 
-w_aijt_k_Estadio Español_CD Quilicura Basket_2            1 
-w_aijt_k_Club Andino de Los Ángeles_CD Boston College_10            1 
-w_aijt_k_Club Andino de Los Ángeles_CD Quilicura Basket_22            1 
-w_aijt_k_Club Andino de Los Ángeles_Estadio Español_28            1 
-w_aijt_k_CD Ceppi_Club Andino de Los Ángeles_9            1 
-w_aijt_k_CD Arturo Prat de San Felipe_Club Atlético Puerto Varas_11            1 
-w_aijt_k_CD Manquehue_CD Alemán de Concepción_6            1 
-w_aijt_l_CD AB Temuco_CD Ceppi_10            1 
-w_aijt_l_CD Achao_Estadio Palestino_29            1 
-w_aijt_l_CD Achao_Club Andino de Los Ángeles_11            1 
-w_aijt_l_CD Achao_CD Arturo Prat de San Felipe_2            1 
-w_aijt_l_CD Liceo Curicó_CD La Unión_6            1 
-w_aijt_l_CD Liceo Curicó_CD Boston College_24            1 
-w_aijt_l_CD Liceo Curicó_CD Arturo Prat de San Felipe_22            1 
-w_aijt_l_CD Alemán de Concepción_CD Arturo Prat de San Felipe_16            1 
-w_aijt_l_CD Quilicura Basket_Stadio Italiano_19            1 
-w_aijt_l_CD Brisas_Club Atlético Puerto Varas_25            1 
-w_aijt_l_Stadio Italiano_CD Alemán de Concepción_20            1 
-w_aijt_l_Stadio Italiano_Estadio Español_9            1 
-w_aijt_l_CD Manquehue_CD AB Temuco_13            1 
-w_aijt_m_Club Atlético Puerto Varas_CD La Unión_22            1 
-w_aijt_m_CD AB Temuco_Estadio Palestino_18            1 
-w_aijt_m_CD La Unión_CD Achao_12            1 
-w_aijt_m_CD La Unión_CD Boston College_26            1 
-w_aijt_m_CD La Unión_CD Brisas_24            1 
-w_aijt_m_CD La Unión_CD Ceppi_30            1 
-w_aijt_m_CD Boston College_CD Manquehue_23            1 
-w_aijt_m_CD Liceo Curicó_Club Andino de Los Ángeles_17            1 
-w_aijt_m_CD Alemán de Concepción_CD Quilicura Basket_15            1 
-w_aijt_m_Estadio Español_CD Manquehue_11            1 
-w_aijt_m_CD Brisas_Stadio Italiano_1            1 
-w_aijt_m_CD Arturo Prat de San Felipe_Estadio Español_19            1 
-w_aijt_n_CD AB Temuco_Stadio Italiano_14            1 
-w_aijt_n_CD Achao_CD Boston College_4            1 
-w_aijt_n_CD Liceo Curicó_Stadio Italiano_26            1 
-w_aijt_n_CD Quilicura Basket_Club Atlético Puerto Varas_23            1 
-w_aijt_n_Estadio Palestino_Stadio Italiano_28            1 
-w_aijt_n_Estadio Español_Estadio Palestino_15            1 
-w_aijt_n_Club Andino de Los Ángeles_CD Alemán de Concepción_8            1 
-w_aijt_n_CD Ceppi_CD Quilicura Basket_18            1 
-w_aijt_n_CD Arturo Prat de San Felipe_CD Brisas_27            1 
-w_aijt_n_CD Arturo Prat de San Felipe_Stadio Italiano_3            1 
-w_aijt_n_Stadio Italiano_CD La Unión_2            1 
-w_aijt_n_CD Manquehue_CD Arturo Prat de San Felipe_24            1 
-w_aijt_o_Club Atlético Puerto Varas_CD Arturo Prat de San Felipe_26            1 
-w_aijt_o_CD La Unión_CD Liceo Curicó_21            1 
-w_aijt_o_CD La Unión_Estadio Español_1            1 
-w_aijt_o_CD Boston College_CD Achao_19            1 
-w_aijt_o_CD Alemán de Concepción_CD La Unión_29            1 
-w_aijt_o_CD Alemán de Concepción_CD Liceo Curicó_25            1 
-w_aijt_o_CD Quilicura Basket_CD Liceo Curicó_27            1 
-w_aijt_o_CD Quilicura Basket_Estadio Palestino_9            1 
-w_aijt_o_CD Quilicura Basket_CD Manquehue_5            1 
-w_aijt_o_Estadio Español_Stadio Italiano_24            1 
-w_aijt_o_CD Brisas_CD AB Temuco_7            1 
-w_aijt_o_Club Andino de Los Ángeles_CD AB Temuco_30            1 
-w_aijt_o_CD Ceppi_CD Liceo Curicó_13            1 
-w_aijt_o_CD Manquehue_CD Liceo Curicó_15            1 
-w_aijt_p_Club Atlético Puerto Varas_Estadio Palestino_5            1 
-w_aijt_p_Club Atlético Puerto Varas_Stadio Italiano_30            1 
-w_aijt_p_CD La Unión_CD AB Temuco_19            1 
-w_aijt_p_CD La Unión_Estadio Palestino_23            1 
-w_aijt_p_CD Achao_Estadio Español_25            1 
-w_aijt_p_CD Boston College_CD La Unión_11            1 
-w_aijt_p_CD Liceo Curicó_Club Atlético Puerto Varas_18            1 
-w_aijt_p_CD Alemán de Concepción_CD Achao_3            1 
-w_aijt_p_Estadio Palestino_Club Atlético Puerto Varas_20            1 
-w_aijt_p_Estadio Palestino_CD Manquehue_17            1 
-w_aijt_p_CD Brisas_CD Quilicura Basket_26            1 
-w_aijt_p_Club Andino de Los Ángeles_Estadio Palestino_16            1 
-w_aijt_p_CD Ceppi_CD La Unión_15            1 
-w_aijt_p_CD Arturo Prat de San Felipe_CD La Unión_13            1 
-w_aijt_q_Club Atlético Puerto Varas_CD Quilicura Basket_8            1 
-w_aijt_q_CD La Unión_Club Andino de Los Ángeles_5            1 
-w_aijt_q_CD Liceo Curicó_CD AB Temuco_1            1 
-w_aijt_q_CD Liceo Curicó_CD Quilicura Basket_12            1 
-w_aijt_q_CD Alemán de Concepción_CD Manquehue_21            1 
-w_aijt_q_Estadio Palestino_CD Achao_14            1 
-w_aijt_q_Estadio Español_CD AB Temuco_27            1 
-w_aijt_q_CD Brisas_CD Alemán de Concepción_28            1 
-w_aijt_q_CD Ceppi_CD Boston College_16            1 
-w_aijt_q_CD Arturo Prat de San Felipe_CD Achao_17            1 
-w_aijt_q_Stadio Italiano_Estadio Palestino_13            1 
-w_aijt_r_Club Atlético Puerto Varas_CD Boston College_12            1 
-w_aijt_r_CD AB Temuco_CD Arturo Prat de San Felipe_8            1 
-w_aijt_r_CD La Unión_Stadio Italiano_17            1 
-w_aijt_r_CD Boston College_Estadio Palestino_7            1 
-w_aijt_r_CD Liceo Curicó_CD Achao_20            1 
-w_aijt_r_CD Quilicura Basket_CD AB Temuco_21            1 
-w_aijt_r_CD Quilicura Basket_CD Arturo Prat de San Felipe_14            1 
-w_aijt_r_Estadio Palestino_CD AB Temuco_3            1 
-w_aijt_r_Estadio Palestino_CD Quilicura Basket_24            1 
-w_aijt_r_Estadio Palestino_CD Ceppi_26            1 
-w_aijt_r_Estadio Palestino_CD Arturo Prat de San Felipe_10            1 
-w_aijt_r_Estadio Español_CD Alemán de Concepción_22            1 
-w_aijt_r_CD Arturo Prat de San Felipe_CD Boston College_30            1 
-w_aijt_r_CD Arturo Prat de San Felipe_CD Quilicura Basket_29            1 
-w_aijt_r_CD Arturo Prat de San Felipe_Estadio Palestino_25            1 
-w_aijt_r_Stadio Italiano_CD Boston College_6            1 
-w_aijt_r_Stadio Italiano_CD Brisas_16            1 
-w_aijt_r_Stadio Italiano_Club Andino de Los Ángeles_27            1 
-w_aijt_r_Stadio Italiano_CD Arturo Prat de San Felipe_18            1 
-w_aijt_r_CD Manquehue_CD Brisas_4            1 
+w_aijt_f_CD Ceppi_Estadio Español_18            1 
+w_aijt_f_CD Arturo Prat de San Felipe_CD Ceppi_7            1 
+w_aijt_f_Stadio Italiano_CD Liceo Curicó_17            1 
+w_aijt_g_CD AB Temuco_CD Liceo Curicó_25            1 
+w_aijt_g_CD AB Temuco_Estadio Español_2            1 
+w_aijt_g_CD AB Temuco_Stadio Italiano_16            1 
+w_aijt_g_CD Boston College_CD Alemán de Concepción_22            1 
+w_aijt_g_CD Boston College_Estadio Español_26            1 
+w_aijt_g_CD Boston College_CD Manquehue_5            1 
+w_aijt_g_CD Liceo Curicó_CD Boston College_6            1 
+w_aijt_g_CD Liceo Curicó_CD Quilicura Basket_18            1 
+w_aijt_g_CD Liceo Curicó_CD Manquehue_15            1 
+w_aijt_g_CD Alemán de Concepción_Estadio Español_28            1 
+w_aijt_g_CD Alemán de Concepción_Club Andino de Los Ángeles_21            1 
+w_aijt_g_CD Alemán de Concepción_CD Arturo Prat de San Felipe_30            1 
+w_aijt_g_Estadio Palestino_Club Andino de Los Ángeles_23            1 
+w_aijt_g_Estadio Español_CD La Unión_9            1 
+w_aijt_g_Estadio Español_CD Liceo Curicó_19            1 
+w_aijt_g_Estadio Español_CD Brisas_1            1 
+w_aijt_g_Estadio Español_Club Andino de Los Ángeles_7            1 
+w_aijt_g_CD Brisas_CD Alemán de Concepción_29            1 
+w_aijt_g_CD Brisas_CD Manquehue_27            1 
+w_aijt_g_Club Andino de Los Ángeles_CD AB Temuco_20            1 
+w_aijt_g_Club Andino de Los Ángeles_CD Achao_17            1 
+w_aijt_g_Club Andino de Los Ángeles_CD Manquehue_4            1 
+w_aijt_g_CD Ceppi_CD Manquehue_13            1 
+w_aijt_g_Stadio Italiano_Estadio Palestino_11            1 
+w_aijt_g_Stadio Italiano_Estadio Español_14            1 
+w_aijt_g_CD Manquehue_Club Atlético Puerto Varas_3            1 
+w_aijt_g_CD Manquehue_CD Alemán de Concepción_8            1 
+w_aijt_g_CD Manquehue_Estadio Español_10            1 
+w_aijt_h_Club Atlético Puerto Varas_CD Boston College_2            1 
+w_aijt_h_CD AB Temuco_CD Boston College_13            1 
+w_aijt_h_CD AB Temuco_CD Ceppi_23            1 
+w_aijt_h_CD La Unión_Estadio Palestino_4            1 
+w_aijt_h_CD Boston College_CD Liceo Curicó_21            1 
+w_aijt_h_CD Boston College_Stadio Italiano_8            1 
+w_aijt_h_CD Liceo Curicó_CD AB Temuco_10            1 
+w_aijt_h_CD Liceo Curicó_CD Ceppi_24            1 
+w_aijt_h_CD Quilicura Basket_CD Arturo Prat de San Felipe_1            1 
+w_aijt_h_Estadio Palestino_Stadio Italiano_26            1 
+w_aijt_h_Estadio Español_CD Arturo Prat de San Felipe_5            1 
+w_aijt_h_CD Brisas_CD Arturo Prat de San Felipe_19            1 
+w_aijt_h_Club Andino de Los Ángeles_CD Boston College_18            1 
+w_aijt_h_Club Andino de Los Ángeles_CD Liceo Curicó_14            1 
+w_aijt_h_Club Andino de Los Ángeles_CD Alemán de Concepción_6            1 
+w_aijt_h_Club Andino de Los Ángeles_CD Arturo Prat de San Felipe_28            1 
+w_aijt_h_CD Ceppi_Estadio Palestino_16            1 
+w_aijt_h_CD Ceppi_Club Andino de Los Ángeles_11            1 
+w_aijt_h_CD Arturo Prat de San Felipe_CD Boston College_29            1 
+w_aijt_h_Stadio Italiano_CD Achao_7            1 
+w_aijt_h_Stadio Italiano_CD Alemán de Concepción_25            1 
+w_aijt_h_Stadio Italiano_CD Brisas_30            1 
+w_aijt_h_CD Manquehue_CD Brisas_12            1 
+w_aijt_i_Club Atlético Puerto Varas_CD Achao_15            1 
+w_aijt_i_CD AB Temuco_CD Quilicura Basket_4            1 
+w_aijt_i_CD La Unión_Club Atlético Puerto Varas_13            1 
+w_aijt_i_CD Achao_CD Arturo Prat de San Felipe_24            1 
+w_aijt_i_CD Boston College_CD Achao_19            1 
+w_aijt_i_CD Liceo Curicó_CD Brisas_22            1 
+w_aijt_i_CD Alemán de Concepción_CD Brisas_14            1 
+w_aijt_i_CD Quilicura Basket_Estadio Palestino_29            1 
+w_aijt_i_CD Quilicura Basket_CD Brisas_17            1 
+w_aijt_i_Estadio Palestino_Club Atlético Puerto Varas_7            1 
+w_aijt_i_Estadio Palestino_CD Achao_3            1 
+w_aijt_i_Estadio Palestino_CD Boston College_25            1 
+w_aijt_i_Estadio Palestino_CD Liceo Curicó_5            1 
+w_aijt_i_Estadio Palestino_Estadio Español_12            1 
+w_aijt_i_Estadio Palestino_CD Brisas_28            1 
+w_aijt_i_CD Brisas_Club Atlético Puerto Varas_11            1 
+w_aijt_i_Club Andino de Los Ángeles_CD Brisas_10            1 
+w_aijt_i_CD Ceppi_CD Achao_27            1 
+w_aijt_i_CD Ceppi_CD Liceo Curicó_9            1 
+w_aijt_i_CD Ceppi_CD Brisas_20            1 
+w_aijt_i_CD Arturo Prat de San Felipe_CD Liceo Curicó_23            1 
+w_aijt_i_Stadio Italiano_Club Atlético Puerto Varas_21            1 
+w_aijt_i_CD Manquehue_CD Achao_1            1 
+w_aijt_i_CD Manquehue_Estadio Palestino_6            1 
+w_aijt_j_Club Atlético Puerto Varas_CD Brisas_26            1 
+w_aijt_j_CD AB Temuco_Club Andino de Los Ángeles_5            1 
+w_aijt_j_CD Boston College_CD Arturo Prat de San Felipe_14            1 
+w_aijt_j_CD Liceo Curicó_Club Andino de Los Ángeles_29            1 
+w_aijt_j_CD Alemán de Concepción_CD La Unión_3            1 
+w_aijt_j_CD Quilicura Basket_Estadio Español_15            1 
+w_aijt_j_Estadio Español_CD Achao_21            1 
+w_aijt_j_CD Brisas_CD Liceo Curicó_7            1 
+w_aijt_j_CD Brisas_Club Andino de Los Ángeles_25            1 
+w_aijt_j_Club Andino de Los Ángeles_CD Quilicura Basket_24            1 
+w_aijt_j_Club Andino de Los Ángeles_Estadio Palestino_8            1 
+w_aijt_j_Club Andino de Los Ángeles_Stadio Italiano_12            1 
+w_aijt_j_CD Ceppi_CD Arturo Prat de San Felipe_22            1 
+w_aijt_j_CD Arturo Prat de San Felipe_CD AB Temuco_6            1 
+w_aijt_j_CD Arturo Prat de San Felipe_CD La Unión_27            1 
+w_aijt_j_CD Arturo Prat de San Felipe_Estadio Palestino_2            1 
+w_aijt_j_CD Arturo Prat de San Felipe_Estadio Español_20            1 
+w_aijt_j_CD Arturo Prat de San Felipe_CD Brisas_4            1 
+w_aijt_j_CD Arturo Prat de San Felipe_Club Andino de Los Ángeles_13            1 
+w_aijt_j_CD Arturo Prat de San Felipe_Stadio Italiano_18            1 
+w_aijt_j_CD Arturo Prat de San Felipe_CD Manquehue_11            1 
+w_aijt_j_Stadio Italiano_CD AB Temuco_1            1 
+w_aijt_j_Stadio Italiano_CD Boston College_23            1 
+w_aijt_j_Stadio Italiano_CD Quilicura Basket_28            1 
+w_aijt_j_Stadio Italiano_CD Manquehue_9            1 
+w_aijt_j_CD Manquehue_CD La Unión_17            1 
+w_aijt_j_CD Manquehue_CD Liceo Curicó_30            1 
+w_aijt_j_CD Manquehue_Club Andino de Los Ángeles_19            1 
 z_ain_a_Club Atlético Puerto Varas_4            3 
-z_ain_a_CD AB Temuco_4            4 
-z_ain_a_Estadio Español_4            4 
-z_ain_a_CD Brisas_4            5 
-z_ain_a_Club Andino de Los Ángeles_4            5 
+z_ain_a_CD AB Temuco_4            1 
+z_ain_a_CD La Unión_4            4 
+z_ain_a_CD Achao_4           10 
+z_ain_a_CD Boston College_4            6 
+z_ain_a_CD Alemán de Concepción_4            2 
+z_ain_a_Estadio Palestino_4            1 
+z_ain_a_Estadio Español_4            6 
+z_ain_a_CD Brisas_4            3 
+z_ain_a_Club Andino de Los Ángeles_4            3 
 z_ain_a_CD Ceppi_4            3 
 z_ain_a_Stadio Italiano_4            1 
-z_ain_a_CD Manquehue_4            5 
-z_ain_b_CD Achao_4            2 
-z_ain_b_CD Boston College_4            3 
-z_ain_b_Estadio Palestino_4            1 
-z_ain_b_Estadio Español_4            2 
-z_ain_c_CD Alemán de Concepción_4            1 
-z_ain_c_Estadio Español_4            1 
-z_ain_d_CD AB Temuco_4            1 
-z_ain_d_CD Liceo Curicó_4            1 
-z_ain_d_Estadio Español_4            1 
+z_ain_a_CD Manquehue_4            1 
+z_ain_b_Club Atlético Puerto Varas_4            1 
+z_ain_b_CD Achao_4            1 
+z_ain_b_CD Boston College_4            1 
+z_ain_b_CD Liceo Curicó_4            2 
+z_ain_b_CD Quilicura Basket_4            3 
+z_ain_b_Estadio Palestino_4            5 
+z_ain_b_Estadio Español_4            1 
+z_ain_b_CD Ceppi_4            1 
+z_ain_b_CD Arturo Prat de San Felipe_4            6 
+z_ain_b_Stadio Italiano_4            3 
+z_ain_b_CD Manquehue_4            2 
+z_ain_c_Club Atlético Puerto Varas_4            3 
+z_ain_c_CD AB Temuco_4            3 
+z_ain_c_CD Boston College_4            3 
+z_ain_c_CD Liceo Curicó_4            1 
+z_ain_c_CD Alemán de Concepción_4            8 
+z_ain_c_CD Quilicura Basket_4            5 
+z_ain_c_Estadio Palestino_4            2 
+z_ain_c_CD Ceppi_4            5 
+z_ain_c_CD Manquehue_4            4 
+z_ain_d_Club Atlético Puerto Varas_4            1 
+z_ain_d_CD AB Temuco_4            3 
+z_ain_d_CD La Unión_4            7 
+z_ain_d_CD Achao_4            2 
+z_ain_d_CD Quilicura Basket_4            2 
+z_ain_d_CD Brisas_4            1 
+z_ain_d_CD Ceppi_4            1 
+z_ain_d_Stadio Italiano_4            2 
 z_ain_d_CD Manquehue_4            1 
-z_ain_e_CD AB Temuco_4            1 
-z_ain_e_CD Liceo Curicó_4            1 
-z_ain_e_CD Quilicura Basket_4            1 
-z_ain_e_Club Andino de Los Ángeles_4            3 
-z_ain_f_Club Atlético Puerto Varas_4            5 
-z_ain_f_CD Liceo Curicó_4            3 
-z_ain_f_CD Brisas_4            1 
-z_ain_f_CD Ceppi_4            6 
-z_ain_f_CD Arturo Prat de San Felipe_4            1 
-z_ain_g_CD La Unión_4            1 
-z_ain_g_CD Boston College_4            1 
+z_ain_e_Club Atlético Puerto Varas_4            4 
+z_ain_e_CD AB Temuco_4            5 
+z_ain_e_CD La Unión_4            4 
+z_ain_e_CD Achao_4            2 
+z_ain_e_CD Alemán de Concepción_4            3 
+z_ain_e_Estadio Palestino_4            1 
+z_ain_e_CD Brisas_4            1 
+z_ain_e_Club Andino de Los Ángeles_4            1 
+z_ain_e_CD Ceppi_4            1 
+z_ain_f_Club Atlético Puerto Varas_4            4 
+z_ain_f_CD AB Temuco_4            1 
+z_ain_f_CD La Unión_4            3 
+z_ain_f_CD Liceo Curicó_4            5 
+z_ain_f_CD Alemán de Concepción_4            1 
+z_ain_f_CD Quilicura Basket_4            6 
+z_ain_f_Estadio Español_4            3 
+z_ain_f_CD Brisas_4            2 
+z_ain_f_CD Ceppi_4            4 
+z_ain_f_Stadio Italiano_4            3 
+z_ain_g_CD AB Temuco_4            3 
+z_ain_g_CD Boston College_4            3 
+z_ain_g_CD Liceo Curicó_4            4 
+z_ain_g_CD Alemán de Concepción_4            5 
+z_ain_g_Estadio Palestino_4            1 
+z_ain_g_Estadio Español_4            8 
 z_ain_g_CD Brisas_4            2 
-z_ain_h_CD AB Temuco_4            1 
-z_ain_h_CD La Unión_4            1 
-z_ain_h_CD Achao_4            4 
-z_ain_h_CD Boston College_4            1 
-z_ain_h_CD Alemán de Concepción_4            2 
-z_ain_h_CD Quilicura Basket_4            1 
-z_ain_i_CD Alemán de Concepción_4            4 
-z_ain_i_Estadio Español_4            1 
-z_ain_i_CD Brisas_4            1 
+z_ain_g_Club Andino de Los Ángeles_4            5 
+z_ain_g_Stadio Italiano_4            2 
+z_ain_g_CD Manquehue_4            7 
+z_ain_h_CD AB Temuco_4            2 
+z_ain_h_CD Boston College_4            5 
+z_ain_h_CD Liceo Curicó_4            3 
+z_ain_h_CD Alemán de Concepción_4            1 
+z_ain_h_Estadio Palestino_4            2 
+z_ain_h_CD Brisas_4            2 
+z_ain_h_Club Andino de Los Ángeles_4            4 
+z_ain_h_CD Ceppi_4            3 
+z_ain_h_CD Arturo Prat de San Felipe_4            4 
+z_ain_h_Stadio Italiano_4            4 
+z_ain_i_Club Atlético Puerto Varas_4            4 
+z_ain_i_CD Achao_4            5 
+z_ain_i_CD Boston College_4            1 
+z_ain_i_CD Liceo Curicó_4            3 
+z_ain_i_CD Quilicura Basket_4            2 
+z_ain_i_Estadio Palestino_4            7 
+z_ain_i_CD Brisas_4            6 
 z_ain_i_CD Ceppi_4            2 
-z_ain_i_Stadio Italiano_4            1 
+z_ain_i_CD Arturo Prat de San Felipe_4            1 
 z_ain_i_CD Manquehue_4            1 
-z_ain_j_CD Achao_4            2 
-z_ain_j_CD Quilicura Basket_4            1 
-z_ain_j_CD Ceppi_4            1 
-z_ain_j_CD Arturo Prat de San Felipe_4            1 
-z_ain_j_CD Manquehue_4            3 
-z_ain_k_Club Atlético Puerto Varas_4            1 
-z_ain_k_CD Boston College_4            3 
-z_ain_k_CD Alemán de Concepción_4            2 
-z_ain_k_CD Quilicura Basket_4            2 
-z_ain_k_Estadio Español_4            1 
-z_ain_k_CD Brisas_4            1 
-z_ain_k_Club Andino de Los Ángeles_4            4 
-z_ain_l_CD AB Temuco_4            1 
-z_ain_l_CD Achao_4            2 
-z_ain_l_CD Liceo Curicó_4            2 
-z_ain_l_CD Alemán de Concepción_4            1 
-z_ain_l_CD Arturo Prat de San Felipe_4            2 
-z_ain_l_Stadio Italiano_4            2 
-z_ain_m_CD La Unión_4            4 
-z_ain_m_CD Boston College_4            1 
-z_ain_m_Estadio Español_4            1 
-z_ain_m_CD Brisas_4            1 
-z_ain_m_CD Manquehue_4            1 
-z_ain_n_CD Quilicura Basket_4            1 
-z_ain_n_Estadio Palestino_4            1 
-z_ain_n_CD Arturo Prat de San Felipe_4            2 
-z_ain_n_Stadio Italiano_4            4 
-z_ain_o_CD AB Temuco_4            1 
-z_ain_o_CD La Unión_4            2 
-z_ain_o_CD Liceo Curicó_4            4 
-z_ain_o_CD Alemán de Concepción_4            1 
-z_ain_o_CD Quilicura Basket_4            2 
-z_ain_o_Estadio Español_4            1 
-z_ain_o_CD Manquehue_4            1 
-z_ain_p_Club Atlético Puerto Varas_4            3 
-z_ain_p_CD La Unión_4            4 
-z_ain_p_CD Achao_4            1 
-z_ain_p_Estadio Palestino_4            4 
-z_ain_q_CD AB Temuco_4            1 
-z_ain_q_CD Achao_4            1 
-z_ain_q_CD Liceo Curicó_4            1 
-z_ain_q_CD Alemán de Concepción_4            1 
-z_ain_q_CD Quilicura Basket_4            1 
-z_ain_q_Estadio Palestino_4            1 
-z_ain_r_CD AB Temuco_4            2 
-z_ain_r_CD Boston College_4            3 
-z_ain_r_CD Quilicura Basket_4            3 
-z_ain_r_Estadio Palestino_4            5 
-z_ain_r_CD Brisas_4            1 
-z_ain_r_CD Arturo Prat de San Felipe_4            6 
-z_ain_r_Stadio Italiano_4            4 
+z_ain_j_CD AB Temuco_4            2 
+z_ain_j_CD La Unión_4            2 
+z_ain_j_CD Boston College_4            1 
+z_ain_j_CD Liceo Curicó_4            2 
+z_ain_j_CD Quilicura Basket_4            2 
+z_ain_j_Estadio Palestino_4            1 
+z_ain_j_Estadio Español_4            2 
+z_ain_j_CD Brisas_4            3 
+z_ain_j_Club Andino de Los Ángeles_4            7 
+z_ain_j_CD Arturo Prat de San Felipe_4            9 
+z_ain_j_Stadio Italiano_4            5 
+z_ain_j_CD Manquehue_4            4 
 Freed default Gurobi environment

@@ -9,7 +9,7 @@ equipos_cb = ["CD Brisas", "Club Andino de Los Ángeles", "CD Ceppi", "CD Arturo
 equipos_s = ["Club Atlético Puerto Varas", "CD AB Temuco", "CD La Unión", "CD Achao"]
 equipos = equipos_s + equipos_ca +equipos_cb
 # Árbitros: Se puede variar (deben ser al menos card(equipos)//2)
-arbitros = "a b c d e f g h i j k l m n o p q r".split()
+arbitros = "a b c d e f g h i j".split()
 fechas = list(range(1,31))      # Son 30 fechas
 N = [3,4] # Se utiliza para las consideraciones 3 y 4 más abajo
 
@@ -80,12 +80,14 @@ objetivo = quicksum(peso_n[n]*z_ain[a,i,n] for a in arbitros for i in equipos fo
 modelo.setObjective(objetivo,GRB.MINIMIZE)
 
 # --------------------------------------- RESTRICCIONES ----------------------------------------------------
+# A cada restricción se le puso nombre para poder imprimir los slacks
+
 # R1 (Un árbitro dirige a lo más 1 partido para cada fecha y solo si está disponible para dicha fecha)
 
 for arb in arbitros:
     for fecha in fechas:
         modelo.addConstr(quicksum(w_aijt[arb,local,visita,fecha] for local in equipos for visita in equipos) <=
-        disponible[arb,fecha])
+        disponible[arb,fecha], name="R1_{}_{}".format(arb, fecha))
 
 # R2 (Por cada partido debe haber un árbitro y sólo se asigna un árbitro si el partido existe)
 
@@ -93,20 +95,22 @@ for i in equipos:
     for j in equipos:
         for t in fechas:
             if [i,j,t] in jugados:
-                modelo.addConstr(quicksum(w_aijt[a,i,j,t] for a in arbitros) == partidos[i,j,t])
+                modelo.addConstr(quicksum(w_aijt[a,i,j,t] for a in arbitros) == partidos[i,j,t], name="R2_{}_{}_{}".format(i, j, t))
             else:
-                modelo.addConstr(quicksum(w_aijt[a,i,j,t] for a in arbitros) == 0)
+                modelo.addConstr(quicksum(w_aijt[a,i,j,t] for a in arbitros) == 0, name="R2_{}_{}_{}".format(i, j, t))
 
 # R3 (Representa el incumplimiento de la consideración 3)
 
 for a in arbitros:
     for i in partidos:
-        modelo.addConstr(w_aijt[a, i[0], i[1], i[2]] + quicksum(w_aijt[a, i[1], i[0], t] for t in fechas) - 1 <= z_ain[a, i[0], 3])
+        modelo.addConstr(w_aijt[a, i[0], i[1], i[2]] + quicksum(w_aijt[a, i[1], i[0], t] for t in fechas) - 1 <= z_ain[a, i[0], 3],
+                         name="R3_{}_{}".format(a, i))
 
 # R4 (Representa el incumplimiento de la consideración 4)
 for a in arbitros:
     for i in equipos:
-        modelo.addConstr(quicksum(w_aijt[a,i,j,t] + w_aijt[a,j,i,t] for j in equipos for t in fechas) - 1 <=z_ain[a,i,4])
+        modelo.addConstr(quicksum(w_aijt[a,i,j,t] + w_aijt[a,j,i,t] for j in equipos for t in fechas) - 1 <=z_ain[a,i,4],
+                         name="R4_{}_{}".format(a, i))
 
 #---------------- Optimizar ------------------------------------------------------------------------
 modelo.Params.MIPFocus = 3
@@ -138,3 +142,14 @@ for u in torneoS:
 data = {'Fechas': tex, 'Local': iex, 'Visita': jex, 'Árbitro': aex}
 output = pd.DataFrame(data)
 output.to_csv("Partidos.csv",encoding='utf-8-sig')
+
+#--------------- Slacks -------------------------------------------#
+slack0 = open("P2 - R Activas.txt",'w', encoding="utf-8")
+slack1 = open("P2 - R Inactivas.txt",'w', encoding="utf-8")
+for const in modelo.getConstrs():
+    if const.getAttr("slack") == 0.0:
+        slack0.write(str(const.getAttr("ConstrName")) + ", Holgura:" + str(const.getAttr("slack")) + "\n")
+    else:
+        slack1.write(str(const.getAttr("ConstrName")) + ", Holgura:" + str(const.getAttr("slack")) + "\n")
+slack0.close()
+slack1.close()

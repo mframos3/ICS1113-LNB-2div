@@ -61,15 +61,17 @@ modelo.setObjective(objetivo,GRB.MINIMIZE)
 for local in equipos:
         if local != visita:
             for fecha in fechas:
-                modelo.addConstr(quicksum((partido_ijt[local,visita,fecha] + partido_ijt[visita,local,fecha]) for visita in equipos) == 1)
+                modelo.addConstr(quicksum((partido_ijt[local,visita,fecha] + partido_ijt[visita,local,fecha]) for visita in equipos) == 1,
+                                 name="R1_{}_{}".format(local, fecha))
 
 # R2 (Los equipos no pueden jugar contra sí mismos)
 
-modelo.addConstr(quicksum(partido_ijt[local,local,fecha] for local in equipos for fecha in fechas) == 0)
+modelo.addConstr(quicksum(partido_ijt[local,local,fecha] for local in equipos for fecha in fechas) == 0, name= "R2")
 
 # R3 (Cada equipo i  debe jugar solo 1 vez en la primera ronda contra j)
 for par in partidos:
-    modelo.addConstr(quicksum(partido_ijt[par[0],par[1],t] + partido_ijt[par[1],par[0],t] for t in fechas) == 1)
+    modelo.addConstr(quicksum(partido_ijt[par[0],par[1],t] + partido_ijt[par[1],par[0],t] for t in fechas) == 1,
+                     name="R3_{}_{}".format(par[0], par[1]))
 
 # ---------------- HEURÍSTICAS -----------------------------------------------------------------------------------
 """
@@ -85,13 +87,13 @@ agilizaban la búsqueda del óptimo entero
 """
 # Se le da un partido inicial al modelo
 
-modelo.addConstr(partido_ijt[equipos[0],equipos[1],1] == 1)
+modelo.addConstr(partido_ijt[equipos[0],equipos[1],1] == 1, name= "RH")
 
 # Se obliga a que el primer equipo y el penúltimo alternen entre local y vista por cada fecha
 for t in fechas:
-        modelo.addConstr(quicksum(partido_ijt[equipos[0], j, t] for j in equipos) == juega_i[equipos[0], t])
-        modelo.addConstr(quicksum(partido_ijt[j, equipos[len(equipos) // 2], t] for j in equipos) >= 1 - juega_i[equipos[0], t])
-modelo.addConstr(quicksum(partido_ijt[j, equipos[-2], t] for j in equipos) == juega_i[equipos[0], t])
+        modelo.addConstr(quicksum(partido_ijt[equipos[0], j, t] for j in equipos) == juega_i[equipos[0], t], name= "RH")
+        modelo.addConstr(quicksum(partido_ijt[j, equipos[len(equipos) // 2], t] for j in equipos) >= 1 - juega_i[equipos[0], t], name= "RH")
+modelo.addConstr(quicksum(partido_ijt[j, equipos[-2], t] for j in equipos) == juega_i[equipos[0], t], name= "RH")
 
 # ---------------- RESTRICCIONES CONSIDERACIONES -----------------------------------------------------------------------------------
 
@@ -99,42 +101,44 @@ modelo.addConstr(quicksum(partido_ijt[j, equipos[-2], t] for j in equipos) == ju
 
 for i in equipos:
     for t in fechas[1:]:
-        modelo.addConstr(quicksum(quicksum(partido_ijt[i,j,t-1] for j in equipos) + partido_ijt[i,k,t] for k in equipos) - len(equipos) <= incumple_itn[i,t,2])
-        modelo.addConstr(quicksum(quicksum(partido_ijt[j,i,t-1] for j in equipos) + partido_ijt[k,i,t] for k in equipos) - len(equipos)  <= incumple_itn[i,t,2])
+        modelo.addConstr(quicksum(quicksum(partido_ijt[i,j,t-1] for j in equipos) + partido_ijt[i,k,t] for k in equipos) - len(equipos) <= incumple_itn[i,t,2],
+                         name="R4_{}_{}".format(i, t))
+        modelo.addConstr(quicksum(quicksum(partido_ijt[j,i,t-1] for j in equipos) + partido_ijt[k,i,t] for k in equipos) - len(equipos)  <= incumple_itn[i,t,2],
+                         name="R4_{}_{}".format(i, t))
 
 # ---------------- HEURÍSTICAS -----------------------------------------------------------------------------------
 
 # Fuerza a incumplir el minimo de veces que se puede incumplir
 
-modelo.addConstr(quicksum(incumple_itn[i,t,2] for t in fechas for i in equipos) == len(equipos) -2)
+modelo.addConstr(quicksum(incumple_itn[i,t,2] for t in fechas for i in equipos) == len(equipos) -2, name= "RH")
 
 # Fuerza a no perjudicar al primer equipo de la lista de equipos
 
-modelo.addConstr(quicksum(incumple_itn[equipos[0],t,2] for t in fechas) == 0)
+modelo.addConstr(quicksum(incumple_itn[equipos[0],t,2] for t in fechas) == 0, name= "RH")
 
 # Fuerza a no perjudicar al penúltimo equipo de la lista de equipos
 
-modelo.addConstr(quicksum(incumple_itn[equipos[-2],t,2] for t in fechas) == 0)
+modelo.addConstr(quicksum(incumple_itn[equipos[-2],t,2] for t in fechas) == 0, name= "RH")
 
 # En la primera fecha es imposible incumplir la consideración 2
 
-modelo.addConstr(quicksum(incumple_itn[i,1,2] for i in equipos) == 0)
+modelo.addConstr(quicksum(incumple_itn[i,1,2] for i in equipos) == 0, name= "RH")
 
 # En fechas pares nunca se incumple la consideración, solo se incumple en fechas impares y 2 veces por fecha
 
-modelo.addConstr(quicksum(incumple_itn[i,2,2] for i in equipos) == 0)
-modelo.addConstr(quicksum(incumple_itn[i,3,2] for i in equipos) == 2)
-modelo.addConstr(quicksum(incumple_itn[i,4,2] for i in equipos) == 0)
-modelo.addConstr(quicksum(incumple_itn[i,5,2] for i in equipos) == 2)
-modelo.addConstr(quicksum(incumple_itn[i,6,2] for i in equipos) == 0)
-modelo.addConstr(quicksum(incumple_itn[i,7,2] for i in equipos) == 2)
-modelo.addConstr(quicksum(incumple_itn[i,8,2] for i in equipos) == 0)
-modelo.addConstr(quicksum(incumple_itn[i,9,2] for i in equipos) == 2)
-modelo.addConstr(quicksum(incumple_itn[i,10,2] for i in equipos) == 0)
-modelo.addConstr(quicksum(incumple_itn[i,11,2] for i in equipos) == 2)
-modelo.addConstr(quicksum(incumple_itn[i,12,2] for i in equipos) == 0)
-modelo.addConstr(quicksum(incumple_itn[i,13,2] for i in equipos) == 2)
-modelo.addConstr(quicksum(incumple_itn[i,14,2] for i in equipos) == 0)
+modelo.addConstr(quicksum(incumple_itn[i,2,2] for i in equipos) == 0, name= "RH")
+modelo.addConstr(quicksum(incumple_itn[i,3,2] for i in equipos) == 2, name= "RH")
+modelo.addConstr(quicksum(incumple_itn[i,4,2] for i in equipos) == 0, name= "RH")
+modelo.addConstr(quicksum(incumple_itn[i,5,2] for i in equipos) == 2, name= "RH")
+modelo.addConstr(quicksum(incumple_itn[i,6,2] for i in equipos) == 0, name= "RH")
+modelo.addConstr(quicksum(incumple_itn[i,7,2] for i in equipos) == 2, name= "RH")
+modelo.addConstr(quicksum(incumple_itn[i,8,2] for i in equipos) == 0, name= "RH")
+modelo.addConstr(quicksum(incumple_itn[i,9,2] for i in equipos) == 2, name= "RH")
+modelo.addConstr(quicksum(incumple_itn[i,10,2] for i in equipos) == 0, name= "RH")
+modelo.addConstr(quicksum(incumple_itn[i,11,2] for i in equipos) == 2, name= "RH")
+modelo.addConstr(quicksum(incumple_itn[i,12,2] for i in equipos) == 0, name= "RH")
+modelo.addConstr(quicksum(incumple_itn[i,13,2] for i in equipos) == 2, name= "RH")
+modelo.addConstr(quicksum(incumple_itn[i,14,2] for i in equipos) == 0, name= "RH")
 #---------------- Optimizar ---------------------------------------------------------------------------------
 modelo.Params.MIPFocus = 3 # Enfocarse en encontrar soluciones enteras más rápido
 modelo.optimize()
@@ -153,3 +157,14 @@ for i in modelo.getVars():
         else:
             out.write("\n" + s2 + "            1")
 out.close()
+
+#--------------- Slacks -------------------------------------------#
+slack0 = open("P1 - R Activas.txt",'w', encoding="utf-8")
+slack1 = open("P1 - R Inactivas.txt",'w', encoding="utf-8")
+for const in modelo.getConstrs():
+    if const.getAttr("slack") == 0.0:
+        slack0.write(str(const.getAttr("ConstrName")) + ", Holgura:" + str(const.getAttr("slack")) + "\n")
+    else:
+        slack1.write(str(const.getAttr("ConstrName")) + ", Holgura:" + str(const.getAttr("slack")) + "\n")
+slack0.close()
+slack1.close()

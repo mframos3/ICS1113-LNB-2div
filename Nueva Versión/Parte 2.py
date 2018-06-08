@@ -49,7 +49,10 @@ for a in arbitros:
         disponible[a,t] = 1
 
 peso_n = {}       # Parámetro que indica los pesos de las consideraciones en la función objetivo
-for n in N:    # Por el momento está en 1, es decir todas las consideraciones son igual de importantes
+for n in N:
+    if n == 3:
+        peso_n[n] = 1
+    else:
         peso_n[n] = 1
 # ----------------------------------- VARIABLES -----------------------------------------------------------
 # Se añade la variable que indica si el árbitro arbitra un partido en una determinada fecha
@@ -65,7 +68,10 @@ z_ain = {}
 for a in arbitros:
     for i in equipos:
         for n in N:
-            z_ain[a,i,n] = modelo.addVar(vtype=GRB.INTEGER,name="z_ain_{}_{}_{}".format(a,i,n))
+            if n == 3:
+                z_ain[a, i, n] = modelo.addVar(vtype=GRB.BINARY, name="z_ain_{}_{}_{}".format(a, i, n))
+            else:
+                z_ain[a,i,n] = modelo.addVar(vtype=GRB.INTEGER,name="z_ain_{}_{}_{}".format(a,i,n))
 
 modelo.update()
 # ------------------------------------------------ FUNCIÓN OBJETIVO -------------------------------------------------------------------
@@ -95,12 +101,12 @@ for i in equipos:
 
 for a in arbitros:
     for i in partidos:
-        modelo.addConstr(w_aijt[a,i[0],i[1],i[2]] + w_aijt[a,i[1],i[0],i[2]]-1<=z_ain[a,i[0],3])
+        modelo.addConstr(w_aijt[a, i[0], i[1], i[2]] + quicksum(w_aijt[a, i[1], i[0], t] for t in fechas) - 1 <= z_ain[a, i[0], 3])
 
 # R4 (Representa el incumplimiento de la consideración 4)
 for a in arbitros:
     for i in equipos:
-        modelo.addConstr(quicksum(w_aijt[a,i,j,t] + w_aijt[a,j,i,t] for j in equipos for t in fechas)-1<=z_ain[a,i,4])
+        modelo.addConstr(quicksum(w_aijt[a,i,j,t] + w_aijt[a,j,i,t] for j in equipos for t in fechas) - 1 <=z_ain[a,i,4])
 
 #---------------- Optimizar ------------------------------------------------------------------------
 modelo.Params.MIPFocus = 3
